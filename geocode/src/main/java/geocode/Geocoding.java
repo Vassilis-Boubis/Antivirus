@@ -1,7 +1,6 @@
 package geocode;
 
-import org.slf4j.impl.StaticLoggerBinder;
-//import org.slf4j.impl.StaticLoggerBinder;
+import java.util.Scanner;
 
 import com.byteowls.jopencage.JOpenCageGeocoder;
 import com.byteowls.jopencage.model.JOpenCageForwardRequest;
@@ -12,40 +11,85 @@ public class Geocoding {
 
 	public double[] search(String adress) {
 
-		JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("f3f9c6b869de4117ae7fd321aaea815d");
-		JOpenCageForwardRequest request = new JOpenCageForwardRequest(adress);
-		request.setRestrictToCountryCode("gr"); // restrict results to a specific country
-		request.setBounds(23.27728,37.63294,24.15948,38.20711); // restrict results to a
-		// geographic bounding box (southWestLng, southWestLat, northEastLng,northEastLat)
+	public double[] search(String address) {
 
-		JOpenCageResponse response = jOpenCageGeocoder.forward(request);
-		JOpenCageLatLng firstResultLatLng = response.getFirstPosition(); // get the coordinate pair of the first result
+		Scanner input = new Scanner(System.in);
 
-		double lat = firstResultLatLng.getLat();
-		double lng = firstResultLatLng.getLng();
-		double coord[] = new double[] { lat, lng };
 
-		return coord;
+		while(true) {
+
+
+			JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("f3f9c6b869de4117ae7fd321aaea815d");
+			JOpenCageForwardRequest request = new JOpenCageForwardRequest(address);
+
+			request.setRestrictToCountryCode("gr");
+			request.setBounds(23.27728,37.63294,24.15948,38.20711);
+
+			JOpenCageResponse response = jOpenCageGeocoder.forward(request);
+			JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
+
+
+			try {
+
+				double lat = firstResultLatLng.getLat();
+				double lng = firstResultLatLng.getLng();
+				double coord[] = new double[] { lat, lng };
+				return coord;
+
+			} catch(NullPointerException e) {
+
+				System.err.println("The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
+				address = input.nextLine();
+
+			}
+		}
+
+
+
+
 	}
 
-	public double[] search(String adress, String apiKey) {
+	public double[] search(String address, String apiKey) {
 
-		JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder(apiKey);
-		JOpenCageForwardRequest request = new JOpenCageForwardRequest(adress);
-		request.setRestrictToCountryCode("gr"); // restrict results to a specific country
-		request.setBounds(23.27728,37.63294,24.15948,38.20711); // restrict results to a
-		// geographic bounding box (southWestLng, southWestLat, northEastLng,northEastLat)
+		Scanner input = new Scanner(System.in);
 
-		JOpenCageResponse response = jOpenCageGeocoder.forward(request);
-		JOpenCageLatLng firstResultLatLng = response.getFirstPosition(); // get the coordinate pair of the first result
 
-		double lat = firstResultLatLng.getLat();
-		double lng = firstResultLatLng.getLng();
-		double coord[] = new double[] { lat, lng };
+		while(true) {
 
-		return coord;
+
+			JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder(apiKey);
+			JOpenCageForwardRequest request = new JOpenCageForwardRequest(address);
+
+			request.setRestrictToCountryCode("gr");
+			request.setBounds(23.27728,37.63294,24.15948,38.20711);
+
+			JOpenCageResponse response = jOpenCageGeocoder.forward(request);
+			JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
+
+
+			try {
+
+				double lat = firstResultLatLng.getLat();
+				double lng = firstResultLatLng.getLng();
+				double coord[] = new double[] { lat, lng };
+				return coord;
+
+			} catch(NullPointerException e) {
+
+				System.err.println("The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
+				address = input.nextLine();
+
+			}
+		}
+
+
 	}
-	
+
+
+
+
+
+
+
 
 }
-
