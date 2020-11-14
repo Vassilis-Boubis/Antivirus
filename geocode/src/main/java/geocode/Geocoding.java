@@ -9,24 +9,20 @@ import com.byteowls.jopencage.model.JOpenCageResponse;
 
 public class Geocoding {
 
-
 	public double[] search(String address) {
 
 		Scanner input = new Scanner(System.in);
 
-
-		while(true) {
-
+		while (true) {
 
 			JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("f3f9c6b869de4117ae7fd321aaea815d");
 			JOpenCageForwardRequest request = new JOpenCageForwardRequest(address);
 
 			request.setRestrictToCountryCode("gr");
-			request.setBounds(23.27728,37.63294,24.15948,38.20711);
+			request.setBounds(23.27728, 37.63294, 24.15948, 38.20711);
 
 			JOpenCageResponse response = jOpenCageGeocoder.forward(request);
 			JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
-
 
 			try {
 
@@ -35,16 +31,14 @@ public class Geocoding {
 				double coord[] = new double[] { lat, lng };
 				return coord;
 
-			} catch(NullPointerException e) {
+			} catch (NullPointerException e) {
 
-				System.err.println("The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
+				System.err.println(
+						"The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
 				address = input.nextLine();
 
 			}
 		}
-
-
-
 
 	}
 
@@ -52,19 +46,16 @@ public class Geocoding {
 
 		Scanner input = new Scanner(System.in);
 
-
-		while(true) {
-
+		while (true) {
 
 			JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder(apiKey);
 			JOpenCageForwardRequest request = new JOpenCageForwardRequest(address);
 
 			request.setRestrictToCountryCode("gr");
-			request.setBounds(23.27728,37.63294,24.15948,38.20711);
+			request.setBounds(23.27728, 37.63294, 24.15948, 38.20711);
 
 			JOpenCageResponse response = jOpenCageGeocoder.forward(request);
 			JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
-
 
 			try {
 
@@ -73,22 +64,15 @@ public class Geocoding {
 				double coord[] = new double[] { lat, lng };
 				return coord;
 
-			} catch(NullPointerException e) {
+			} catch (NullPointerException e) {
 
-				System.err.println("The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
+				System.err.println(
+						"The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
 				address = input.nextLine();
 
 			}
 		}
 
-
 	}
-
-
-
-
-
-
-
 
 }

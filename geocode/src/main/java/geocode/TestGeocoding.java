@@ -4,10 +4,9 @@ import java.util.Scanner;
 
 public class TestGeocoding {
 
-	public static void main (String args[]) {
+	public static void main(String args[]) {
 
 		Geocoding test = new Geocoding();
-
 
 		Scanner input = new Scanner(System.in);
 
@@ -19,10 +18,6 @@ public class TestGeocoding {
 
 		System.out.println("Latitude: " + coords[0] + "\nLongtitude: " + coords[1]);
 
-
 	}
 
-
 }
-
-
