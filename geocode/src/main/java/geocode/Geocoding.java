@@ -1,4 +1,4 @@
-package antivirusJOC;
+package geocode;
 
 import org.slf4j.impl.StaticLoggerBinder;
 //import org.slf4j.impl.StaticLoggerBinder;
@@ -10,7 +10,7 @@ import com.byteowls.jopencage.model.JOpenCageResponse;
 
 public class Geocoding {
 
-	public double[] geocoding(String adress) {
+	public double[] search(String adress) {
 
 		JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("f3f9c6b869de4117ae7fd321aaea815d");
 		JOpenCageForwardRequest request = new JOpenCageForwardRequest(adress);
@@ -28,7 +28,7 @@ public class Geocoding {
 		return coord;
 	}
 
-	public double[] geocoding(String adress, String apiKey) {
+	public double[] search(String adress, String apiKey) {
 
 		JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder(apiKey);
 		JOpenCageForwardRequest request = new JOpenCageForwardRequest(adress);
@@ -45,6 +45,7 @@ public class Geocoding {
 
 		return coord;
 	}
+	
 
 }
 
