@@ -17,7 +17,7 @@ public class Test {
 
 		coords = test.search(user);
 
-		System.out.println(coords[0]);
+		System.out.println("Latitude: " + coords[0] + "\nLongtitude: " + coords[1]);
 
 
 	}
