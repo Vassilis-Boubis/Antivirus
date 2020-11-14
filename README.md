@@ -1,4 +1,4 @@
-!! See class-path-for-antvirusGC's folder README file !!
+!! See class-path-for-antvirusGC folder's README file !!
 
 
 
