@@ -35,6 +35,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/anast/repositories/Antivirus/class-path-antivirusGC/slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anast/repositories/antivirusProject/Antivirus/class-path-antivirusGC/slf4j-simple-1.7.30.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

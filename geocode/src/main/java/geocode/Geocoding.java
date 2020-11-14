@@ -1,7 +1,4 @@
-package antivirusJOC;
-
-import org.slf4j.impl.StaticLoggerBinder;
-//import org.slf4j.impl.StaticLoggerBinder;
+package geocode;
 
 import com.byteowls.jopencage.JOpenCageGeocoder;
 import com.byteowls.jopencage.model.JOpenCageForwardRequest;
@@ -10,10 +7,22 @@ import com.byteowls.jopencage.model.JOpenCageResponse;
 
 public class Geocoding {
 
-	public double[] geocoding(String adress) {
+
+
+	/* For future reference
+	ArrayList<String> addressList = new ArrayList<String>();
+	ArrayList<Double> latList = new ArrayList<Double>();
+	ArrayList<Double> longList = new ArrayList<Double>();
+	int index = 0;
+	*/
+
+
+
+
+	public double[] search(String address) {
 
 		JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("f3f9c6b869de4117ae7fd321aaea815d");
-		JOpenCageForwardRequest request = new JOpenCageForwardRequest(adress);
+		JOpenCageForwardRequest request = new JOpenCageForwardRequest(address);
 		request.setRestrictToCountryCode("gr"); // restrict results to a specific country
 		request.setBounds(23.27728,37.63294,24.15948,38.20711); // restrict results to a
 		// geographic bounding box (southWestLng, southWestLat, northEastLng,northEastLat)
@@ -28,10 +37,10 @@ public class Geocoding {
 		return coord;
 	}
 
-	public double[] geocoding(String adress, String apiKey) {
+	public double[] search(String address, String apiKey) {
 
 		JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder(apiKey);
-		JOpenCageForwardRequest request = new JOpenCageForwardRequest(adress);
+		JOpenCageForwardRequest request = new JOpenCageForwardRequest(address);
 		request.setRestrictToCountryCode("gr"); // restrict results to a specific country
 		request.setBounds(23.27728,37.63294,24.15948,38.20711); // restrict results to a
 		// geographic bounding box (southWestLng, southWestLat, northEastLng,northEastLat)
@@ -45,6 +54,12 @@ public class Geocoding {
 
 		return coord;
 	}
+
+
+
+
+
+
 
 }
 
