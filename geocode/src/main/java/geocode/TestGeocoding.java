@@ -2,7 +2,7 @@ package geocode;
 
 import java.util.Scanner;
 
-public class Test {
+public class TestGeocoding {
 
 	public static void main (String args[]) {
 

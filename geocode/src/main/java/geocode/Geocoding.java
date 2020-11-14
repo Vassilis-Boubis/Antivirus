@@ -9,7 +9,6 @@ import com.byteowls.jopencage.model.JOpenCageResponse;
 
 public class Geocoding {
 
-	public double[] search(String adress) {
 
 	public double[] search(String address) {
 
