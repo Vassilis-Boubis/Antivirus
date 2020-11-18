@@ -1,6 +1,6 @@
 package geocode;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 import com.byteowls.jopencage.JOpenCageGeocoder;
 import com.byteowls.jopencage.model.JOpenCageForwardRequest;
