@@ -14,8 +14,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.*;
-import java.awt.Graphics;
-import java.awt.ScrollPane;
+
 
 
 
@@ -27,20 +26,18 @@ public class HomePage {
 	private JTextArea prevention;
 	private JTextArea treatments;
 	private ImageIcon image = new ImageIcon(getClass().getResource("e9ebee.png"));
-	private JLabel focus;
 	private ImageIcon image2 = new ImageIcon(getClass().getResource("ffffff.png"));
-	private JLabel blue ;
 	private ImageIcon image3 = new ImageIcon(getClass().getResource("0066ff.png"));
 	private ImageIcon image4 = new ImageIcon(getClass().getResource("F7F7F7.png"));
 	private ImageIcon logo = new ImageIcon(getClass().getResource("logo.jpeg"));
 	private JLabel logol;
 	private ImageIcon map = new ImageIcon(getClass().getResource("map.png"));
 	private JLabel mapl;
-	private JButton homeb ;
+	private JButton homeb;
 	private JLabel home;
-	private JButton aboutb ;
+	private JButton aboutb;
 	private JLabel about;
-	private JButton contactb ;
+	private JButton contactb;
 	private JLabel contact;
 	private JTextField search;
 	private ImageIcon gs = new ImageIcon(getClass().getResource("search.png"));
@@ -85,12 +82,6 @@ public class HomePage {
 		
 		
 		// Home button creation
-		focus = new JLabel();
-		focus.setIcon(image2);
-		focus.setBounds(0, 245, 280, 40);
-		blue = new JLabel();
-		blue.setIcon(image3);
-		blue.setBounds(0, 245, 5, 40);
 		homeb = new JButton("HOME");
 		homeb.setIcon(image2);
 		home = new JLabel("HOME");
@@ -98,9 +89,7 @@ public class HomePage {
 		home.setForeground(new Color(16, 44, 86));
 		homeb.setBounds(120, 250, 70, 30);
 		homeb.add(home);
-		panel.add(blue);
 		panel.add(homeb);
-		panel.add(focus);
 	
 		
 		
@@ -201,7 +190,7 @@ public class HomePage {
 			public void actionPerformed(ActionEvent e) {
 					
 					String action = e.getActionCommand();
-					MasterCtrl.uiHandler(action);
+					uiHandler(action);
 				
 			}
 		});
@@ -228,7 +217,7 @@ public class HomePage {
 			public void actionPerformed(ActionEvent e) {
 					
 					String action = e.getActionCommand();
-					MasterCtrl.uiHandler(action);
+					uiHandler(action);
 				
 			}
 		});
@@ -247,7 +236,7 @@ public class HomePage {
 			public void actionPerformed(ActionEvent e) {
 					
 					String action = e.getActionCommand();
-					MasterCtrl.uiHandler(action);
+					uiHandler(action);
 				
 			}
 		});
@@ -366,6 +355,44 @@ public class HomePage {
 	}
 	
 	
+	public void uiHandler(String action) {
+		
+		switch (action) {
+		
+		case "Prevention" :
+							
+							sp2.setVisible(true);
+							blue2.setBounds(1130, 220, 50, 3);
+							sp.setVisible(false);
+							sp3.setVisible(false);
+							break;
+							
+		case "Symptoms" :
+			
+							sp.setVisible(true);
+							blue2.setBounds(1020, 220, 50, 3);
+							sp2.setVisible(false);
+							sp3.setVisible(false);
+							break;
+							
+		case "Treatments" :
+							
+							sp3.setVisible(true);
+							blue2.setBounds(1240, 220, 50, 3);
+							sp2.setVisible(false);
+							sp.setVisible(false);
+							break;
+		}
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
 	
 	/**
 	 * @return the frame
@@ -374,53 +401,6 @@ public class HomePage {
 		return frame;
 	}
 
-
-
-
-	/**
-	 * @return the blue2
-	 */
-	public JLabel getBlue2() {
-		return blue2;
-	}
-
-
-
-
-
-
-
-
-
-	/**
-	 * @return the sp
-	 */
-	public JScrollPane getSp() {
-		return sp;
-	}
-
-
-
-
-
-
-	/**
-	 * @return the sp2
-	 */
-	public JScrollPane getSp2() {
-		return sp2;
-	}
-
-
-
-
-
-	/**
-	 * @return the sp3
-	 */
-	public JScrollPane getSp3() {
-		return sp3;
-	}
 
 
 
