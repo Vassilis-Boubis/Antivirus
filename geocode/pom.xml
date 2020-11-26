@@ -22,14 +22,6 @@
     <version>1.7.30</version>
 </dependency>
 
-
-<dependency>
-    <groupId>com.mapbox.mapboxsdk</groupId>
-    <artifactId>mapbox-sdk-services</artifactId>
-    <version>5.6.0</version>
-</dependency>
-
-
 <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
