@@ -58,7 +58,7 @@ public class TestGeoMap {
 
 		location = input.nextLine();
 
-		input.close();
+
 
 		return location;
 	}
