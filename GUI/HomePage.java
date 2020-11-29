@@ -273,6 +273,7 @@ public class HomePage {
 		
 		symptoms = new JTextArea(text1);
 		symptoms.setBounds(1005, 200, 370, 450);
+		symptoms.setEditable(false);
 		symptoms.setFont(new Font("Arial", Font.PLAIN, 12));
 		sp = new JScrollPane(symptoms);   //Ability to scroll
 		sp.setBounds(1015, 258, 365, 430);
@@ -305,6 +306,7 @@ public class HomePage {
 		
 		prevention = new JTextArea(text2);
 		prevention.setBounds(1005, 200, 370, 450);
+		prevention.setEditable(false);
 		prevention.setFont(new Font("Arial", Font.PLAIN, 12));
 		sp2 = new JScrollPane(prevention);   //Ability to scroll
 		sp2.setBounds(1015, 258, 365, 430);
@@ -334,6 +336,7 @@ public class HomePage {
 		
 		treatments = new JTextArea(text3);
 		treatments.setBounds(1005, 200, 370, 450);
+		treatments.setEditable(false);
 		treatments.setFont(new Font("Arial", Font.PLAIN, 12));
 		sp3 = new JScrollPane(treatments);   //Ability to scroll
 		sp3.setBounds(1015, 258, 365, 430);
@@ -405,12 +408,7 @@ public class HomePage {
 
 
 
-//	public static void main(String[] args) {
-//		
-//		HomePage obj = new HomePage();
-//		obj.makePage();
-//		
-//	}
+
 
 }
 

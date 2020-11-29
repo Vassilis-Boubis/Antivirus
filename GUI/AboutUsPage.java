@@ -43,7 +43,6 @@ public class AboutUsPage {
 	private JLabel  faqs;
 	private ImageIcon image4 = new ImageIcon(getClass().getResource("F7F7F7.png"));
 	private JTextArea whoAreWe;
-	private JTextArea howItWorks;
 	private JTextArea faq;
 	private JScrollPane sp;   //Scrollpanels
 	private JScrollPane sp2;
@@ -55,6 +54,8 @@ public class AboutUsPage {
 	private ImageIcon faqsimg = new ImageIcon(getClass().getResource("faqs.jpeg"));
 	private JLabel body;
 	
+	private ImageIcon hiwcontent = new ImageIcon(getClass().getResource("hiwimg.002.jpeg"));
+	private JLabel hiwbody;
 	
 	
 	
@@ -117,6 +118,16 @@ public class AboutUsPage {
 		contactb.setBounds(120, 350, 100, 30);
 		contactb.add(contact);
 		panel.add(contactb);
+		contactb.addActionListener(new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+					
+					String action = e.getActionCommand();
+					MasterCtrl.pageHandler(action);
+				
+			}
+		});
 		
 		
 		
@@ -199,21 +210,28 @@ public class AboutUsPage {
 		
 		String text1;
 		
-		text1 = "\n\nWe are DETechtives, a team of seven Management Science and Technology\n"
-				+ "students of the Athens University of Economics and Business. We created\n"
-				+ "Antivirus for our Programming II course for Professor Diomidis Spinellis.\n\n\n\n"
-				+ "Antivirus is an analytics tools, which was created to serve greek citizens in their daily exits.\n"
-				+ "After quarantine, people want to go out with their favourite people to visit a restaurant,\n"
-				+ "go for a drink or enjoy the numerous sights of their city.\n\n"
-				+ "Unfortunately, COVID-19 has not allowed them to do it safely or at least... with full conciousness!\n"
-				+ "And that's because people did not an actual 'picture' of the danger level of the places they consider visiting.\n\n\n"
-				+ "Antivirus comes to solve this problem! With our platform, you are only one click away from the risk level of the places you want to visit";
-		
+		text1 =" \n\n    Who Are We?\n\n\n"
+				+ "Formed for a university project, with an ambitious vision to make the daily life \n"
+				+ "of Greek citizens safer during a worldwide crisis caused by the pandemic of COVID-19, \n"
+				+ "we are DETecthives. \n\n\nInformation at these challenging times is being spread at an erratic\n"
+				+ " amount. People are not always fully informed or cannot always keep up with the news. But \n"
+				+ "information at these dangerous times can be a lifesaver  (ex. Avoiding a place with many recent COVID-19 cases).\n\n\n"
+				+ "Our goal? \n\nSimple and practical at the same time. We want to give citizens a way to know how \n"
+				+ "safe they are from being infected by the COVID-19 virus only by entering the destination they \n"
+				+ "are headed to. \n\nIt is about time to introduce you to Antivirus, our application that by collecting \n"
+				+ "verified data, can inform each citizen about the level of dangerousness their desired destination \n"
+				+ "has in a 1 km. radius. We always want to keep improving our algorithm to bring to the people as accurate \n"
+				+ "information as possible. \n\nWe work hard towards the implementation of an AI algorithm so we can be able to prevent future COVID-19 \n"
+				+ "hotspots from existing. \n\nOur team consists of seven students, from the Department of Management of Science \n"
+				+ "and Technology in the Athens University of Business and Economics, with mutual love for coding and trying to \n"
+				+ "be helpful to our fellow citizens during a trying period. The idea of the application incepted from the group \n"
+				+ "project we were tasked to do from our professor, Diomidis Spinellis in the course of Programming II.\n\n\n";
 		
 		
 		
 		whoAreWe = new JTextArea(text1);
 		whoAreWe.setFont(new Font("Arial", Font.PLAIN, 14));
+		whoAreWe.setEditable(false);
 		sp = new JScrollPane(whoAreWe);   //Ability to scroll
 		sp.setBounds(550, 300, 600, 430);
 		sp.setBorder(BorderFactory.createEmptyBorder());
@@ -230,14 +248,11 @@ public class AboutUsPage {
 		
 		
 		
+		hiwbody = new JLabel();
+		hiwbody.setIcon(hiwcontent);	
 		
-		String text2 = "How it works!!!!!";
-		
-		
-		howItWorks = new JTextArea(text2);
-		howItWorks.setFont(new Font("Arial", Font.PLAIN, 12));
-		sp2 = new JScrollPane(howItWorks);   //Ability to scroll
-		sp2.setBounds(550, 300, 600, 430);
+		sp2 = new JScrollPane(hiwbody); //Ability to scroll
+		sp2.setBounds(550, 300, 620, 430);
 		sp2.setBorder(BorderFactory.createEmptyBorder());
 		sp2.setVisible(false);
 		panel.add(sp2);
