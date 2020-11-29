@@ -28,7 +28,7 @@ public class MapDisplay {
         GeoPosition position = new GeoPosition(lat, lng);
 
         // Zoom set to 3.
-        mapViewer.setZoom(4);
+        mapViewer.setZoom(1);
 
         mapViewer.setAddressLocation(position);
 
