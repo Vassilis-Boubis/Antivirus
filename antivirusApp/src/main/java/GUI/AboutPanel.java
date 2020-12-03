@@ -5,14 +5,7 @@ import java.awt.Graphics;
 
 import javax.swing.JPanel;
 
-/**
- *
- */
 
-/**
- * @author dimitrispapakyriakopoylos
- *
- */
 public class AboutPanel extends JPanel {
 
 

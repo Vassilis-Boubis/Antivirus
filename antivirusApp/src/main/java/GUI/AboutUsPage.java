@@ -15,14 +15,7 @@ import javax.swing.JLabel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-/**
- *
- */
 
-/**
- * @author dimitrispapakyriakopoylos
- *
- */
 public class AboutUsPage {
 
 	private JFrame frame;

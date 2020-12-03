@@ -13,14 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-/**
- *
- */
 
-/**
- * @author dimitrispapakyriakopoylos
- *
- */
 public class WelcomePage {
 
 	private JFrame frame;

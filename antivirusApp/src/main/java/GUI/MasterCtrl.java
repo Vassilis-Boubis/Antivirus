@@ -1,15 +1,5 @@
 package GUI;
 
-/**
- *
- */
-
-/**
- * @author dimitrispapakyriakopoylos
- *
- */
-
-
 
 
 public class MasterCtrl  {

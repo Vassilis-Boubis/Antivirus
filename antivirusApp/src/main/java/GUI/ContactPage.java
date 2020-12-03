@@ -14,14 +14,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-/**
- *
- */
 
-/**
- * @author dimitrispapakyriakopoylos
- *
- */
 public class ContactPage {
 
 
