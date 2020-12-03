@@ -21,11 +21,12 @@ public class Geocoding {
 			request.setRestrictToCountryCode("gr");
 			request.setBounds(23.27728, 37.63294, 24.15948, 38.20711);
 
-			JOpenCageResponse response = jOpenCageGeocoder.forward(request);
-			JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
+
 
 			try {
 
+				JOpenCageResponse response = jOpenCageGeocoder.forward(request);
+				JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
 				double lat = firstResultLatLng.getLat();
 				double lng = firstResultLatLng.getLng();
 				double coord[] = new double[] { lat, lng };
@@ -54,11 +55,12 @@ public class Geocoding {
 			request.setRestrictToCountryCode("gr");
 			request.setBounds(23.27728, 37.63294, 24.15948, 38.20711);
 
-			JOpenCageResponse response = jOpenCageGeocoder.forward(request);
-			JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
+
 
 			try {
 
+				JOpenCageResponse response = jOpenCageGeocoder.forward(request);
+				JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
 				double lat = firstResultLatLng.getLat();
 				double lng = firstResultLatLng.getLng();
 				double coord[] = new double[] { lat, lng };
