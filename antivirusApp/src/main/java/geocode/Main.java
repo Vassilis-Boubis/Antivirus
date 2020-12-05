@@ -5,12 +5,12 @@ public class Main {
 	public static void main(String[] args) {
 
 		Geocoding g = new Geocoding();
-		double a[] = g.search("Αγίας Παρασκευής 66β,16777");
+		double a[] = g.getCoordinates("Αγίας Παρασκευής 66β,16777");
 		System.out.println(a[0]);
 		System.out.println(a[1]);
 
 		Geocoding z = new Geocoding();
-		double v[] = z.search("Αλίμου 10 17455");
+		double v[] = z.getCoordinates("Αλίμου 10 17455");
 		System.out.println(v[0]);
 		System.out.println(v[1]);
 

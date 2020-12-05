@@ -9,7 +9,7 @@ import com.byteowls.jopencage.model.JOpenCageResponse;
 
 public class Geocoding {
 
-	public double[] search(String address) {
+	public double[] getCoordinates(String address) {
 
 		Scanner input = new Scanner(System.in);
 
@@ -43,7 +43,7 @@ public class Geocoding {
 
 	}
 
-	public double[] search(String address, String apiKey) {
+	public double[] getCoordinates(String address, String apiKey) {
 
 		Scanner input = new Scanner(System.in);
 
