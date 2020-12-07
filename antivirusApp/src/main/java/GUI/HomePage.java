@@ -71,8 +71,7 @@ public class HomePage {
 
 		// Set the frame to be appeared always in the center of the screen, regardless monitor
 		Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
-		frame.setLocation(dim.width/2-frame.getSize().width/2, dim.height/2-frame.getSize().height);
-
+		frame.setLocation(dim.width / 2 - frame.getSize().width / 2, dim.height - 950);
 
 
 
