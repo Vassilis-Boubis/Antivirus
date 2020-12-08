@@ -10,7 +10,7 @@ public class Square {
 	 * If you sum 0,009 and latitude, you will go 1km to north and if you sum 0,012 and longitude you will go 1km to east
 	 * With this logic we are able to find the bounds of the square that has sides of 1km and center the inserted coordinates.
 	 */
-	public static double[][] square(double[] table) {
+	public static double[][] getCoordinates(double[] table) {
 
 		coords[0][0]=table[0]+0.009;
 		coords[0][1]=table[1]-0.012;
