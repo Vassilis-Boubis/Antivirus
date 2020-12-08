@@ -39,7 +39,7 @@ public class TestGeoMap {
 
         JXMapViewer mapViewer = new JXMapViewer();
 
-        ping = geo.search(location);
+        ping = geo.getCoordinates(location);
 
         mapViewer = showMap.create(ping[0], ping[1]);
 
