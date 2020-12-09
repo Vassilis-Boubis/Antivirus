@@ -77,9 +77,10 @@ public class AboutUsPage {
 		homeb = new JButton("HOME");
 		homeb.setIcon(backgroundColor);
 		home = new JLabel("HOME");
-		home.setFont(new Font("Helvectiva", Font.BOLD,16));
+		home.setFont(new Font("Helvectiva", Font.BOLD,12));
 		home.setForeground(new Color(16, 44, 86));
 		homeb.setBounds(120, 250, 70, 30);
+		homeb.setSize(100, 35);
 		homeb.add(home);
 		panel.add(homeb);
 		homeb.addActionListener(new ActionListener() {
@@ -97,9 +98,10 @@ public class AboutUsPage {
 		aboutb = new JButton("ABOUT US");
 		aboutb.setIcon(white);
 		about = new JLabel("ABOUT US");
-		about.setFont(new Font("Helvectiva", Font.BOLD,16));
+		about.setFont(new Font("Helvectiva", Font.BOLD,12));
 		about.setForeground(new Color(16, 44, 86));
 		aboutb.setBounds(120, 300, 100, 30);
+		aboutb.setSize(100, 35);
 		aboutb.add(about);
 		panel.add(aboutb);
 
@@ -108,9 +110,10 @@ public class AboutUsPage {
 		contactb = new JButton("CONTACT");
 		contactb.setIcon(backgroundColor);
 		contact = new JLabel("CONTACT");
-		contact.setFont(new Font("Helvectiva", Font.BOLD,16));
+		contact.setFont(new Font("Helvectiva", Font.BOLD,12));
 		contact.setForeground(new Color(16, 44, 86));
 		contactb.setBounds(120, 350, 100, 30);
+		contactb.setSize(100, 35);
 		contactb.add(contact);
 		panel.add(contactb);
 		contactb.addActionListener(new ActionListener() {
@@ -141,7 +144,7 @@ public class AboutUsPage {
 		wawb = new JButton("Who Are We");
 		wawb.setIcon(image4);
 		waw = new JLabel("Who Are We");
-		waw.setFont(new Font("Helvectiva", Font.BOLD, 14));
+		waw.setFont(new Font("Helvectiva", Font.BOLD, 12));
 		waw.setForeground(new Color(16, 44, 86));
 		wawb.add(waw);
 		wawb.setBounds(380, 300, 110, 30);
@@ -162,7 +165,7 @@ public class AboutUsPage {
 		hiwb = new JButton("How It Works");
 		hiwb.setIcon(image4);
 		hiw = new JLabel("How It Works");
-		hiw.setFont(new Font("Helvectiva", Font.BOLD, 14));
+		hiw.setFont(new Font("Helvectiva", Font.BOLD, 12));
 		hiw.setForeground(new Color(16, 44, 86));
 		hiwb.add(hiw);
 		hiwb.setBounds(380, 360, 120, 30);
@@ -182,7 +185,7 @@ public class AboutUsPage {
 		faqsb = new JButton("FAQs");
 		faqsb.setIcon(image4);
 		faqs = new JLabel("FAQs");
-		faqs.setFont(new Font("Helvectiva", Font.BOLD, 14));
+		faqs.setFont(new Font("Helvectiva", Font.BOLD, 12));
 		faqs.setForeground(new Color(16, 44, 86));
 		faqsb.add(faqs);
 		faqsb.setBounds(380, 420, 120, 30);

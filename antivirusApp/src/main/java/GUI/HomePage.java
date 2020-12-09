@@ -85,9 +85,10 @@ public class HomePage {
 		homeb = new JButton("HOME");
 		homeb.setIcon(image2);
 		home = new JLabel("HOME");
-		home.setFont(new Font("Helvectiva", Font.BOLD,16));
+		home.setFont(new Font("Helvectiva", Font.BOLD,12));
 		home.setForeground(new Color(16, 44, 86));
 		homeb.setBounds(120, 250, 70, 30);
+		homeb.setSize(100, 35);
 		homeb.add(home);
 		panel.add(homeb);
 
@@ -98,9 +99,10 @@ public class HomePage {
 		aboutb = new JButton("ABOUT US");
 		aboutb.setIcon(image);
 		about = new JLabel("ABOUT US");
-		about.setFont(new Font("Helvectiva", Font.BOLD,16));
+		about.setFont(new Font("Helvectiva", Font.BOLD,12));
 		about.setForeground(new Color(16, 44, 86));
 		aboutb.setBounds(120, 300, 100, 30);
+		aboutb.setSize(100, 35);
 		aboutb.add(about);
 		panel.add(aboutb);
 		aboutb.addActionListener(new ActionListener() {
@@ -120,9 +122,10 @@ public class HomePage {
 		contactb = new JButton("CONTACT");
 		contactb.setIcon(image);
 		contact = new JLabel("CONTACT");
-		contact.setFont(new Font("Helvectiva", Font.BOLD,16));
+		contact.setFont(new Font("Helvectiva", Font.BOLD,12));
 		contact.setForeground(new Color(16, 44, 86));
 		contactb.setBounds(120, 350, 100, 30);
+		contactb.setSize(100, 35);
 		contactb.add(contact);
 		panel.add(contactb);
 		contactb.addActionListener(new ActionListener() {
@@ -179,7 +182,7 @@ public class HomePage {
 		widg1b = new JButton("Symptoms");
 		widg1b.setIcon(image4);
 		widg1 = new JLabel("Symptoms");
-		widg1.setFont(new Font("Helvectiva", Font.BOLD, 14));
+		widg1.setFont(new Font("Helvectiva", Font.BOLD, 12));
 		widg1.setForeground(new Color(16, 44, 86));
 		widg1b.add(widg1);
 		widg1b.setBounds(1010, 185, 95, 30);
@@ -206,7 +209,7 @@ public class HomePage {
 		widg2b = new JButton("Prevention");
 		widg2b.setIcon(image4);
 		widg2 = new JLabel("Prevention");
-		widg2.setFont(new Font("Helvectiva", Font.BOLD, 14));
+		widg2.setFont(new Font("Helvectiva", Font.BOLD, 12));
 		widg2.setForeground(new Color(16, 44, 86));
 		widg2b.add(widg2);
 		widg2b.setBounds(1120, 185, 95, 30);
@@ -225,7 +228,7 @@ public class HomePage {
 		widg3b = new JButton("Treatments");
 		widg3b.setIcon(image4);
 		widg3 = new JLabel("Treatments");
-		widg3.setFont(new Font("Helvectiva", Font.BOLD, 14));
+		widg3.setFont(new Font("Helvectiva", Font.BOLD, 12));
 		widg3.setForeground(new Color(16, 44, 86));
 		widg3b.add(widg3);
 		widg3b.setBounds(1230, 185, 100, 30);
