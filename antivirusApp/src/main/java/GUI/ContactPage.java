@@ -169,7 +169,7 @@ public class ContactPage {
 		homeb = new JButton("HOME");
 		homeb.setIcon(backgroundColor);
 		home = new JLabel("HOME");
-		home.setFont(new Font("Helvectiva", Font.BOLD,16));
+		home.setFont(new Font("Helvectiva", Font.BOLD,12));
 		home.setForeground(new Color(16, 44, 86));
 		homeb.setBounds(120, 250, 70, 30);
 		homeb.add(home);
@@ -192,7 +192,7 @@ public class ContactPage {
 		aboutb = new JButton("ABOUT US");
 		aboutb.setIcon(backgroundColor);
 		about = new JLabel("ABOUT US");
-		about.setFont(new Font("Helvectiva", Font.BOLD,16));
+		about.setFont(new Font("Helvectiva", Font.BOLD,12));
 		about.setForeground(new Color(16, 44, 86));
 		aboutb.setBounds(120, 300, 100, 30);
 		aboutb.add(about);
@@ -215,7 +215,7 @@ public class ContactPage {
 		contactb = new JButton("CONTACT");
 		contactb.setIcon(white);
 		contact = new JLabel("CONTACT");
-		contact.setFont(new Font("Helvectiva", Font.BOLD,16));
+		contact.setFont(new Font("Helvectiva", Font.BOLD,12));
 		contact.setForeground(new Color(16, 44, 86));
 		contactb.setBounds(120, 350, 100, 30);
 		contactb.add(contact);

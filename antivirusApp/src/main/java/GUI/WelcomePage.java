@@ -42,7 +42,7 @@ public class WelcomePage {
 		Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
 		frame.setLocation(dim.width / 2 - frame.getSize().width / 2, dim.height - 900);
 
-		// Creation of Copywrite message
+		// Creation of Copyright message
 
 		msg = new JLabel("Copyright ©2020 All rights reserved | DETechtives");
 		msg.setFont(new Font("Helvectica", Font.PLAIN,15));  //Font of message. Constructor of new Font: (Font name, Type(Bold,plain,italic etc), Size)
@@ -58,7 +58,7 @@ public class WelcomePage {
 		start.setIcon(image3);
 		start.setBounds(320, 280, 69, 30);
 		startb = new JLabel("START");
-		startb.setFont(new Font("Arial", Font.BOLD,15));
+		startb.setFont(new Font("Arial", Font.BOLD,10));
 		startb.setForeground(Color.CYAN.darker());
 		start.add(startb);
 		start.addActionListener(new ActionListener() {
