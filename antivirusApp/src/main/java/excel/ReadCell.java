@@ -25,7 +25,7 @@ public class ReadCell {
 		try {
 //reading data from a file in the form of bytes  
 			FileInputStream fis = new FileInputStream(
-					"C:\\Users\\Lefteris\\Documents\\GitHub\\Antivirus\\antivirusApp\\src\\main\\java\\excel\\Data1.xlsx");
+					"Data1.xlsx");
 //constructs an XSSFWorkbook object, by buffering the whole stream into the memory  
 			wb = new XSSFWorkbook(fis);
 		} catch (FileNotFoundException e) {
