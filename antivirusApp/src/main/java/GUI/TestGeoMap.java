@@ -33,7 +33,8 @@ public class TestGeoMap {
 
         double[] ping = new double[2];
 
-        Geocoding geo = new Geocoding();
+        //Follows the Singleton structure
+        Geocoding geo = Geocoding.getInstance();
 
         MapDisplay showMap = new MapDisplay();
 

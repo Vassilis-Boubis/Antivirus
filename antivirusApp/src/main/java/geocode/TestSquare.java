@@ -6,7 +6,7 @@ public class TestSquare {
 
 	public static void main(String[] args) {
 
-		Geocoding geocode = new Geocoding();
+		Geocoding geocode = Geocoding.getInstance();
 
 		Square square = new Square();
 

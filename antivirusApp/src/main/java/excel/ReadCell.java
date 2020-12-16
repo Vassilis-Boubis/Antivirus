@@ -10,15 +10,14 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-public class ReadCellExample {
+public class ReadCell {
 	
 	public static void main(String[] args) {
-		ReadCellExample rc = new ReadCellExample(); // object of the class
-//reading the value of 2nd row and 2nd column  
+		ReadCell rc = new ReadCell(); // object of the class
+//reading the value of 2nd row and 2nd column 
 		double vOutput = rc.ReadCellData(0, 3);
-		System.out.println(vOutput);
+		System.out.println(vOutput); 
 	}
-
 //method defined for reading a cell  
 	public double ReadCellData(int vRow, int vColumn) {
 		double value = 0; // variable for storing the cell value
@@ -26,7 +25,7 @@ public class ReadCellExample {
 		try {
 //reading data from a file in the form of bytes  
 			FileInputStream fis = new FileInputStream(
-					"C:\\Users\\Lefteris\\Documents\\GitHub\\Antivirus\\antivirusApp\\src\\main\\java\\excel\\Data1.xlsx");
+					"Data1.xlsx");
 //constructs an XSSFWorkbook object, by buffering the whole stream into the memory  
 			wb = new XSSFWorkbook(fis);
 		} catch (FileNotFoundException e) {
@@ -36,8 +35,14 @@ public class ReadCellExample {
 		}
 		Sheet sheet = wb.getSheetAt(0); // getting the XSSFSheet object at given index
 		Row row = sheet.getRow(vRow); // returns the logical row
+		
+		try {
 		Cell cell = row.getCell(vColumn); // getting the cell representing the given column
 		value = cell.getNumericCellValue(); // getting cell value
+		} catch (NullPointerException e2) {
+			return 0.0;
+			
+		}
 		return value; // returns the cell value
 	}
 }
