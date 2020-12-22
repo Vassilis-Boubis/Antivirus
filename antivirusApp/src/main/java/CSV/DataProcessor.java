@@ -3,7 +3,7 @@ package CSV;
 import java.io.*;
 import java.util.Scanner;
 
-public class CSVData {
+public class DataProcessor {
 	public static void main(String[] args) throws Exception {
 		/*
 		 *
@@ -19,6 +19,8 @@ public class CSVData {
 		 */
 		String line = "";
 		String splitBy = ";";
+		
+		int count = 0;
 
 		try {
 			// parsing a CSV file into BufferedReader class constructor
@@ -33,6 +35,8 @@ public class CSVData {
 				UsableData obj = new UsableData(address[0], address[1], Double.parseDouble(address[2]),
 						Double.parseDouble(address[3]));
 
+				
+				
 			}
 			br.close();
 		} catch (IOException e) {
