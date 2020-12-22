@@ -4,22 +4,16 @@ import java.io.*;
 import java.util.Scanner;
 
 public class DataProcessor {
+
+	private static UsableData datatable[] = new UsableData[2353];
+
 	public static void main(String[] args) throws Exception {
-		/*
-		 *
-		 *
-		 * //parsing a CSV file into Scanner class constructor Scanner sc = new
-		 * Scanner(new File("data.txt")); sc.useDelimiter(";"); // sets the delimiter
-		 * pattern while (sc.hasNext()) // returns a boolean value {
-		 * System.out.print(sc.next()); // find and returns the next complete token from
-		 * this scanner } sc.close(); // closes the scanner
-		 * 
-		 * 
-		 * 
-		 */
+
 		String line = "";
 		String splitBy = ";";
-		
+		String splitByDash = "/";
+
+		UsableData obj;
 		int count = 0;
 
 		try {
@@ -32,16 +26,26 @@ public class DataProcessor {
 				address[2] = address[2].substring(0, 2) + "." + address[2].substring(3, 9);
 				address[3] = address[3].substring(0, 2) + "." + address[3].substring(3, 9);
 
-				UsableData obj = new UsableData(address[0], address[1], Double.parseDouble(address[2]),
-						Double.parseDouble(address[3]));
+				String[] date = line.split(splitByDash);
 
-				
-				
+				date[0] = address[4].substring(0, 2);
+				date[1] = address[4].substring(3, 5);
+				date[2] = address[4].substring(6, 8);
+
+				obj = new UsableData(address[0], address[1], Double.parseDouble(address[2]),
+						Double.parseDouble(address[3]), Integer.parseInt(date[0]), Integer.parseInt(date[1]),
+						Integer.parseInt(date[2]));
+				datatable[count] = obj;
+				count++;
 			}
 			br.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 
+	}
+
+	public UsableData getData(int i) {
+		return datatable[i];
 	}
 }

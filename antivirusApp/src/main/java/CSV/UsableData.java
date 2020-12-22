@@ -1,13 +1,12 @@
 package CSV;
 
-
 public class UsableData {
 
 	// Creates an Object of every data from database with municipality, address,
 	// geocoordinates, and Date of reported case
 
-	private String municipality; //
 	private String address;
+	private String municipality; //
 	private double lat;
 	private double lng;
 	private int day;
@@ -15,8 +14,9 @@ public class UsableData {
 	private int year;
 
 	public UsableData(String address, String municipality, double lat, double lng, int day, int month, int year) {
-		this.municipality = municipality;
+
 		this.address = address;
+		this.municipality = municipality;
 		this.lat = lat;
 		this.lng = lng;
 		this.day = day;
@@ -74,4 +74,3 @@ public class UsableData {
 	}
 
 }
-
