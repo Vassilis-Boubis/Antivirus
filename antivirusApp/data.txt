@@ -1,0 +1,2353 @@
+Faliraki Road Rhodes Rhodes;Athens;36,342990;28,201050
+Faliraki Road Rhodes Rhodes;Athens;36,342990;28,201050
+Faliraki Road Rhodes Rhodes;Athens;36,342990;28,201050
+Faliraki Road Rhodes Rhodes;Athens;36,342990;28,201050
+Kamari Agia Paraskevi Santorini Island;Agia Paraskevi;36,388700;25,473900
+Kamari Agia Paraskevi Santorini Island;Agia Paraskevi;36,388700;25,473900
+Kamari Agia Paraskevi Santorini Island;Agia Paraskevi;36,388700;25,473900
+Kamari Agia Paraskevi Santorini Island;Agia Paraskevi;36,388700;25,473900
+Kamari Agia Paraskevi Santorini Island;Agia Paraskevi;36,388700;25,473900
+Kamari Agia Paraskevi Santorini Island;Agia Paraskevi;36,388700;25,473900
+Main Street;Spetses;37,270048;23,148783
+Main Street;Spetses;37,270048;23,148783
+Main Street;Spetses;37,270048;23,148783
+43, Andrea Miaouli street;Hydra;37,347087;23,466930
+43, Andrea Miaouli street;Hydra;37,347087;23,466930
+43, Andrea Miaouli street;Hydra;37,347087;23,466930
+Votsi Square;Hydra;37,348312;23,465544
+Votsi Square;Hydra;37,348312;23,465544
+Votsi Square;Hydra;37,348312;23,465544
+Votsi Square;Hydra;37,348312;23,465544
+Votsi Square;Hydra;37,348312;23,465544
+Votsi Square;Hydra;37,348312;23,465544
+Kofitsa, Kophitsa Udras;Hydra;37,349689;23,467140
+Kofitsa, Kophitsa Udras;Hydra;37,349689;23,467140
+Kofitsa, Kophitsa Udras;Hydra;37,349689;23,467140
+Kofitsa, Kophitsa Udras;Hydra;37,349689;23,467140
+Kofitsa, Kophitsa Udras;Hydra;37,349689;23,467140
+Kofitsa, Kophitsa Udras;Hydra;37,349689;23,467140
+Hydra - Pireas;Hydra;37,350296;23,464586
+Hydra - Pireas;Hydra;37,350296;23,464586
+Port of Hydra, Limani Udras;Hydra;37,351040;23,466862
+Port of Hydra, Limani Udras;Hydra;37,351040;23,466862
+Port of Hydra, Limani Udras;Hydra;37,351040;23,466862
+Leoforos Lampraki;Poros;37,507907;23,451226
+Leoforos Lampraki;Poros;37,507907;23,451226
+Leoforos Lampraki;Poros;37,507907;23,451226
+Leoforos Lampraki;Poros;37,507907;23,451226
+Leoforos Lampraki;Poros;37,507907;23,451226
+67 Km Athens Sounio Road;Athens;37,659028;24,015769
+67 Km Athens Sounio Road;Athens;37,659028;24,015769
+67 Km Athens Sounio Road;Athens;37,659028;24,015769
+Agia Marina Beach;Aegina;37,741534;23,535375
+Agia Marina Beach;Aegina;37,741534;23,535375
+Leoforos Nikou Kazantzaki 4;Aegina;37,765012;23,432383
+Leoforos Nikou Kazantzaki 4;Aegina;37,765012;23,432383
+Leoforos Nikou Kazantzaki 4;Aegina;37,765012;23,432383
+Naxou 9;Athina;37,821044;23,796294
+Naxou 9;Athina;37,821044;23,796294
+Naxou 9;Athina;37,821044;23,796294
+Naxou 9;Athina;37,821044;23,796294
+Naxou 9;Athina;37,821044;23,796294
+17 K.Karanmali Avenue, Voula;Athens;37,850569;23,753257
+17 K.Karanmali Avenue, Voula;Athens;37,850569;23,753257
+17 K.Karanmali Avenue, Voula;Athens;37,850569;23,753257
+17 K.Karanmali Avenue, Voula;Athens;37,850569;23,753257
+17 K.Karanmali Avenue, Voula;Athens;37,850569;23,753257
+Leoforos Posidonos 33;Athina;37,868302;23,741260
+Leoforos Posidonos 33;Athina;37,868302;23,741260
+Leoforos Posidonos 33;Athina;37,868302;23,741260
+Leoforos Posidonos 33;Athina;37,868302;23,741260
+Leoforos Posidonos 33;Athina;37,868302;23,741260
+Leoforos Posidonos 33;Athina;37,868302;23,741260
+Miaouli 43;Athina;37,883957;23,751453
+Miaouli 43;Athina;37,883957;23,751453
+Miaouli 43;Athina;37,883957;23,751453
+Miaouli 43;Athina;37,883957;23,751453
+Rethimnis 8;Athina;37,884439;23,745532
+Rethimnis 8;Athina;37,884439;23,745532
+Possidonos Ave 74;Athina;37,904876;23,719031
+Possidonos Ave 74;Athina;37,904876;23,719031
+Kavafi;Alimos;37,906958;23,722193
+Kavafi;Alimos;37,906958;23,722193
+Kavafi;Alimos;37,906958;23,722193
+Kavafi;Alimos;37,906958;23,722193
+Kavafi;Alimos;37,906958;23,722193
+70 Alimou Ave & 1 Lamias;Alimos;37,907060;23,736662
+70 Alimou Ave & 1 Lamias;Alimos;37,907060;23,736662
+70 Alimou Ave & 1 Lamias;Alimos;37,907060;23,736662
+70 Alimou Ave & 1 Lamias;Alimos;37,907060;23,736662
+70 Alimou Ave & 1 Lamias;Alimos;37,907060;23,736662
+70 Alimou Ave & 1 Lamias;Alimos;37,907060;23,736662
+Roma 42;Alimos;37,907559;23,727947
+Roma 42;Alimos;37,907559;23,727947
+Roma 42;Alimos;37,907559;23,727947
+Roma 42;Alimos;37,907559;23,727947
+Roma 42;Alimos;37,907559;23,727947
+Roma 42;Alimos;37,907559;23,727947
+Fan Vaik 5;Athina;37,909837;23,714771
+Leoforos Posidonos 10;Alimos;37,910060;23,711615
+Leoforos Posidonos 10;Alimos;37,910060;23,711615
+Leoforos Posidonos 10;Alimos;37,910060;23,711615
+39 Posidonos Ave. & Kalamakiou Str.Alimos (Kalamaki), 17455 Athenes, Greece;Athens;37,910957;23,711013
+39 Posidonos Ave. & Kalamakiou Str.Alimos (Kalamaki), 17455 Athenes, Greece;Athens;37,910957;23,711013
+39 Posidonos Ave. & Kalamakiou Str.Alimos (Kalamaki), 17455 Athenes, Greece;Athens;37,910957;23,711013
+Thoukididou 53;Alimos;37,911891;23,713472
+Thoukididou 53;Alimos;37,911891;23,713472
+Thoukididou 53;Alimos;37,911891;23,713472
+Grigoriou Afxentiou 12;Alimos;37,913079;23,710398
+Grigoriou Afxentiou 12;Alimos;37,913079;23,710398
+Grigoriou Afxentiou 12;Alimos;37,913079;23,710398
+Grigoriou Afxentiou 12;Alimos;37,913079;23,710398
+Grigoriou Afxentiou 12;Alimos;37,913079;23,710398
+Grigoriou Afxentiou 12;Alimos;37,913079;23,710398
+Thoukididou 42;Alimos;37,913142;23,711715
+Thoukididou 42;Alimos;37,913142;23,711715
+Grigoriou Afxentiou 13;Alimos;37,913969;23,711127
+Grigoriou Afxentiou 13;Alimos;37,913969;23,711127
+Grigoriou Afxentiou 13;Alimos;37,913969;23,711127
+Mironos 21;Athina;37,918846;23,733413
+Mironos 21;Athina;37,918846;23,733413
+Mironos 21;Athina;37,918846;23,733413
+Mironos 21;Athina;37,918846;23,733413
+Mironos 21;Athina;37,918846;23,733413
+Theomitoros 85;Alimos;37,920025;23,722815
+Theomitoros 85;Alimos;37,920025;23,722815
+Aspropotamou 67;Agios Dimitrios;37,920883;23,728000
+Aspropotamou 67;Agios Dimitrios;37,920883;23,728000
+Aspropotamou 67;Agios Dimitrios;37,920883;23,728000
+Ipolochagou Kapetanaki 48;Athina;37,921582;23,725567
+Agias Lavras 43;Athina;37,922598;23,713768
+Agias Lavras 43;Athina;37,922598;23,713768
+Agias Lavras 43;Athina;37,922598;23,713768
+Agias Lavras 43;Athina;37,922598;23,713768
+Agias Lavras 43;Athina;37,922598;23,713768
+Agias Lavras 43;Athina;37,922598;23,713768
+Agias Lavras 43;Athina;37,922598;23,713768
+Leoforos Agiou Dimitriou 309;Athina;37,922970;23,723196
+Leoforos Agiou Dimitriou 309;Athina;37,922970;23,723196
+35 Possidonos Avenue, Paleo Faliro;Athens;37,924794;23,692059
+35 Possidonos Avenue, Paleo Faliro;Athens;37,924794;23,692059
+35 Possidonos Avenue, Paleo Faliro;Athens;37,924794;23,692059
+35 Possidonos Avenue, Paleo Faliro;Athens;37,924794;23,692059
+35 Possidonos Avenue, Paleo Faliro;Athens;37,924794;23,692059
+Leoforos Sofokli Venizelou 29;Ilioupoli;37,929110;23,747956
+Leoforos Sofokli Venizelou 29;Ilioupoli;37,929110;23,747956
+Leoforos Sofokli Venizelou 29;Ilioupoli;37,929110;23,747956
+Leoforos Sofokli Venizelou 29;Ilioupoli;37,929110;23,747956
+Leoforos Sofokli Venizelou 29;Ilioupoli;37,929110;23,747956
+Leoforos Sofokli Venizelou 29;Ilioupoli;37,929110;23,747956
+Leoforos Sofokli Venizelou 29;Ilioupoli;37,929110;23,747956
+Markou Mpotsari 2;Ilioupoli;37,931415;23,756406
+Markou Mpotsari 2;Ilioupoli;37,931415;23,756406
+Marias Chatzikiriakou 126;Piraeus;37,931484;23,631842
+Marias Chatzikiriakou 126;Piraeus;37,931484;23,631842
+Marias Chatzikiriakou 126;Piraeus;37,931484;23,631842
+Marias Chatzikiriakou 126;Piraeus;37,931484;23,631842
+Platia Ethnikis Antistaseos 7;Ilioupoli;37,931847;23,756845
+Platia Ethnikis Antistaseos 7;Ilioupoli;37,931847;23,756845
+Platia Ethnikis Antistaseos 7;Ilioupoli;37,931847;23,756845
+Leoforos Protopapa 49;Ilioupoli;37,932412;23,759035
+Leoforos Protopapa 49;Ilioupoli;37,932412;23,759035
+Leoforos Protopapa 49;Ilioupoli;37,932412;23,759035
+Leoforos Sofokli Venizelou 125;Ilioupoli;37,933429;23,759742
+Leoforos Sofokli Venizelou 125;Ilioupoli;37,933429;23,759742
+Agiou Vasiliou 49;Athina;37,933941;23,739499
+Agiou Vasiliou 49;Athina;37,933941;23,739499
+Agiou Vasiliou 49;Athina;37,933941;23,739499
+Agiou Vasiliou 49;Athina;37,933941;23,739499
+Agiou Vasiliou 49;Athina;37,933941;23,739499
+Agiou Vasiliou 49;Athina;37,933941;23,739499
+Agiou Vasiliou 49;Athina;37,933941;23,739499
+2nd km Paiania Markopoulou Avenue;Paiania;37,934521;23,880302
+2nd km Paiania Markopoulou Avenue;Paiania;37,934521;23,880302
+2nd km Paiania Markopoulou Avenue;Paiania;37,934521;23,880302
+2nd km Paiania Markopoulou Avenue;Paiania;37,934521;23,880302
+2nd km Paiania Markopoulou Avenue;Paiania;37,934521;23,880302
+Akti Miaouli 87;Piraeus;37,936736;23,637656
+Akti Miaouli 87;Piraeus;37,936736;23,637656
+Akti Miaouli 87;Piraeus;37,936736;23,637656
+93, Iroon Polytechniou Ave.;Piraeus;37,936937;23,641955
+Leoforos Eleftheriou Venizelou 118;Ilioupoli;37,936971;23,758922
+Leoforos Eleftheriou Venizelou 118;Ilioupoli;37,936971;23,758922
+Leoforos Eleftheriou Venizelou 118;Ilioupoli;37,936971;23,758922
+Grigoriou Lampraki 3;Agios Dimitrios;37,937744;23,739981
+Charilaou Trikoupi 4;Piraeus;37,938418;23,641019
+Charilaou Trikoupi 4;Piraeus;37,938418;23,641019
+Charilaou Trikoupi 4;Piraeus;37,938418;23,641019
+Notara 142;Piraeus;37,938723;23,641431
+Notara 142;Piraeus;37,938723;23,641431
+Notara 142;Piraeus;37,938723;23,641431
+Notara 140;Piraeus;37,938858;23,641548
+Notara 140;Piraeus;37,938858;23,641548
+Leoforos Vouliagmenis 276;Athina;37,939334;23,740259
+Leoforos Vouliagmenis 276;Athina;37,939334;23,740259
+Leoforos Vouliagmenis 276;Athina;37,939334;23,740259
+Leoforos Vouliagmenis 276;Athina;37,939334;23,740259
+Leoforos Vouliagmenis 276;Athina;37,939334;23,740259
+Kountouriotou 189;Piraeus;37,939378;23,646955
+Kountouriotou 189;Piraeus;37,939378;23,646955
+Anapafseos 35;Agios Dimitrios;37,939852;23,729243
+Anapafseos 35;Agios Dimitrios;37,939852;23,729243
+Anapafseos 35;Agios Dimitrios;37,939852;23,729243
+Anapafseos 35;Agios Dimitrios;37,939852;23,729243
+Anapafseos 35;Agios Dimitrios;37,939852;23,729243
+Sotiros Dios 48;Piraeus;37,939960;23,649737
+Sotiros Dios 48;Piraeus;37,939960;23,649737
+Sotiros Dios 48;Piraeus;37,939960;23,649737
+Leoforos Andrea Papandreou 29;Ilioupoli;37,940351;23,754151
+Leoforos Andrea Papandreou 29;Ilioupoli;37,940351;23,754151
+Leoforos Andrea Papandreou 29;Ilioupoli;37,940351;23,754151
+Leoforos Andrea Papandreou 29;Ilioupoli;37,940351;23,754151
+Leoforos Vouliagmenis 276;Agios Dimitrios;37,940775;23,740721
+Paleologou 5;Piraeus;37,940992;23,644857
+Paleologou 5;Piraeus;37,940992;23,644857
+Paleologou 5;Piraeus;37,940992;23,644857
+Paleologou 5;Piraeus;37,940992;23,644857
+Paleologou 5;Piraeus;37,940992;23,644857
+Akti Miaouli 33;Piraeus;37,941245;23,642024
+Akti Miaouli 33;Piraeus;37,941245;23,642024
+Akti Miaouli 33;Piraeus;37,941245;23,642024
+Akti Miaouli 33;Piraeus;37,941245;23,642024
+Akti Miaouli 33;Piraeus;37,941245;23,642024
+Akti Miaouli 33;Piraeus;37,941245;23,642024
+Akti Miaouli 33;Piraeus;37,941245;23,642024
+18 Posseidonos Ave;Kallithea;37,941271;23,687550
+18 Posseidonos Ave;Kallithea;37,941271;23,687550
+18 Posseidonos Ave;Kallithea;37,941271;23,687550
+18 Posseidonos Ave;Kallithea;37,941271;23,687550
+18 Posseidonos Ave;Kallithea;37,941271;23,687550
+18 Posseidonos Ave;Kallithea;37,941271;23,687550
+18 Posseidonos Ave;Kallithea;37,941271;23,687550
+Karaoli & Dimitriou St. 80;Piraeus;37,941624;23,653011
+Karaoli & Dimitriou St. 80;Piraeus;37,941624;23,653011
+Leoforos Amfitheas 15;Athina;37,941693;23,700964
+Leoforos Amfitheas 15;Athina;37,941693;23,700964
+Leoforos Amfitheas 15;Athina;37,941693;23,700964
+Leoforos Amfitheas 15;Athina;37,941693;23,700964
+Leoforos Amfitheas 15;Athina;37,941693;23,700964
+Leoforos Iroon Politechniou 45;Piraeus;37,941756;23,646111
+Leoforos Iroon Politechniou 45;Piraeus;37,941756;23,646111
+Notara 78;Piraeus;37,942158;23,644391
+Notara 78;Piraeus;37,942158;23,644391
+Agion Anargyron, Paraskevopoulou, Agion Anarguron, Paraskeuopoulou;Athens;37,942406;23,702194
+Agion Anargyron, Paraskevopoulou, Agion Anarguron, Paraskeuopoulou;Athens;37,942406;23,702194
+Agion Anargyron, Paraskevopoulou, Agion Anarguron, Paraskeuopoulou;Athens;37,942406;23,702194
+Agion Anargyron, Paraskevopoulou, Agion Anarguron, Paraskeuopoulou;Athens;37,942406;23,702194
+Leoforos Marinou Antipa 36;Ilioupoli;37,942907;23,748592
+Leoforos Marinou Antipa 36;Ilioupoli;37,942907;23,748592
+Leoforos Marinou Antipa 36;Ilioupoli;37,942907;23,748592
+giannakiou tzelepi 5;Piraeus;37,944771;23,643251
+giannakiou tzelepi 5;Piraeus;37,944771;23,643251
+Konstantinou Paleologou 17;Athina;37,945385;23,710850
+Konstantinou Paleologou 17;Athina;37,945385;23,710850
+Konstantinou Paleologou 17;Athina;37,945385;23,710850
+Konstantinou Paleologou 17;Athina;37,945385;23,710850
+Konstantinou Paleologou 17;Athina;37,945385;23,710850
+Dimitriou Gounari 2;Piraeus;37,945494;23,642525
+Dimitriou Gounari 2;Piraeus;37,945494;23,642525
+Karaoli ke Dimitriou 23;Piraeus;37,945607;23,646934
+Karaoli ke Dimitriou 23;Piraeus;37,945607;23,646934
+Karaoli ke Dimitriou 23;Piraeus;37,945607;23,646934
+Notara 23;Piraeus;37,945636;23,647637
+Notara 23;Piraeus;37,945636;23,647637
+Notara 23;Piraeus;37,945636;23,647637
+Dimitriou Gounari 2;Piraeus;37,945704;23,643107
+Dimitriou Gounari 2;Piraeus;37,945704;23,643107
+Dimitriou Gounari 2;Piraeus;37,945704;23,643107
+Dimitriou Gounari 2;Piraeus;37,945704;23,643107
+Astiggos 6;Piraeus;37,945719;23,641014
+Astiggos 6;Piraeus;37,945719;23,641014
+Astiggos 6;Piraeus;37,945719;23,641014
+Astiggos 6;Piraeus;37,945719;23,641014
+These Agios Georgios;Paiania;37,946002;23,867208
+These Agios Georgios;Paiania;37,946002;23,867208
+26 Ag. Dimitriou;Agios Dimitrios;37,946600;23,735614
+26 Ag. Dimitriou;Agios Dimitrios;37,946600;23,735614
+26 Ag. Dimitriou;Agios Dimitrios;37,946600;23,735614
+26 Ag. Dimitriou;Agios Dimitrios;37,946600;23,735614
+26 Ag. Dimitriou;Agios Dimitrios;37,946600;23,735614
+Platia Anexartisias 19;Ilioupoli;37,946675;23,754932
+Platia Anexartisias 19;Ilioupoli;37,946675;23,754932
+Platia Anexartisias 19;Ilioupoli;37,946675;23,754932
+Platia Anexartisias 19;Ilioupoli;37,946675;23,754932
+Platia Anexartisias 19;Ilioupoli;37,946675;23,754932
+Platia Anexartisias 19;Ilioupoli;37,946675;23,754932
+Platia Anexartisias 19;Ilioupoli;37,946675;23,754932
+Ellinon Axiomatikon 35;Athina;37,946803;23,766882
+Ellinon Axiomatikon 35;Athina;37,946803;23,766882
+Navarchou Notara 2;Piraeus;37,946927;23,648543
+Navarchou Notara 2;Piraeus;37,946927;23,648543
+Distomou 9;Athina;37,947437;23,754972
+Distomou 9;Athina;37,947437;23,754972
+Distomou 9;Athina;37,947437;23,754972
+Evripidou 69;Kallithea;37,948531;23,686000
+Evripidou 69;Kallithea;37,948531;23,686000
+Dimosthenous 201;Kallithea;37,948817;23,699804
+Dimosthenous 201;Kallithea;37,948817;23,699804
+Dimosthenous 201;Kallithea;37,948817;23,699804
+Dimosthenous 201;Kallithea;37,948817;23,699804
+Dimosthenous 201;Kallithea;37,948817;23,699804
+Dimosthenous 207;Athina;37,948888;23,699762
+Dimosthenous 207;Athina;37,948888;23,699762
+Leoforos Andrea Siggrou 193;Athina;37,949973;23,708317
+Leoforos Andrea Siggrou 193;Athina;37,949973;23,708317
+Leoforos Andrea Siggrou 193;Athina;37,949973;23,708317
+Leoforos Andrea Siggrou 193;Athina;37,949973;23,708317
+Ethniki Odos 56 74;Piraeus;37,951811;23,664933
+Ethniki Odos 56 74;Piraeus;37,951811;23,664933
+Ethniki Odos 56 74;Piraeus;37,951811;23,664933
+Ethniki Odos 56 74;Piraeus;37,951811;23,664933
+Ethniki Odos 56 74;Piraeus;37,951811;23,664933
+Ethniki Odos 56 74;Piraeus;37,951811;23,664933
+Aristeidou;Kallithea;37,952364;23,700703
+Aristeidou;Kallithea;37,952364;23,700703
+Aristeidou;Kallithea;37,952364;23,700703
+Sintagmatarchou Davaki 60;Kallithea;37,952370;23,704730
+Sintagmatarchou Davaki 60;Kallithea;37,952370;23,704730
+Sintagmatarchou Davaki 60;Kallithea;37,952370;23,704730
+Sintagmatarchou Davaki 60;Kallithea;37,952370;23,704730
+Sintagmatarchou Davaki 60;Kallithea;37,952370;23,704730
+Thermopilon 38;Athina;37,952400;23,679875
+Thermopilon 38;Athina;37,952400;23,679875
+Thermopilon 38;Athina;37,952400;23,679875
+Skra 100;Kallithea;37,953803;23,699448
+Skra 100;Kallithea;37,953803;23,699448
+Skra 100;Kallithea;37,953803;23,699448
+Gripari 173;Kallithea;37,953873;23,701881
+Gripari 173;Kallithea;37,953873;23,701881
+Gripari 173;Kallithea;37,953873;23,701881
+Sintagmatarchou Davaki 49;Kallithea;37,954080;23,703914
+Sintagmatarchou Davaki 49;Kallithea;37,954080;23,703914
+Ellis 3;Kallithea;37,954265;23,702957
+Likourgou 191;Kallithea;37,954400;23,693243
+Likourgou 191;Kallithea;37,954400;23,693243
+Likourgou 191;Kallithea;37,954400;23,693243
+Okeanidon 17;Athina;37,954704;23,717508
+Okeanidon 17;Athina;37,954704;23,717508
+Sivitanidou 6;Kallithea;37,956704;23,701356
+Sivitanidou 6;Kallithea;37,956704;23,701356
+Sivitanidou 6;Kallithea;37,956704;23,701356
+Syngrou Avenue 115;Athens;37,957403;23,718271
+Syngrou Avenue 115;Athens;37,957403;23,718271
+Agion Panton;Kallithea;37,957427;23,708836
+Agion Panton;Kallithea;37,957427;23,708836
+Agion Panton;Kallithea;37,957427;23,708836
+Agion Panton;Kallithea;37,957427;23,708836
+Laskaridou 106, Pl. Kuprou, Kallithea;Athens;37,957733;23,700395
+Laskaridou 106, Pl. Kuprou, Kallithea;Athens;37,957733;23,700395
+Menelaou 81;Kallithea;37,957801;23,706886
+Menelaou 81;Kallithea;37,957801;23,706886
+Menelaou 81;Kallithea;37,957801;23,706886
+Aristeidou 78;Kallithea;37,958085;23,708947
+Aristeidou 78;Kallithea;37,958085;23,708947
+Aristeidou 78;Kallithea;37,958085;23,708947
+Aristeidou 78;Kallithea;37,958085;23,708947
+Leoforos Eleftheriou Venizelou 108;Athina;37,958380;23,705286
+Leoforos Eleftheriou Venizelou 108;Athina;37,958380;23,705286
+Leoforos Eleftheriou Venizelou 108;Athina;37,958380;23,705286
+Filolaou 201;Athina;37,958924;23,738876
+Filolaou 201;Athina;37,958924;23,738876
+Filolaou 201;Athina;37,958924;23,738876
+Filolaou 201;Athina;37,958924;23,738876
+Filolaou 201;Athina;37,958924;23,738876
+Leoforos Eleftheriou Venizelou 90;Kallithea;37,959191;23,706653
+Leoforos Eleftheriou Venizelou 90;Kallithea;37,959191;23,706653
+Syngrou Avenue 89-93;Athens;37,959611;23,721136
+Syngrou Avenue 89-93;Athens;37,959611;23,721136
+Syngrou Avenue 89-93;Athens;37,959611;23,721136
+Amvrosiou Frantzi 30;Athina;37,960696;23,727073
+Amvrosiou Frantzi 30;Athina;37,960696;23,727073
+Amvrosiou Frantzi 30;Athina;37,960696;23,727073
+Parren Kallirois 91;Athina;37,961216;23,724117
+Parren Kallirois 91;Athina;37,961216;23,724117
+Parren Kallirois 91;Athina;37,961216;23,724117
+Parren Kallirois 91;Athina;37,961216;23,724117
+Parren Kallirois 91;Athina;37,961216;23,724117
+Kalliroes 72;Athina;37,961340;23,720588
+Kalliroes 72;Athina;37,961340;23,720588
+Kalliroes 72;Athina;37,961340;23,720588
+Kalliroes 72;Athina;37,961340;23,720588
+Kallirrois 72;Athina;37,961371;23,720709
+Kallirrois 72;Athina;37,961371;23,720709
+Kallirrois 72;Athina;37,961371;23,720709
+Kallirrois 72;Athina;37,961371;23,720709
+Kallirrois 72;Athina;37,961371;23,720709
+Kallirrois 72;Athina;37,961371;23,720709
+Kallirrois 72;Athina;37,961371;23,720709
+Leoforos Vouliagmenis;Athina;37,961485;23,734056
+Leoforos Vouliagmenis;Athina;37,961485;23,734056
+Leoforos Vouliagmenis;Athina;37,961485;23,734056
+Leoforos Vouliagmenis;Athina;37,961485;23,734056
+Leoforos Vouliagmenis;Athina;37,962389;23,734122
+Leoforos Vouliagmenis;Athina;37,962389;23,734122
+Leoforos Vouliagmenis;Athina;37,962389;23,734122
+Pitheou 34;Athina;37,962476;23,732414
+Pitheou 34;Athina;37,962476;23,732414
+Pitheou 34;Athina;37,962476;23,732414
+Pitheou 34;Athina;37,962476;23,732414
+Pitheou 34;Athina;37,962476;23,732414
+Leoforos Eleftheriou Venizelou 2;Athina;37,962609;23,716116
+Leoforos Eleftheriou Venizelou 2;Athina;37,962609;23,716116
+Leoforos Eleftheriou Venizelou 2;Athina;37,962609;23,716116
+Leoforos Eleftheriou Venizelou 2;Kallithea;37,962609;23,716116
+Leoforos Eleftheriou Venizelou 2;Kallithea;37,962609;23,716116
+Kallirrois 98;Athina;37,962706;23,717545
+Kallirrois 98;Athina;37,962706;23,717545
+Kallirrois 98;Athina;37,962706;23,717545
+Kallirrois 98;Athina;37,962706;23,717545
+Pireos 254;Athina;37,962732;23,691153
+Pireos 254;Athina;37,962732;23,691153
+Leoforos Chrisostomou Smirnis;Athina;37,963103;23,751589
+Leoforos Chrisostomou Smirnis;Athina;37,963103;23,751589
+Leoforos Chrisostomou Smirnis;Athina;37,963103;23,751589
+Leoforos Andrea Siggrou 98;Athina;37,963235;23,724809
+Leoforos Andrea Siggrou 98;Athina;37,963235;23,724809
+Leoforos Andrea Siggrou 98;Athina;37,963235;23,724809
+Leoforos Andrea Siggrou 98;Athina;37,963235;23,724809
+Anastasiou Zinni 35;Athina;37,963850;23,723480
+110 Ymittou Ave;Athens;37,964005;23,743570
+110 Ymittou Ave;Athens;37,964005;23,743570
+110 Ymittou Ave;Athens;37,964005;23,743570
+110 Ymittou Ave;Athens;37,964005;23,743570
+110 Ymittou Ave;Athens;37,964005;23,743570
+110 Ymittou Ave;Athens;37,964005;23,743570
+110 Ymittou Ave;Athens;37,964005;23,743570
+110 Ymittou Ave;Athens;37,964005;23,743570
+110 Ymittou Ave;Athens;37,964005;23,743570
+Pramanton 1;Athina;37,964873;23,715059
+Pramanton 1;Athina;37,964873;23,715059
+Pramanton 1;Athina;37,964873;23,715059
+Pramanton 1;Athina;37,964873;23,715059
+Pirronos 5;Athina;37,965174;23,743106
+Pirronos 5;Athina;37,965174;23,743106
+Pirronos 5;Athina;37,965174;23,743106
+Zacharitsa 26;Athina;37,965312;23,723313
+Zacharitsa 26;Athina;37,965312;23,723313
+Zacharitsa 26;Athina;37,965312;23,723313
+Zacharitsa 26;Athina;37,965312;23,723313
+Zacharitsa 26;Athina;37,965312;23,723313
+Filolaou 58;Athina;37,965443;23,750129
+Kallirrois 32;Athina;37,965563;23,729356
+Kallirrois 32;Athina;37,965563;23,729356
+Kallirrois 32;Athina;37,965563;23,729356
+Kallirrois 32;Athina;37,965563;23,729356
+Kallirrois 32;Athina;37,965563;23,729356
+Platia Varnava 34;Athina;37,965831;23,743581
+Platia Varnava 34;Athina;37,965831;23,743581
+Platia Varnava 34;Athina;37,965831;23,743581
+Platia Varnava 34;Athina;37,965831;23,743581
+Platia Varnava 34;Athina;37,965831;23,743581
+Platia Varnava 34;Athina;37,965831;23,743581
+Platia Varnava 34;Athina;37,965831;23,743581
+37-39 Falirou St;Athens;37,965846;23,727319
+37-39 Falirou St;Athens;37,965846;23,727319
+37-39 Falirou St;Athens;37,965846;23,727319
+37-39 Falirou St;Athens;37,965846;23,727319
+Platia Varnava 11;Athina;37,966029;23,743622
+Platia Varnava 11;Athina;37,966029;23,743622
+Platia Varnava 11;Athina;37,966029;23,743622
+Platia Varnava 11;Athina;37,966029;23,743622
+Platia Varnava 11;Athina;37,966029;23,743622
+Leoforos Andrea Siggrou;Athina;37,966067;23,728437
+Leoforos Andrea Siggrou;Athina;37,966067;23,728437
+Leoforos Andrea Siggrou;Athina;37,966067;23,728437
+Falirou 10;Athina;37,966631;23,728412
+Falirou 10;Athina;37,966631;23,728412
+Falirou 10;Athina;37,966631;23,728412
+Falirou 10;Athina;37,966631;23,728412
+Leoforos Andrea Siggrou 36;Athina;37,966904;23,729543
+Leoforos Andrea Siggrou 36;Athina;37,966904;23,729543
+Leoforos Andrea Siggrou 36;Athina;37,966904;23,729543
+Leoforos Andrea Siggrou 36;Athina;37,966904;23,729543
+Mouson stin Periochi Filopappou 7;Athina;37,966952;23,723321
+Mouson stin Periochi Filopappou 7;Athina;37,966952;23,723321
+Mouson stin Periochi Filopappou 7;Athina;37,966952;23,723321
+Mouson stin Periochi Filopappou 7;Athina;37,966952;23,723321
+Syngrou Ave 10;Athina;37,967127;23,726719
+Syngrou Ave 10;Athina;37,967127;23,726719
+Falirou 9;Athina;37,967166;23,729072
+Falirou 9;Athina;37,967166;23,729072
+Falirou 9;Athina;37,967166;23,729072
+Veikou 3;Athina;37,967392;23,728821
+Veikou 3;Athina;37,967392;23,728821
+Parthenonos 19;Athina;37,967456;23,725983
+Parthenonos 19;Athina;37,967456;23,725983
+Parthenonos 19;Athina;37,967456;23,725983
+Parthenonos 19;Athina;37,967456;23,725983
+Pireos 206;Athina;37,967581;23,696930
+Pireos 206;Athina;37,967581;23,696930
+Pireos 206;Athina;37,967581;23,696930
+Pireos 206;Athina;37,967581;23,696930
+Pireos 206;Athina;37,967581;23,696930
+Pireos 206;Athina;37,967581;23,696930
+Erechthiou 5;Athina;37,968006;23,729326
+Erechthiou 5;Athina;37,968006;23,729326
+Erechthiou 5;Athina;37,968006;23,729326
+Tzireon 16;Athina;37,968233;23,731011
+Tzireon 16;Athina;37,968233;23,731011
+Tzireon 16;Athina;37,968233;23,731011
+Rovertou Galli 4;Athina;37,968279;23,726935
+Rovertou Galli 4;Athina;37,968279;23,726935
+Agras;Athina;37,968322;23,740974
+Makri 12;Athina;37,968601;23,730524
+Makri 12;Athina;37,968601;23,730524
+Makri 12;Athina;37,968601;23,730524
+Makri 12;Athina;37,968601;23,730524
+Makrigianni 17;Athina;37,968633;23,729670
+Makrigianni 17;Athina;37,968633;23,729670
+Makrigianni 17;Athina;37,968633;23,729670
+Makrigianni 17;Athina;37,968633;23,729670
+Leoforos Andrea Siggrou 23;Athina;37,969030;23,731557
+Leoforos Andrea Siggrou 23;Athina;37,969030;23,731557
+Leoforos Andrea Siggrou 23;Athina;37,969030;23,731557
+Leoforos Andrea Siggrou 23;Athina;37,969030;23,731557
+Leoforos Andrea Siggrou 23;Athina;37,969030;23,731557
+Leoforos Andrea Siggrou;Athina;37,969068;23,731463
+Rovertou Galli;Athina;37,969134;23,724488
+Rovertou Galli;Athina;37,969134;23,724488
+Leoforos Andrea Siggrou;Athina;37,969135;23,731478
+Leoforos Andrea Siggrou;Athina;37,969135;23,731478
+Leoforos Andrea Siggrou;Athina;37,969135;23,731478
+Makri 6;Athina;37,969149;23,730533
+Makri 6;Athina;37,969149;23,730533
+Makri 6;Athina;37,969149;23,730533
+Leoforos Ethnikis Antistaseos 23;Athina;37,969165;23,755275
+Leoforos Ethnikis Antistaseos 23;Athina;37,969165;23,755275
+Kallisperi 12;Athina;37,969208;23,726633
+Kallisperi 12;Athina;37,969208;23,726633
+Kallisperi 12;Athina;37,969208;23,726633
+Kallisperi 12;Athina;37,969208;23,726633
+Kallisperi 12;Athina;37,969208;23,726633
+Rovertou Galli;Athina;37,969491;23,722459
+Dionysiou Areopagitou;Athina;37,969508;23,731160
+Dionysiou Areopagitou;Athina;37,969508;23,731160
+Dionysiou Areopagitou;Athina;37,969736;23,729608
+Dionysiou Areopagitou;Athina;37,969736;23,729608
+Troon 32;Athina;37,969913;23,713193
+Troon 32;Athina;37,969913;23,713193
+Troon 32;Athina;37,969913;23,713193
+Troon 32;Athina;37,969913;23,713193
+Troon 32;Athina;37,969913;23,713193
+9, Aischinou and Frynichou, Plaka;Athens;37,969963;23,730840
+9, Aischinou and Frynichou, Plaka;Athens;37,969963;23,730840
+9, Aischinou and Frynichou, Plaka;Athens;37,969963;23,730840
+9, Aischinou and Frynichou, Plaka;Athens;37,969963;23,730840
+9, Aischinou and Frynichou, Plaka;Athens;37,969963;23,730840
+Virona 19;Athina;37,970131;23,730049
+Mitseon 25;Athina;37,970366;23,727855
+Mitseon 25;Athina;37,970366;23,727855
+Mitseon 25;Athina;37,970366;23,727855
+Pireos;Athina;37,970519;23,702833
+Ironda 4;Athina;37,970641;23,742828
+Ironda 4;Athina;37,970641;23,742828
+Ironda 4;Athina;37,970641;23,742828
+Ironda 4;Athina;37,970641;23,742828
+Ironda 4;Athina;37,970641;23,742828
+Lisikratous 9;Athina;37,970661;23,730999
+Lisikratous 4;Athina;37,970903;23,730266
+Lisikratous 4;Athina;37,970903;23,730266
+Lisikratous 4;Athina;37,970903;23,730266
+Lisikratous 4;Athina;37,970903;23,730266
+Lisikratous 4;Athina;37,970903;23,730266
+Lisikratous 4;Athina;37,970903;23,730266
+Lisikratous 4;Athina;37,970903;23,730266
+Lisikratous 4;Athina;37,970903;23,730266
+Ethnikos Kipos;Athens;37,971272;23,736530
+Ethnikos Kipos;Athens;37,971272;23,736530
+Ethnikos Kipos;Athens;37,971272;23,736530
+Kidathineon 28;Athina;37,971749;23,730492
+Kidathineon 28;Athina;37,971749;23,730492
+Kidathineon 41;Athina;37,971749;23,730493
+Kidathineon 41;Athina;37,971749;23,730493
+Kidathineon 41;Athina;37,971749;23,730493
+Kidathineon 22;Athina;37,971874;23,730876
+Kidathineon 22;Athina;37,971874;23,730876
+Kidathineon 22;Athina;37,971874;23,730876
+Geronta 9;Athina;37,971891;23,731439
+Geronta 9;Athina;37,971891;23,731439
+Geronta 9;Athina;37,971891;23,731439
+Geronta 9;Athina;37,971891;23,731439
+Akropolis;Athens;37,972075;23,726472
+Akropolis;Athens;37,972075;23,726472
+Akropolis;Athens;37,972075;23,726472
+Kidathineon 16;Athina;37,972079;23,731356
+Kidathineon 16;Athina;37,972079;23,731356
+Kidathineon 16;Athina;37,972079;23,731356
+Efroniou;Athina;37,972341;23,754501
+Efroniou;Athina;37,972341;23,754501
+Tripodon 14;Athina;37,972466;23,729353
+Tripodon 14;Athina;37,972466;23,729353
+Tripodon 14;Athina;37,972466;23,729353
+Epicharmou 1;Athina;37,972678;23,729735
+Epicharmou 1;Athina;37,972678;23,729735
+Epicharmou 1;Athina;37,972678;23,729735
+Epicharmou 1;Athina;37,972678;23,729735
+Filellinon 22;Athina;37,972738;23,733488
+Filellinon 22;Athina;37,972738;23,733488
+Filellinon 22;Athina;37,972738;23,733488
+Filellinon 22;Athina;37,972738;23,733488
+Filellinon 22;Athina;37,972738;23,733488
+Filellinon 22;Athina;37,972738;23,733488
+Filellinon 22;Athina;37,972738;23,733488
+Vasileos Alexandrou Avenue 2;Athina;37,972873;23,751701
+Vasileos Alexandrou Avenue 2;Athina;37,972873;23,751701
+Vasileos Alexandrou Avenue 2;Athina;37,972873;23,751701
+Grigoriou Afxentiou 157;Athina;37,972899;23,772917
+Grigoriou Afxentiou 157;Athina;37,972899;23,772917
+Grigoriou Afxentiou 157;Athina;37,972899;23,772917
+Grigoriou Afxentiou 157;Athina;37,972899;23,772917
+Grigoriou Afxentiou 157;Athina;37,972899;23,772917
+Nikis 39;Athina;37,972904;23,733098
+Nikis 39;Athina;37,972904;23,733098
+Nikis 39;Athina;37,972904;23,733098
+Nikis 39;Athina;37,972904;23,733098
+Erechtheos 16;Athina;37,972906;23,728550
+Erechtheos 16;Athina;37,972906;23,728550
+Erechtheos 16;Athina;37,972906;23,728550
+Erechtheos 16;Athina;37,972906;23,728550
+Erechtheos 16;Athina;37,972906;23,728550
+Erechtheos 16;Athina;37,972906;23,728550
+Erechtheos 16;Athina;37,972906;23,728550
+Mnisikleous 37;Athina;37,972924;23,727700
+Mnisikleous 37;Athina;37,972924;23,727700
+Mnisikleous 37;Athina;37,972924;23,727700
+Filellinon 18;Athina;37,973121;23,733587
+Filellinon 18;Athina;37,973121;23,733587
+Aggelou Chatzimichali 2;Athina;37,973127;23,731398
+Aggelou Chatzimichali 2;Athina;37,973127;23,731398
+Aggelou Chatzimichali 2;Athina;37,973127;23,731398
+Kodrou 3;Athina;37,973283;23,732205
+Kodrou 3;Athina;37,973283;23,732205
+Kodrou 3;Athina;37,973283;23,732205
+Kodrou 3;Athina;37,973283;23,732205
+Kodrou 3;Athina;37,973283;23,732205
+Kodrou 3;Athina;37,973283;23,732205
+Vasileos Georgiou B;Athina;37,973314;23,743289
+Vasileos Georgiou B;Athina;37,973314;23,743289
+Vasileos Georgiou B;Athina;37,973314;23,743289
+Vasileos Georgiou B;Athina;37,973314;23,743289
+Filellinon 16;Athina;37,973325;23,733653
+Filellinon 16;Athina;37,973325;23,733653
+Filellinon 16;Athina;37,973325;23,733653
+Filellinon 16;Athina;37,973325;23,733653
+Mnisikleous 23;Athina;37,973384;23,727865
+Mnisikleous 23;Athina;37,973384;23,727865
+Mnisikleous 23;Athina;37,973384;23,727865
+Antinoros 42;Athina;37,973393;23,750932
+Antinoros 42;Athina;37,973393;23,750932
+Antinoros 42;Athina;37,973393;23,750932
+Antinoros 42;Athina;37,973393;23,750932
+15, Lissiou Str. and Erehtheos, Plaka;Athens;37,973394;23,728703
+15, Lissiou Str. and Erehtheos, Plaka;Athens;37,973394;23,728703
+Amalias 1, Amalias 1;Athens;37,973450;23,737892
+Iperidou 5;Athina;37,973454;23,732525
+Iperidou 5;Athina;37,973454;23,732525
+Iperidou 5;Athina;37,973454;23,732525
+Grigoriou Afxentiou 142;Zografou;37,973474;23,771299
+Grigoriou Afxentiou 142;Zografou;37,973474;23,771299
+Apostolou Pavlou 23;Athina;37,973485;23,720194
+Apostolou Pavlou 23;Athina;37,973485;23,720194
+Apostolou Pavlou 23;Athina;37,973485;23,720194
+Apostolou Pavlou 23;Athina;37,973486;23,720181
+Apostolou Pavlou 23;Athina;37,973486;23,720181
+Apostolou Pavlou 23;Athina;37,973486;23,720181
+Kiriadon 15;Athina;37,973565;23,710832
+Dimofontos 43;Athina;37,973567;23,714503
+Dimofontos 43;Athina;37,973567;23,714503
+Dimofontos 43;Athina;37,973567;23,714503
+18 Navarchou Nikodimou Str, Plaka;Athens;37,973652;23,731966
+18 Navarchou Nikodimou Str, Plaka;Athens;37,973652;23,731966
+18 Navarchou Nikodimou Str, Plaka;Athens;37,973652;23,731966
+Lavriou Street 301;Paiania;37,973796;23,853592
+Lavriou Street 301;Paiania;37,973796;23,853592
+Lavriou Street 301;Paiania;37,973796;23,853592
+Kanapitseri Street 5, Agios Ioannis Rentis;Athens;37,973873;23,671944
+Kanapitseri Street 5, Agios Ioannis Rentis;Athens;37,973873;23,671944
+Kanapitseri Street 5, Agios Ioannis Rentis;Athens;37,973873;23,671944
+Platia Sintagmatos;Athina;37,973904;23,732920
+Platia Sintagmatos;Athina;37,973904;23,732920
+Platia Sintagmatos;Athina;37,973904;23,732920
+Platia Sintagmatos;Athina;37,973904;23,732920
+Platia Sintagmatos;Athina;37,973904;23,732920
+Nikis 30;Athina;37,973981;23,732933
+Nikis 30;Athina;37,973981;23,732933
+Nikis 30;Athina;37,973981;23,732933
+Agias Marinas 2;Athina;37,974052;23,719983
+Agias Marinas 2;Athina;37,974052;23,719983
+Agias Marinas 2;Athina;37,974052;23,719983
+Diogenous 4;Athina;37,974276;23,727620
+Diogenous 4;Athina;37,974276;23,727620
+Diogenous 4;Athina;37,974276;23,727620
+Leoforos Ionias 171;Athina;37,974356;23,766498
+Leoforos Ionias 171;Athina;37,974356;23,766498
+Leoforos Ionias 171;Athina;37,974356;23,766498
+Leoforos Ionias 171;Athina;37,974356;23,766498
+Leoforos Ionias 171;Athina;37,974356;23,766498
+Leoforos Vasileos Alexandrou 3;Athina;37,974378;23,750776
+Leoforos Vasileos Alexandrou 3;Athina;37,974378;23,750776
+Leoforos Vasileos Alexandrou 3;Athina;37,974378;23,750776
+Grigoriou Kousidi;Zografou;37,974379;23,777731
+Grigoriou Kousidi;Zografou;37,974379;23,777731
+Alkminis 5;Athina;37,974403;23,710528
+Alkminis 5;Athina;37,974403;23,710528
+Alkminis 5;Athina;37,974403;23,710528
+Alkminis 5;Athina;37,974403;23,710528
+Apollonos 27;Athina;37,974564;23,730388
+Apollonos 27;Athina;37,974564;23,730388
+Apollonos 27;Athina;37,974564;23,730388
+Apollonos 27;Athina;37,974564;23,730388
+Apollonos 27;Athina;37,974564;23,730388
+Vrasida 13;Athina;37,974570;23,750466
+Vrasida 13;Athina;37,974570;23,750466
+Vrasida 13;Athina;37,974570;23,750466
+Apollonos 21;Athina;37,974622;23,730999
+Apollonos 21;Athina;37,974622;23,730999
+Apollonos 21;Athina;37,974622;23,730999
+Apollonos 21;Athina;37,974622;23,730999
+Apollonos 19;Athina;37,974649;23,731238
+Apollonos 19;Athina;37,974649;23,731238
+134 Andrianou Str., Plaka;Athens;37,974658;23,729139
+134 Andrianou Str., Plaka;Athens;37,974658;23,729139
+134 Andrianou Str., Plaka;Athens;37,974658;23,729139
+Vrisakiou 17;Athina;37,974672;23,724508
+Vrisakiou 17;Athina;37,974672;23,724508
+Vrisakiou 17;Athina;37,974672;23,724508
+Vrisakiou 17;Athina;37,974672;23,724508
+Vrisakiou 17;Athina;37,974672;23,724508
+Vrisakiou 17;Athina;37,974672;23,724508
+Apollonos 19;Athina;37,974692;23,731302
+Apollonos 19;Athina;37,974692;23,731302
+Apollonos 19;Athina;37,974692;23,731302
+Odos Thebon 228 & Parnassou, Agios. I. Rentes, 228 Thevon Street & Parnassus, St. J. Rentis,;Athens;37,974785;23,668327
+Odos Thebon 228 & Parnassou, Agios. I. Rentes, 228 Thevon Street & Parnassus, St. J. Rentis,;Athens;37,974785;23,668327
+Odos Thebon 228 & Parnassou, Agios. I. Rentes, 228 Thevon Street & Parnassus, St. J. Rentis,;Athens;37,974785;23,668327
+Odos Thebon 228 & Parnassou, Agios. I. Rentes, 228 Thevon Street & Parnassus, St. J. Rentis,;Athens;37,974785;23,668327
+Odos Thebon 228 & Parnassou, Agios. I. Rentes, 228 Thevon Street & Parnassus, St. J. Rentis,;Athens;37,974785;23,668327
+Odos Thebon 228 & Parnassou, Agios. I. Rentes, 228 Thevon Street & Parnassus, St. J. Rentis,;Athens;37,974785;23,668327
+Ipatias 6;Athina;37,974797;23,730765
+Ipatias 6;Athina;37,974797;23,730765
+Ipatias 6;Athina;37,974797;23,730765
+Ipatias 6;Athina;37,974797;23,730765
+Patroou 5;Athina;37,974834;23,731230
+Patroou 5;Athina;37,974834;23,731230
+Patroou 5;Athina;37,974834;23,731230
+Patroou 5;Athina;37,974834;23,731230
+Patroou 5;Athina;37,974834;23,731230
+Patroou 5;Athina;37,974834;23,731230
+Syntagma metro station;Athens;37,974887;23,735940
+Syntagma metro station;Athens;37,974887;23,735940
+Syntagma metro station;Athens;37,974887;23,735940
+Kapnikarea 35;Athina;37,975083;23,727862
+Kapnikarea 35;Athina;37,975083;23,727862
+Kapnikarea 35;Athina;37,975083;23,727862
+Pireos 131;Athina;37,975093;23,710112
+Pireos 131;Athina;37,975093;23,710112
+Pireos 131;Athina;37,975093;23,710112
+Pireos 131;Athina;37,975093;23,710112
+Pireos 131;Athina;37,975093;23,710112
+Pireos 131;Athina;37,975093;23,710112
+Pireos 131;Athina;37,975093;23,710112
+Mitropoleos;Athina;37,975106;23,732922
+Mitropoleos;Athina;37,975106;23,732922
+Mitropoleos;Athina;37,975106;23,732922
+Mitropoleos;Athina;37,975106;23,732922
+Mitropoleos;Athina;37,975106;23,732922
+Mitropoleos 11;Athina;37,975146;23,732635
+Mitropoleos 11;Athina;37,975146;23,732635
+Mitropoleos 11;Athina;37,975146;23,732635
+Iroon Politechniou 50;Zografou;37,975200;23,778686
+Iroon Politechniou 50;Zografou;37,975200;23,778686
+Metropolitan Square, Plateia Metropoleos;Athens;37,975258;23,730104
+Metropolitan Square, Plateia Metropoleos;Athens;37,975258;23,730104
+Metropolitan Square, Plateia Metropoleos;Athens;37,975258;23,730104
+Metropolitan Square, Plateia Metropoleos;Athens;37,975258;23,730104
+Vasiliou Tou Megalou 52;Athina;37,975293;23,706374
+Vasiliou Tou Megalou 52;Athina;37,975293;23,706374
+Vasiliou Tou Megalou 52;Athina;37,975293;23,706374
+Syndagma, 2 Vassileos Georgiou;Athens;37,975311;23,736391
+Syndagma, 2 Vassileos Georgiou;Athens;37,975311;23,736391
+Syndagma, 2 Vassileos Georgiou;Athens;37,975311;23,736391
+Syndagma, 2 Vassileos Georgiou;Athens;37,975311;23,736391
+Syndagma, 2 Vassileos Georgiou;Athens;37,975311;23,736391
+Syndagma, 2 Vassileos Georgiou;Athens;37,975311;23,736391
+Syndagma, 2 Vassileos Georgiou;Athens;37,975311;23,736391
+Voulis 24;Athina;37,975424;23,732311
+Voulis 24;Athina;37,975424;23,732311
+Voulis 24;Athina;37,975424;23,732311
+Voulis 24;Athina;37,975424;23,732311
+Voulis 24;Athina;37,975424;23,732311
+Mitropoleos;Athina;37,975505;23,730303
+Mitropoleos;Athina;37,975505;23,730303
+Mitropoleos;Athina;37,975505;23,730303
+Mitropoleos;Athina;37,975505;23,730303
+Mitropoleos;Athina;37,975505;23,730303
+Mitropoleos;Athina;37,975505;23,730303
+Neofitou Douka 4;Athina;37,975505;23,742035
+Neofitou Douka 4;Athina;37,975505;23,742035
+Neofitou Douka 4;Athina;37,975505;23,742035
+Neofitou Douka 4;Athina;37,975505;23,742035
+Neofitou Douka 4;Athina;37,975505;23,742035
+Neofitou Douka 4;Athina;37,975505;23,742035
+Neofitou Douka 4;Athina;37,975505;23,742035
+Neofitou Douka 4;Athina;37,975505;23,742035
+Neofitou Douka 4;Athina;37,975505;23,742035
+Fokionos 2;Athina;37,975544;23,730502
+Fokionos 2;Athina;37,975544;23,730502
+Fokionos 2;Athina;37,975544;23,730502
+Fokionos 2;Athina;37,975544;23,730502
+Agora;Athens;37,975595;23,721452
+Agora;Athens;37,975595;23,721452
+Agora;Athens;37,975595;23,721452
+Agora;Athens;37,975595;23,721452
+Agora;Athens;37,975595;23,721452
+Petraki 28;Athina;37,975596;23,730616
+Petraki 28;Athina;37,975596;23,730616
+Mitropoleos;Athina;37,975637;23,729419
+Mitropoleos;Athina;37,975637;23,729419
+Adrianou 47;Athina;37,975710;23,725268
+Adrianou 47;Athina;37,975710;23,725268
+Adrianou 47;Athina;37,975710;23,725268
+Kapnikareas 7;Athina;37,975719;23,728336
+Kapnikareas 7;Athina;37,975719;23,728336
+Kapnikareas 7;Athina;37,975719;23,728336
+Kapnikareas 7;Athina;37,975719;23,728336
+Michalakopoulou 1;Athina;37,975734;23,752004
+Michalakopoulou 1;Athina;37,975734;23,752004
+Michalakopoulou 1;Athina;37,975734;23,752004
+Adrianou 33;Athina;37,975864;23,724348
+Adrianou 33;Athina;37,975864;23,724348
+Adrianou 33;Athina;37,975864;23,724348
+Adrianou 33;Athina;37,975864;23,724348
+Dimofontos 13;Athina;37,975881;23,715218
+Neofitou Vamva 2;Athina;37,975915;23,741317
+Neofitou Vamva 2;Athina;37,975915;23,741317
+Neofitou Vamva 2;Athina;37,975915;23,741317
+Neofitou Vamva 2;Athina;37,975915;23,741317
+46 Vassilissis Sofias Avenue;Athens;37,976096;23,750585
+46 Vassilissis Sofias Avenue;Athens;37,976096;23,750585
+46 Vassilissis Sofias Avenue;Athens;37,976096;23,750585
+46 Vassilissis Sofias Avenue;Athens;37,976096;23,750585
+Spefsippou 19;Athina;37,976096;23,750585
+Spefsippou 19;Athina;37,976096;23,750585
+Mitropoleos 63;Athina;37,976125;23,726916
+Mitropoleos 63;Athina;37,976125;23,726916
+Mitropoleos 63;Athina;37,976125;23,726916
+Mitropoleos 63;Athina;37,976125;23,726916
+Mitropoleos 63;Athina;37,976125;23,726916
+Mitropoleos 63;Athina;37,976125;23,726916
+Ermou 39;Athina;37,976149;23,729952
+Ermou 39;Athina;37,976149;23,729952
+Ermou 39;Athina;37,976149;23,729952
+Ermou 39;Athina;37,976149;23,729952
+Normanou 5;Athina;37,976159;23,724285
+Normanou 5;Athina;37,976159;23,724285
+Diomias 4;Athina;37,976170;23,731730
+Diomias 4;Athina;37,976170;23,731730
+Diomias 4;Athina;37,976170;23,731730
+Platia Sintagmatos 1;Athina;37,976171;23,733743
+Platia Sintagmatos 1;Athina;37,976171;23,733743
+Platia Sintagmatos 1;Athina;37,976171;23,733743
+Platia Sintagmatos 1;Athina;37,976171;23,733743
+Apostolou Pavlou 51;Athina;37,976188;23,719139
+Constitution Square;Athina;37,976204;23,735224
+Constitution Square;Athina;37,976204;23,735224
+Constitution Square;Athina;37,976204;23,735224
+Platia Monastirakiou 5;Athina;37,976307;23,726203
+Mitropoleos 69;Athina;37,976318;23,726376
+Mitropoleos 69;Athina;37,976318;23,726376
+Mitropoleos 69;Athina;37,976318;23,726376
+Mitropoleos 69;Athina;37,976318;23,726376
+Mitropoleos 69;Athina;37,976318;23,726376
+Adrianou 9;Athina;37,976321;23,722223
+Leoforos Vasileos Georgiou 2;Athina;37,976324;23,734588
+Leoforos Vasileos Georgiou 2;Athina;37,976324;23,734588
+Adrianou 9;Athina;37,976327;23,721881
+Adrianou 9;Athina;37,976327;23,721881
+Adrianou 9;Athina;37,976327;23,721881
+Adrianou 9;Athina;37,976327;23,721881
+Adrianou 9;Athina;37,976327;23,721881
+Diomeias 5;Athina;37,976340;23,731719
+Diomeias 5;Athina;37,976340;23,731719
+Diomeias 5;Athina;37,976340;23,731719
+Diomeias 5;Athina;37,976340;23,731719
+Diomeias 5;Athina;37,976340;23,731719
+Ermou & Kapnikareas;Athens;37,976345;23,728571
+Diomeias 8;Athina;37,976393;23,731756
+Diomeias 8;Athina;37,976393;23,731756
+Diomeias 8;Athina;37,976393;23,731756
+Karagiorgi Servias 16;Athina;37,976520;23,732251
+Karagiorgi Servias 16;Athina;37,976520;23,732251
+Karagiorgi Servias 16;Athina;37,976520;23,732251
+Kinetou 7;Athina;37,976616;23,723708
+Kinetou 7;Athina;37,976616;23,723708
+Kinetou 7;Athina;37,976616;23,723708
+Kinetou 7;Athina;37,976616;23,723708
+Kinetou 7;Athina;37,976616;23,723708
+Kinetou 7;Athina;37,976616;23,723708
+Platia Avissinias 3;Athina;37,976617;23,724058
+Leoforos Stratarchou Alexandrou Papagou;Athina;37,976643;23,774858
+Leoforos Stratarchou Alexandrou Papagou;Athina;37,976643;23,774858
+Leoforos Stratarchou Alexandrou Papagou;Athina;37,976643;23,774858
+Leoforos Stratarchou Alexandrou Papagou;Athina;37,976643;23,774858
+Leoforos Stratarchou Alexandrou Papagou;Athina;37,976643;23,774858
+Leoforos Stratarchou Alexandrou Papagou;Athina;37,976643;23,774858
+Irodotou 15;Athina;37,976747;23,742501
+Merlin 6;Athina;37,976762;23,738593
+Merlin 6;Athina;37,976762;23,738593
+Merlin 1;Athina;37,976771;23,738522
+Merlin 1;Athina;37,976771;23,738522
+Merlin 1;Athina;37,976771;23,738522
+Merlin 1;Athina;37,976771;23,738522
+Lekka 14;Athina;37,976795;23,731935
+Lekka 14;Athina;37,976795;23,731935
+Lekka 14;Athina;37,976795;23,731935
+Voulis 7;Athina;37,976845;23,732815
+Voulis 7;Athina;37,976845;23,732815
+Voulis 7;Athina;37,976845;23,732815
+Michalacopoulou Street 50;Athens;37,976930;23,754710
+Michalacopoulou Street 50;Athens;37,976930;23,754710
+Michalacopoulou Street 50;Athens;37,976930;23,754710
+Agias Irinis 5;Athina;37,976988;23,727380
+Agias Irinis 5;Athina;37,976988;23,727380
+Agias Irinis 5;Athina;37,976988;23,727380
+Ermou 111;Athina;37,977065;23,722826
+Agias Theklas 3;Athina;37,977103;23,724644
+Agias Theklas 3;Athina;37,977103;23,724644
+Miaouli 2;Athina;37,977107;23,725768
+Miaouli 2;Athina;37,977107;23,725768
+Miaouli 2;Athina;37,977107;23,725768
+Leoforos Vasilissis Sofias 46;Athina;37,977178;23,750982
+Leoforos Vasilissis Sofias 46;Athina;37,977178;23,750982
+Leoforos Vasilissis Sofias 46;Athina;37,977178;23,750982
+Platia Agias Irinis 4;Athina;37,977186;23,728380
+Platia Agias Irinis 4;Athina;37,977186;23,728380
+Platia Agias Irinis 4;Athina;37,977186;23,728380
+Platia Agias Irinis 4;Athina;37,977186;23,728380
+Platia Agias Irinis 4;Athina;37,977186;23,728380
+Ermou 129;Athina;37,977198;23,721857
+Ermou 129;Athina;37,977198;23,721857
+Ermou 129;Athina;37,977198;23,721857
+Platia Filikis Eterias 19;Athina;37,977259;23,740959
+Platia Filikis Eterias 19;Athina;37,977259;23,740959
+Platia Filikis Eterias 19;Athina;37,977259;23,740959
+Platia Filikis Eterias 19;Athina;37,977259;23,740959
+Platia Filikis Eterias 19;Athina;37,977259;23,740959
+Platia Agias Irinis 2;Athina;37,977364;23,728272
+Platia Agias Irinis 2;Athina;37,977373;23,728113
+Platia Agias Irinis 2;Athina;37,977373;23,728113
+Platia Agias Irinis 2;Athina;37,977373;23,728113
+Platia Agias Irinis 6;Athina;37,977400;23,727844
+Platia Agias Irinis 6;Athina;37,977400;23,727844
+Platia Agias Irinis 6;Athina;37,977400;23,727844
+Leokoriou 5;Athina;37,977490;23,721996
+Leokoriou 5;Athina;37,977490;23,721996
+Kolokotroni 25;Athina;37,977517;23,731085
+Kolokotroni 25;Athina;37,977517;23,731085
+Kolokotroni 25;Athina;37,977517;23,731085
+Kolokotroni 25;Athina;37,977517;23,731085
+Kolokotroni 6;Athina;37,977530;23,731650
+Kolokotroni 6;Athina;37,977530;23,731650
+Kolokotroni 6;Athina;37,977530;23,731650
+Milioni 7;Athina;37,977551;23,739432
+Milioni 7;Athina;37,977551;23,739432
+Milioni 7;Athina;37,977551;23,739432
+Milioni 7;Athina;37,977551;23,739432
+Milioni 7;Athina;37,977580;23,739389
+Milioni 7;Athina;37,977580;23,739389
+Milioni 7;Athina;37,977580;23,739389
+Milioni 7;Athina;37,977580;23,739389
+Leokoriou 7;Athina;37,977587;23,721919
+Leokoriou 7;Athina;37,977587;23,721919
+Leokoriou 7;Athina;37,977587;23,721919
+Leokoriou 7;Athina;37,977587;23,721919
+Avramiotou 6-8;Athina;37,977608;23,726669
+Avramiotou 6-8;Athina;37,977608;23,726669
+Avramiotou 6-8;Athina;37,977608;23,726669
+Avramiotou 6-8;Athina;37,977608;23,726669
+Panepistimiou 10;Athens;37,977618;23,735446
+Persefonis 25;Athina;37,977678;23,712487
+Persefonis 25;Athina;37,977678;23,712487
+Persefonis 25;Athina;37,977678;23,712487
+Persefonis 25;Athina;37,977678;23,712487
+Kolokotroni 57;Athina;37,977689;23,728836
+Kolokotroni 57;Athina;37,977689;23,728836
+Kolokotroni 57;Athina;37,977689;23,728836
+Patriarchou Ioakim 13;Athina;37,977752;23,742744
+Patriarchou Ioakim 13;Athina;37,977752;23,742744
+Patriarchou Ioakim 13;Athina;37,977752;23,742744
+Patriarchou Ioakim 13;Athina;37,977752;23,742744
+Patriarchou Ioakim 13;Athina;37,977752;23,742744
+Patriarchou Ioakim 13;Athina;37,977752;23,742744
+Leoforos Eleftheriou Venizelou;Athina;37,977767;23,735172
+Leoforos Eleftheriou Venizelou;Athina;37,977767;23,735172
+Leoforos Eleftheriou Venizelou;Athina;37,977767;23,735172
+Leoforos Eleftheriou Venizelou;Athina;37,977767;23,735172
+Leoforos Eleftheriou Venizelou;Athina;37,977767;23,735172
+Leoforos Eleftheriou Venizelou;Athina;37,977767;23,735172
+skoufa St 15;Athina;37,977787;23,740038
+skoufa St 15;Athina;37,977787;23,740038
+Stadiou 10;Athina;37,977889;23,733497
+Stadiou 10;Athina;37,977889;23,733497
+Stadiou 10;Athina;37,977889;23,733497
+Stadiou 10;Athina;37,977889;23,733497
+38, Patriarhou Ioakeim Str., Kolonaki;Athens;37,977921;23,744343
+38, Patriarhou Ioakeim Str., Kolonaki;Athens;37,977921;23,744343
+38, Patriarhou Ioakeim Str., Kolonaki;Athens;37,977921;23,744343
+Miaouli 19;Athina;37,977970;23,725154
+Miaouli 19;Athina;37,977970;23,725154
+Miaouli 19;Athina;37,977970;23,725154
+Miaouli 19;Athina;37,977970;23,725154
+Miaouli 19;Athina;37,977970;23,725154
+Miaouli 19;Athina;37,977970;23,725154
+Karitsi;Athina;37,977994;23,731834
+Karitsi;Athina;37,977994;23,731834
+Karitsi;Athina;37,977994;23,731834
+Valaoritou 10;Athina;37,978034;23,736400
+Valaoritou 10;Athina;37,978034;23,736400
+Valaoritou 10;Athina;37,978034;23,736400
+Charitos 22;Athina;37,978100;23,743313
+Charitos 22;Athina;37,978100;23,743313
+Charitos 22;Athina;37,978100;23,743313
+Praxitelous 9;Athina;37,978113;23,730580
+Praxitelous 9;Athina;37,978113;23,730580
+Praxitelous 9;Athina;37,978113;23,730580
+Praxitelous 9;Athina;37,978113;23,730580
+Protogenous 10;Athina;37,978177;23,725781
+Protogenous 10;Athina;37,978177;23,725781
+Protogenous 10;Athina;37,978177;23,725781
+Protogenous 10;Athina;37,978177;23,725781
+Protogenous 10;Athina;37,978177;23,725781
+Athinas 23;Athina;37,978185;23,726413
+Athinas 23;Athina;37,978185;23,726413
+Athinas 23;Athina;37,978185;23,726413
+Athinas 23;Athina;37,978185;23,726413
+Athinas 23;Athina;37,978185;23,726413
+Aiolou 45;Athina;37,978196;23,727934
+Aiolou 45;Athina;37,978196;23,727934
+Persefonis 41;Athina;37,978202;23,711698
+Persefonis 41;Athina;37,978202;23,711698
+Omirou 4;Athina;37,978204;23,733603
+Omirou 4;Athina;37,978204;23,733603
+Patriarkhou Ioakeim, Ploutarkhou;Athens;37,978261;23,744955
+Patriarkhou Ioakeim, Ploutarkhou;Athens;37,978261;23,744955
+Patriarkhou Ioakeim, Ploutarkhou;Athens;37,978261;23,744955
+Patriarkhou Ioakeim, Ploutarkhou;Athens;37,978261;23,744955
+Patriarkhou Ioakeim, Ploutarkhou;Athens;37,978261;23,744955
+Patriarchou Ioakim 45;Athina;37,978288;23,745011
+Patriarchou Ioakim 45;Athina;37,978288;23,745011
+Michalakopoulou 57;Athina;37,978299;23,755432
+Michalakopoulou 57;Athina;37,978299;23,755432
+Michalakopoulou 57;Athina;37,978299;23,755432
+Amerikis 9;Athina;37,978360;23,735264
+Amerikis 9;Athina;37,978360;23,735264
+Amerikis 9;Athina;37,978360;23,735264
+Amerikis 9;Athina;37,978360;23,735264
+28is Oktovriou 42;Athina;37,978377;23,782707
+28is Oktovriou 42;Athina;37,978377;23,782707
+28is Oktovriou 42;Athina;37,978377;23,782707
+28is Oktovriou 42;Athina;37,978377;23,782707
+Amerikis 11;Athina;37,978430;23,735490
+Amerikis 11;Athina;37,978430;23,735490
+Amerikis 11;Athina;37,978430;23,735490
+Amerikis 11;Athina;37,978430;23,735490
+Amerikis 11;Athina;37,978430;23,735490
+Valaoritou 15;Athina;37,978464;23,736006
+Valaoritou 15;Athina;37,978464;23,736006
+Valaoritou 15;Athina;37,978464;23,736006
+Athinas 29;Athina;37,978497;23,726494
+Athinas 29;Athina;37,978497;23,726494
+Athinas 29;Athina;37,978497;23,726494
+Athinas 29;Athina;37,978497;23,726494
+Athinas 29;Athina;37,978497;23,726494
+Papadiamantopoulou 20;Athina;37,978688;23,754880
+Papadiamantopoulou 20;Athina;37,978688;23,754880
+Papadiamantopoulou 20;Athina;37,978688;23,754880
+Vas. Georgiou A' Street 3;Athens;37,978697;23,733992
+Vas. Georgiou A' Street 3;Athens;37,978697;23,733992
+Vas. Georgiou A' Street 3;Athens;37,978697;23,733992
+Leoforos Vasilissis Sofias 64;Athina;37,978738;23,752900
+Leoforos Vasilissis Sofias 64;Athina;37,978738;23,752900
+Leoforos Vasilissis Sofias 64;Athina;37,978738;23,752900
+Leoforos Vasilissis Sofias 64;Athina;37,978738;23,752900
+Voutadon 34;Athina;37,978792;23,712337
+Voutadon 34;Athina;37,978792;23,712337
+Voutadon 34;Athina;37,978792;23,712337
+Voutadon 34;Athina;37,978792;23,712337
+Voutadon 34;Athina;37,978792;23,712337
+Voutadon 34;Athina;37,978792;23,712337
+Voutadon 34;Athina;37,978792;23,712337
+Oulof Palme 29;Athina;37,978804;23,762681
+Oulof Palme 29;Athina;37,978804;23,762681
+Oulof Palme 29;Athina;37,978804;23,762681
+Oulof Palme 29;Athina;37,978804;23,762681
+Oulof Palme 29;Athina;37,978804;23,762681
+Voutadon 42;Athina;37,978894;23,711615
+Voutadon 42;Athina;37,978894;23,711615
+Praxitelous 29;Athina;37,978949;23,729571
+Praxitelous 31;Athina;37,978978;23,729533
+Praxitelous 31;Athina;37,978978;23,729533
+Praxitelous 31;Athina;37,978978;23,729533
+Praxitelous 31;Athina;37,978978;23,729533
+Praxitelous 31;Athina;37,978978;23,729533
+Likavittou;Athina;37,978992;23,737106
+Likavittou;Athina;37,978992;23,737106
+Likavittou;Athina;37,978992;23,737106
+Likavittou;Athina;37,978992;23,737106
+Likavittou;Athina;37,978992;23,737106
+Likavittou;Athina;37,978992;23,737106
+Likavittou;Athina;37,978992;23,737106
+Dimokritou 12;Athina;37,979004;23,738150
+Dimokritou 12;Athina;37,979004;23,738150
+Dimokritou 12;Athina;37,979004;23,738150
+Dimokritou 12;Athina;37,979004;23,738150
+Skouleniou 2;Athina;37,979020;23,729600
+Skouleniou 2;Athina;37,979020;23,729600
+Skouleniou 2;Athina;37,979020;23,729600
+Kleomenus 2 Street;Athens;37,979234;23,742270
+Kleomenus 2 Street;Athens;37,979234;23,742270
+Kleomenus 2 Street;Athens;37,979234;23,742270
+Kleomenus 2 Street;Athens;37,979234;23,742270
+Praxitelous 37;Athina;37,979251;23,729119
+Praxitelous 37;Athina;37,979251;23,729119
+Praxitelous 37;Athina;37,979251;23,729119
+Athinas 39;Athina;37,979282;23,726707
+Athinas 39;Athina;37,979282;23,726707
+Oulof Palme 33;Zografou;37,979343;23,763047
+Oulof Palme 33;Zografou;37,979343;23,763047
+G. Papandreou 7-9;Zografou;37,979399;23,761639
+G. Papandreou 7-9;Zografou;37,979399;23,761639
+G. Papandreou 7-9;Zografou;37,979399;23,761639
+G. Papandreou 7-9;Zografou;37,979399;23,761639
+Omirou 17;Athina;37,979454;23,735738
+Omirou 17;Athina;37,979454;23,735738
+Omirou 17;Athina;37,979454;23,735738
+16, Sarri str.;Athens;37,979520;23,723311
+16, Sarri str.;Athens;37,979520;23,723311
+16, Sarri str.;Athens;37,979520;23,723311
+Pireos 80;Athina;37,979922;23,718457
+Pireos 80;Athina;37,979922;23,718457
+Pireos 80;Athina;37,979922;23,718457
+Pireos 80;Athina;37,979922;23,718457
+Pireos 80;Athina;37,979922;23,718457
+Pireos 80;Athina;37,979922;23,718457
+Pireos 80;Athina;37,979922;23,718457
+Georgiou Papandreou 19;Zografou;37,980010;23,762999
+Georgiou Papandreou 19;Zografou;37,980010;23,762999
+Georgiou Papandreou 19;Zografou;37,980010;23,762999
+30-32, Iera Odos, Iera Odos 30-32, Gkazi;Athens;37,980053;23,713945
+30-32, Iera Odos, Iera Odos 30-32, Gkazi;Athens;37,980053;23,713945
+Leoforos Eleftheriou Venizelou 28;Athina;37,980084;23,734196
+Leoforos Eleftheriou Venizelou 28;Athina;37,980084;23,734196
+Agisilaou 61;Athina;37,980178;23,717759
+Agisilaou 61;Athina;37,980178;23,717759
+Agisilaou 61;Athina;37,980178;23,717759
+Agisilaou 88;Athina;37,980296;23,717825
+Agisilaou 88;Athina;37,980296;23,717825
+Agisilaou 88;Athina;37,980296;23,717825
+Plateon 15;Athina;37,980343;23,716998
+Plateon 15;Athina;37,980343;23,716998
+Plateon 15;Athina;37,980343;23,716998
+Plateon 15;Athina;37,980343;23,716998
+Evripidou;Athina;37,980384;23,723497
+Evripidou;Athina;37,980384;23,723497
+Evripidou;Athina;37,980384;23,723497
+Skoufa 40;Athina;37,980418;23,738101
+Megara General Aviation Airport (LGMG);Megara;37,980468;23,366374
+Megara General Aviation Airport (LGMG);Megara;37,980468;23,366374
+Megara General Aviation Airport (LGMG);Megara;37,980468;23,366374
+Megara General Aviation Airport (LGMG);Megara;37,980468;23,366374
+Megara General Aviation Airport (LGMG);Megara;37,980468;23,366374
+Megara General Aviation Airport (LGMG);Megara;37,980468;23,366374
+Sevastias 3;Athina;37,980486;23,756842
+Sevastias 3;Athina;37,980486;23,756842
+Sevastias 3;Athina;37,980486;23,756842
+Sevastias 3;Athina;37,980486;23,756842
+Dionisiou Eginitou 4;Athina;37,980496;23,756115
+Dionisiou Eginitou 4;Athina;37,980496;23,756115
+Dionisiou Eginitou 4;Athina;37,980496;23,756115
+Dionisiou Eginitou 4;Athina;37,980496;23,756115
+Platia Theatrou 2;Athina;37,980635;23,724330
+Platia Theatrou 2;Athina;37,980635;23,724330
+Platia Theatrou 2;Athina;37,980635;23,724330
+Platia Theatrou 2;Athina;37,980635;23,724330
+Platia Theatrou 2;Athina;37,980635;23,724330
+Platia Theatrou 2;Athina;37,980635;23,724330
+Platia Theatrou 2;Athina;37,980635;23,724330
+Diakrias 16;Zografou;37,980667;23,769681
+Diakrias 16;Zografou;37,980667;23,769681
+Diakrias 16;Zografou;37,980667;23,769681
+Diakrias 16;Zografou;37,980667;23,769681
+Athinas 44;Athina;37,980718;23,727262
+Athinas 44;Athina;37,980718;23,727262
+Athinas 44;Athina;37,980718;23,727262
+Athinas 44;Athina;37,980718;23,727262
+Athinas 44;Athina;37,980718;23,727262
+Sokratous 9;Athina;37,980728;23,725835
+Sokratous 9;Athina;37,980728;23,725835
+Sokratous 9;Athina;37,980728;23,725835
+Sokratous 9;Athina;37,980728;23,725835
+Sokratous 9;Athina;37,980728;23,725835
+Skoufa 50;Athina;37,980866;23,737713
+Skoufa 50;Athina;37,980866;23,737713
+Skoufa 50;Athina;37,980866;23,737713
+Skoufa 50;Athina;37,980866;23,737713
+Skoufa 50;Athina;37,980866;23,737713
+Skoufa 50;Athina;37,980866;23,737713
+Skoufa 50;Athina;37,980866;23,737713
+Skoufa 50;Athina;37,980866;23,737713
+Sofokleous 19;Athina;37,980920;23,727749
+Sofokleous 19;Athina;37,980920;23,727749
+Sofokleous 19;Athina;37,980920;23,727749
+Sofokleous 19;Athina;37,980920;23,727749
+Keleou 8;Athina;37,980970;23,712261
+Keleou 8;Athina;37,980970;23,712261
+Keleou 8;Athina;37,980970;23,712261
+Keleou 8;Athina;37,980970;23,712261
+Keleou 8;Athina;37,980970;23,712261
+Sofokleous 26;Athina;37,981158;23,726777
+Sofokleous 26;Athina;37,981158;23,726777
+Sofokleous 26;Athina;37,981158;23,726777
+Sofokleous 26;Athina;37,981158;23,726777
+Sofokleous 26;Athina;37,981158;23,726777
+Falesias 7;Athina;37,981192;23,709394
+Falesias 7;Athina;37,981192;23,709394
+Falesias 7;Athina;37,981192;23,709394
+Falesias 7;Athina;37,981192;23,709394
+Michalakopoulou 114;Athina;37,981306;23,758954
+Michalakopoulou 114;Athina;37,981306;23,758954
+Michalakopoulou 114;Athina;37,981306;23,758954
+Michalakopoulou 114;Athina;37,981306;23,758954
+Michalakopoulou 114;Athina;37,981306;23,758954
+Megalou Alexandrou 70;Athina;37,981408;23,713848
+Megalou Alexandrou 70;Athina;37,981408;23,713848
+Megalou Alexandrou 70;Athina;37,981408;23,713848
+Megalou Alexandrou 70;Athina;37,981408;23,713848
+Megalou Alexandrou 70;Athina;37,981408;23,713848
+Sina 21;Athina;37,981474;23,737541
+Kleisthenous 5;Athina;37,981531;23,726648
+Kleisthenous 5;Athina;37,981531;23,726648
+Kleisthenous 5;Athina;37,981531;23,726648
+Leoforos Eleftheriou Venizelou 46;Athina;37,981553;23,732072
+Leoforos Eleftheriou Venizelou 46;Athina;37,981553;23,732072
+Keleou 1;Athina;37,981555;23,712456
+Keleou 1;Athina;37,981555;23,712456
+Keleou 1;Athina;37,981555;23,712456
+Keleou 1;Athina;37,981555;23,712456
+Menandrou 21;Athina;37,981629;23,724565
+Menandrou 21;Athina;37,981629;23,724565
+Evdilou 15;Zografou;37,981787;23,769699
+Menandrou 25;Athina;37,981892;23,724645
+Menandrou 25;Athina;37,981892;23,724645
+Menandrou 25;Athina;37,981892;23,724645
+Menandrou 25;Athina;37,981892;23,724645
+Skoufa 73;Athina;37,981946;23,736690
+Massalias 22;Athina;37,982050;23,737313
+Massalias 22;Athina;37,982050;23,737313
+Massalias 22;Athina;37,982050;23,737313
+42 Pireos Street;Athens;37,982114;23,722780
+Leoforos Eleftheriou Venizelou 52;Athina;37,982288;23,731452
+Leoforos Eleftheriou Venizelou 52;Athina;37,982288;23,731452
+Leoforos Eleftheriou Venizelou 52;Athina;37,982288;23,731452
+Leoforos Eleftheriou Venizelou 52;Athina;37,982288;23,731452
+Akadimias 59;Athina;37,982391;23,733424
+Akadimias 59;Athina;37,982391;23,733424
+Akadimias 59;Athina;37,982391;23,733424
+Iera Odos 75;Athina;37,982637;23,706800
+Leoforos Konstantinoupoleos 104;Athina;37,982673;23,713364
+Leoforos Konstantinoupoleos 104;Athina;37,982673;23,713364
+Leoforos Konstantinoupoleos 104;Athina;37,982673;23,713364
+Leoforos Konstantinoupoleos 104;Athina;37,982673;23,713364
+Koritsas 6;Athina;37,982967;23,712632
+Koritsas 6;Athina;37,982967;23,712632
+Timoleontos Vassou 8;Athina;37,983012;23,757328
+Timoleontos Vassou 8;Athina;37,983012;23,757328
+Timoleontos Vassou 8;Athina;37,983012;23,757328
+Asklipiou 39;Athina;37,983033;23,737182
+Didotou 31;Athina;37,983068;23,736758
+Didotou 31;Athina;37,983068;23,736758
+Didotou 31;Athina;37,983068;23,736758
+Didotou 31;Athina;37,983068;23,736758
+Didotou 31;Athina;37,983068;23,736758
+Ippokratous 41;Athina;37,983104;23,736157
+Ippokratous 41;Athina;37,983104;23,736157
+Dorileou 6;Athina;37,983139;23,756529
+Dorileou 6;Athina;37,983139;23,756529
+Pireos 15;Athina;37,983276;23,725962
+Pireos 15;Athina;37,983276;23,725962
+Pireos 15;Athina;37,983276;23,725962
+Pireos 15;Athina;37,983276;23,725962
+Avissynias Square;Athina;37,983299;23,733299
+Avissynias Square;Athina;37,983299;23,733299
+Avissynias Square;Athina;37,983299;23,733299
+Emmanouil Mpenaki 7;Athina;37,983353;23,730620
+Emmanouil Mpenaki 7;Athina;37,983353;23,730620
+Emmanouil Mpenaki 7;Athina;37,983353;23,730620
+Emmanouil Mpenaki 7;Athina;37,983353;23,730620
+Emmanouil Mpenaki 7;Athina;37,983353;23,730620
+Aiolou 102;Athina;37,983418;23,729344
+Aiolou 102;Athina;37,983418;23,729344
+Aiolou 102;Athina;37,983418;23,729344
+Kastorias 37;Athina;37,983527;23,711197
+Kastorias 37;Athina;37,983527;23,711197
+Kastorias 37;Athina;37,983527;23,711197
+Pireos 2;Athina;37,983800;23,727500
+Timoleontos Vassou 22;Athina;37,983810;23,755905
+Timoleontos Vassou 22;Athina;37,983810;23,755905
+Timoleontos Vassou 22;Athina;37,983810;23,755905
+Timoleontos Vassou 22;Athina;37,983810;23,755905
+Timoleontos Vassou 22;Athina;37,983810;23,755905
+3 Filomoussou Street, Plaka;Athens;37,983894;23,727930
+3 Filomoussou Street, Plaka;Athens;37,983894;23,727930
+3 Filomoussou Street, Plaka;Athens;37,983894;23,727930
+3 Filomoussou Street, Plaka;Athens;37,983894;23,727930
+Gambetta 8;Athens;37,983961;23,730973
+Gambetta 8;Athens;37,983961;23,730973
+Gambetta 8;Athens;37,983961;23,730973
+Gambetta 8;Athens;37,983961;23,730973
+Gambetta 8;Athens;37,983961;23,730973
+Gambetta 8;Athens;37,983961;23,730973
+Sinopis 6;Athina;37,983986;23,760713
+Sinopis 6;Athina;37,983986;23,760713
+Agiou Konstantinou 7;Athina;37,984248;23,726759
+Agiou Konstantinou 7;Athina;37,984248;23,726759
+Agiou Konstantinou 7;Athina;37,984248;23,726759
+Agiou Konstantinou 7;Athina;37,984248;23,726759
+Michalakopoulou 157;Athina;37,984265;23,763567
+Michalakopoulou 157;Athina;37,984265;23,763567
+Michalakopoulou 157;Athina;37,984265;23,763567
+Geraniou 49;Athina;37,984330;23,726026
+Geraniou 49;Athina;37,984330;23,726026
+Geraniou 49;Athina;37,984330;23,726026
+Agiou Konstantinou 21;Athina;37,984367;23,725769
+Agiou Konstantinou 21;Athina;37,984367;23,725769
+Agiou Konstantinou 21;Athina;37,984367;23,725769
+Agiou Konstantinou 21;Athina;37,984367;23,725769
+Vasilissis Sofias;Athina;37,984544;23,759490
+Emmanouil Mpenaki 42;Athina;37,984587;23,733189
+Emmanouil Mpenaki 42;Athina;37,984587;23,733189
+Agiou Konstantinou 28;Athina;37,984755;23,724623
+Agiou Konstantinou 28;Athina;37,984755;23,724623
+Agiou Konstantinou 28;Athina;37,984755;23,724623
+Agiou Konstantinou 28;Athina;37,984755;23,724623
+Agiou Konstantinou 28;Athina;37,984755;23,724623
+Agiou Konstantinou 28;Athina;37,984755;23,724623
+Agiou Konstantinou 22;Athina;37,984758;23,725212
+Agiou Konstantinou 22;Athina;37,984758;23,725212
+Agiou Konstantinou 32;Athina;37,984844;23,724216
+Dorou 4;Athina;37,984846;23,728987
+Dorou 4;Athina;37,984846;23,728987
+Dorou 4;Athina;37,984846;23,728987
+Dorou 4;Athina;37,984846;23,728987
+Dorou 4;Athina;37,984846;23,728987
+Asklipiou 91;Athina;37,984857;23,740783
+Asklipiou 91;Athina;37,984857;23,740783
+Sokratous 50;Athina;37,984906;23,727030
+Sokratous 50;Athina;37,984906;23,727030
+Sokratous 50;Athina;37,984906;23,727030
+Sokratous 50;Athina;37,984906;23,727030
+Sokratous 50;Athina;37,984906;23,727030
+Sokratous 50;Athina;37,984906;23,727030
+Sokratous 50;Athina;37,984906;23,727030
+Sokratous 50;Athina;37,984906;23,727030
+Sokratous 50;Athina;37,984906;23,727030
+Dorou 5;Athina;37,984936;23,728865
+Kallidromiou 8;Athina;37,984944;23,739603
+Kallidromiou 8;Athina;37,984944;23,739603
+Emmanouil Mpenaki 45;Athina;37,985019;23,733718
+Emmanouil Mpenaki 45;Athina;37,985019;23,733718
+Veranzerou 1;Athina;37,985035;23,731348
+Veranzerou 1;Athina;37,985035;23,731348
+Veranzerou 1;Athina;37,985035;23,731348
+Veranzerou 1;Athina;37,985035;23,731348
+Veranzerou 1;Athina;37,985035;23,731348
+Virginias Mpenaki 7;Athina;37,985048;23,718770
+Achilleos 10;Athina;37,985204;23,720284
+Achilleos 10;Athina;37,985204;23,720284
+Achilleos 10;Athina;37,985204;23,720284
+Thivon ke Papadiamantopoulou;Athina;37,985220;23,767509
+Thivon ke Papadiamantopoulou;Athina;37,985220;23,767509
+Odisseos 13;Athina;37,985298;23,719681
+Odisseos 13;Athina;37,985298;23,719681
+Odisseos 13;Athina;37,985298;23,719681
+Emmanouil Mpenaki 53;Athina;37,985322;23,734396
+Emmanouil Mpenaki 53;Athina;37,985322;23,734396
+Emmanouil Mpenaki 53;Athina;37,985322;23,734396
+Sokratous 56;Athina;37,985367;23,727114
+Sokratous 56;Athina;37,985367;23,727114
+Sokratous 56;Athina;37,985367;23,727114
+Themistokleous 48;Athina;37,985408;23,733083
+Themistokleous 48;Athina;37,985408;23,733083
+Themistokleous 48;Athina;37,985408;23,733083
+Themistokleous 48;Athina;37,985408;23,733083
+Themistokleous 48;Athina;37,985408;23,733083
+Themistokleous 48;Athina;37,985408;23,733083
+Tsocha 27;Athina;37,985424;23,757074
+Veranzerou 10;Athina;37,985430;23,729519
+Michalakopoulou 184;Athina;37,985546;23,764938
+Michalakopoulou 184;Athina;37,985546;23,764938
+Michalakopoulou 184;Athina;37,985546;23,764938
+Michalakopoulou 184;Athina;37,985546;23,764938
+Leoforos Mesogeion 15;Athina;37,985668;23,762125
+Karolou 21;Athina;37,985716;23,722959
+Karolou 21;Athina;37,985716;23,722959
+Emmanouil Mpenaki 76;Athina;37,985734;23,735322
+Emmanouil Mpenaki 76;Athina;37,985734;23,735322
+Karolou 23;Athina;37,985758;23,722741
+Karolou 23;Athina;37,985758;23,722741
+Karolou 23;Athina;37,985758;23,722741
+3is Septemvriou 11;Athina;37,985806;23,728183
+3is Septemvriou 11;Athina;37,985806;23,728183
+3is Septemvriou 11;Athina;37,985806;23,728183
+3is Septemvriou 11;Athina;37,985806;23,728183
+3is Septemvriou 11;Athina;37,985806;23,728183
+Karolou 12;Athina;37,985868;23,723041
+Karolou 12;Athina;37,985868;23,723041
+Chalkokondili 21;Athina;37,985926;23,728682
+Chalkokondili 21;Athina;37,985926;23,728682
+Chalkokondili 14;Athina;37,985943;23,730265
+Chalkokondili 14;Athina;37,985943;23,730265
+Chalkokondili 14;Athina;37,985943;23,730265
+Chalkokondili 14;Athina;37,985943;23,730265
+Chalkokondili 14;Athina;37,985943;23,730265
+Chalkokondili 14;Athina;37,985943;23,730265
+Odisseos 1;Athina;37,986054;23,721042
+Odisseos 1;Athina;37,986054;23,721042
+Odisseos 1;Athina;37,986054;23,721042
+Odisseos 1;Athina;37,986054;23,721042
+Odisseos 1;Athina;37,986054;23,721042
+Odisseos 1;Athina;37,986054;23,721042
+Odisseos 1;Athina;37,986054;23,721042
+Themistokleous 70;Athina;37,986166;23,734532
+Themistokleous 70;Athina;37,986166;23,734532
+Themistokleous 70;Athina;37,986166;23,734532
+Themistokleous 64;Athina;37,986219;23,734479
+Themistokleous 64;Athina;37,986219;23,734479
+Themistokleous 64;Athina;37,986219;23,734479
+Soultani 12;Athina;37,986322;23,733542
+Soultani 12;Athina;37,986322;23,733542
+Soultani 12;Athina;37,986322;23,733542
+Soultani 12;Athina;37,986322;23,733542
+Soultani 12;Athina;37,986322;23,733542
+Chalkokondili 41;Athina;37,986354;23,726555
+Chalkokondili 41;Athina;37,986354;23,726555
+Chalkokondili 41;Athina;37,986354;23,726555
+Chalkokondili 41;Athina;37,986354;23,726555
+Chalkokondili 41;Athina;37,986354;23,726555
+Viktoros Ougko 25;Athina;37,986388;23,723149
+Viktoros Ougko 25;Athina;37,986388;23,723149
+Viktoros Ougko 25;Athina;37,986388;23,723149
+Tsocha 43;Athina;37,986444;23,754765
+Tsocha 43;Athina;37,986444;23,754765
+Tsocha 43;Athina;37,986444;23,754765
+Tsocha 43;Athina;37,986444;23,754765
+Psaron 16;Athina;37,986523;23,722271
+Psaron 16;Athina;37,986523;23,722271
+Psaron 16;Athina;37,986523;23,722271
+Psaron 16;Athina;37,986523;23,722271
+Psaron 16;Athina;37,986523;23,722271
+Leoforos Kifisias;Athina;37,986532;23,761249
+Leoforos Kifisias;Athina;37,986532;23,761249
+Leoforos Kifisias;Athina;37,986532;23,761249
+Building Block E71, Spata;Athens;37,986540;23,908738
+Building Block E71, Spata;Athens;37,986540;23,908738
+Building Block E71, Spata;Athens;37,986540;23,908738
+Building Block E71, Spata;Athens;37,986540;23,908738
+Building Block E71, Spata;Athens;37,986540;23,908738
+Building Block E71, Spata;Athens;37,986540;23,908738
+Themistokleous 80;Athina;37,986628;23,735462
+Themistokleous 80;Athina;37,986628;23,735462
+Solomou 26;Athina;37,986671;23,732900
+Solomou 26;Athina;37,986671;23,732900
+Solomou 26;Athina;37,986671;23,732900
+Stournari 7;Athina;37,986781;23,734514
+Stournari 7;Athina;37,986781;23,734514
+Makrigianni 27;Athina;37,986830;23,750444
+Makrigianni 27;Athina;37,986830;23,750444
+Kerameon 27;Athina;37,986975;23,719289
+Kerameon 27;Athina;37,986975;23,719289
+Kerameon 27;Athina;37,986975;23,719289
+Chiou 9;Athina;37,987145;23,721293
+Chiou 9;Athina;37,987145;23,721293
+Chiou 9;Athina;37,987145;23,721293
+Mager 17;Athina;37,987162;23,725356
+Leoforos Alexandras;Athina;37,987235;23,754169
+Leoforos Alexandras;Athina;37,987235;23,754169
+Driadon;Athina;37,987400;23,738001
+Driadon;Athina;37,987400;23,738001
+Driadon;Athina;37,987400;23,738001
+Driadon;Athina;37,987400;23,738001
+Marni 34;Athina;37,987652;23,727331
+Marni 34;Athina;37,987652;23,727331
+Marni 34;Athina;37,987652;23,727331
+Marni 34;Athina;37,987652;23,727331
+Stournari 61;Athina;37,987707;23,728608
+Stournari 61;Athina;37,987707;23,728608
+Stournari 61;Athina;37,987707;23,728608
+Stournari 61;Athina;37,987707;23,728608
+Stournari 61;Athina;37,987707;23,728608
+Stournari 61;Athina;37,987707;23,728608
+Leoforos Mesogeion 59;Athina;37,987707;23,766209
+Leoforos Mesogeion 59;Athina;37,987707;23,766209
+Leoforos Mesogeion 59;Athina;37,987707;23,766209
+Marni 27;Athina;37,987745;23,727914
+Anexartisias;Athina;37,988059;23,737752
+Anexartisias;Athina;37,988059;23,737752
+Anexartisias;Athina;37,988059;23,737752
+Anexartisias;Athina;37,988059;23,737752
+Anexartisias;Athina;37,988059;23,737752
+Mpoumpoulinas 16;Athina;37,988117;23,733336
+Mpoumpoulinas 16;Athina;37,988117;23,733336
+Mpoumpoulinas 16;Athina;37,988117;23,733336
+Mpoumpoulinas 16;Athina;37,988117;23,733336
+Mpoumpoulinas 16;Athina;37,988117;23,733336
+Mpoumpoulinas 16;Athina;37,988117;23,733336
+Asklipiou 156;Athina;37,988529;23,748442
+Asklipiou 156;Athina;37,988529;23,748442
+Asklipiou 156;Athina;37,988529;23,748442
+Asklipiou 156;Athina;37,988529;23,748442
+Averof 4;Athina;37,988706;23,730311
+Acharnon 15;Athina;37,988746;23,726562
+Acharnon 15;Athina;37,988746;23,726562
+Acharnon 15;Athina;37,988746;23,726562
+Acharnon 15;Athina;37,988746;23,726562
+Acharnon 15;Athina;37,988746;23,726562
+Acharnon 15;Athina;37,988746;23,726562
+Acharnon 15;Athina;37,988746;23,726562
+105 Alexandras Ave;Athens;37,988866;23,749208
+28is Oktovriou 44;Athina;37,989023;23,732760
+28is Oktovriou 44;Athina;37,989023;23,732760
+28is Oktovriou 44;Athina;37,989023;23,732760
+28is Oktovriou 44;Athina;37,989023;23,732760
+Platia Argentinis Dimokratias 14;Athina;37,989154;23,744294
+Platia Argentinis Dimokratias 14;Athina;37,989154;23,744294
+Platia Argentinis Dimokratias 14;Athina;37,989154;23,744294
+Platia Argentinis Dimokratias 14;Athina;37,989154;23,744294
+Theodorou Diligianni Street 40;Athina;37,989157;23,720335
+Theodorou Diligianni Street 40;Athina;37,989157;23,720335
+Leoforos Alexandras 91;Athina;37,989255;23,747107
+Leoforos Alexandras 91;Athina;37,989255;23,747107
+Leoforos Alexandras 91;Athina;37,989255;23,747107
+Leoforos Kifisias 43;Athina;37,989287;23,764049
+Leoforos Kifisias 43;Athina;37,989287;23,764049
+Leoforos Kifisias 43;Athina;37,989287;23,764049
+Leoforos Kifisias 43;Athina;37,989287;23,764049
+Leoforos Kifisias 43;Athina;37,989287;23,764049
+Leoforos Kifisias 43;Athina;37,989287;23,764049
+Leoforos Kifisias 43;Athina;37,989287;23,764049
+Zonara 21;Athina;37,989322;23,744197
+Zonara 21;Athina;37,989322;23,744197
+Lenorman 89;Athina;37,989836;23,715876
+Liosion 45;Athina;37,990725;23,723842
+Liosion 45;Athina;37,990725;23,723842
+Liosion 45;Athina;37,990725;23,723842
+Dimou Tseliou 5;Athina;37,990848;23,754499
+Dimou Tseliou 5;Athina;37,990848;23,754499
+Dimou Tseliou 5;Athina;37,990848;23,754499
+Dimou Tseliou 5;Athina;37,990848;23,754499
+Dimou Tseliou 5;Athina;37,990848;23,754499
+Dimou Tseliou 5;Athina;37,990848;23,754499
+Mpoumpoulinas 19;Athina;37,991053;23,733992
+Mpoumpoulinas 19;Athina;37,991053;23,733992
+Mpoumpoulinas 19;Athina;37,991053;23,733992
+Mpoumpoulinas 19;Athina;37,991053;23,733992
+Acharnon 50;Athina;37,991157;23,726989
+Acharnon 50;Athina;37,991157;23,726989
+Xiromerou 20;Athina;37,991316;23,767826
+Xiromerou 20;Athina;37,991316;23,767826
+Xiromerou 20;Athina;37,991316;23,767826
+Leoforos Alexandras 10;Athina;37,991388;23,732674
+Leoforos Mesogeion 99;Athina;37,991462;23,772031
+3is Septemvriou;Athina;37,991480;23,729966
+3is Septemvriou;Athina;37,991480;23,729966
+3is Septemvriou;Athina;37,991480;23,729966
+3is Septemvriou;Athina;37,991480;23,729966
+Naftikou 17;Athina;37,991537;23,698963
+Naftikou 17;Athina;37,991537;23,698963
+Naftikou 17;Athina;37,991537;23,698963
+Portarias 18;Athina;37,991896;23,765102
+Portarias 18;Athina;37,991896;23,765102
+Portarias 18;Athina;37,991896;23,765102
+Portarias 18;Athina;37,991896;23,765102
+Portarias 18;Athina;37,991896;23,765102
+Filadelfias;Athina;37,992004;23,722396
+Filadelfias;Athina;37,992004;23,722396
+Filadelfias;Athina;37,992004;23,722396
+Filadelfias;Athina;37,992004;23,722396
+Platia Viktorias;Athina;37,992940;23,730113
+Platia Viktorias;Athina;37,992940;23,730113
+Platia Viktorias;Athina;37,992940;23,730113
+Papada 2;Athina;37,992956;23,775167
+Papada 2;Athina;37,992956;23,775167
+Papada 2;Athina;37,992956;23,775167
+Kotsika 2;Athina;37,993168;23,731735
+Panormou 117B;Athina;37,993375;23,766423
+Panormou 117B;Athina;37,993375;23,766423
+Panormou 107;Athina;37,993385;23,763798
+Panormou 107;Athina;37,993385;23,763798
+Panormou 107;Athina;37,993385;23,763798
+Panormou 107;Athina;37,993385;23,763798
+Peoniou 52;Athina;37,993610;23,722041
+Peoniou 52;Athina;37,993610;23,722041
+Peoniou 52;Athina;37,993610;23,722041
+Laskaridou 5;Athina;37,993735;23,766192
+Laskaridou 5;Athina;37,993735;23,766192
+Laskaridou 5;Athina;37,993735;23,766192
+Laskaridou 5;Athina;37,993735;23,766192
+Laskaridou 5;Athina;37,993735;23,766192
+Laskaridou 5;Athina;37,993735;23,766192
+Laskaridou 5;Athina;37,993735;23,766192
+Laskaridou 5;Athina;37,993735;23,766192
+Dodekanisou 1;Agia Varvara;37,994490;23,662884
+Dodekanisou 1;Agia Varvara;37,994490;23,662884
+Dodekanisou 1;Agia Varvara;37,994490;23,662884
+Dodekanisou 1;Agia Varvara;37,994490;23,662884
+Dodekanisou 1;Agia Varvara;37,994490;23,662884
+3is Septemvriou 118;Athina;37,994787;23,730768
+3is Septemvriou 118;Athina;37,994787;23,730768
+3is Septemvriou 118;Athina;37,994787;23,730768
+Mpei 52;Megara;37,994844;23,344590
+Mpei 52;Megara;37,994844;23,344590
+Mpei 52;Megara;37,994844;23,344590
+3is Septemvriou 118;Athina;37,994938;23,730808
+3is Septemvriou 118;Athina;37,994938;23,730808
+3is Septemvriou 118;Athina;37,994938;23,730808
+3is Septemvriou 118;Athina;37,994938;23,730808
+3is Septemvriou 118;Athina;37,994938;23,730808
+3is Septemvriou 118;Athina;37,994938;23,730808
+3is Septemvriou 118;Athina;37,994938;23,730808
+3is Septemvriou 118;Athina;37,994938;23,730808
+Kodrigktonos;Athina;37,995614;23,732848
+Kodrigktonos;Athina;37,995614;23,732848
+Kodrigktonos;Athina;37,995614;23,732848
+Kodrigktonos;Athina;37,995614;23,732848
+Spetson 22;Athina;37,996162;23,737075
+Spetson 22;Athina;37,996162;23,737075
+Spetson 22;Athina;37,996162;23,737075
+Spetson 22;Athina;37,996162;23,737075
+Spetson 22;Athina;37,996162;23,737075
+Agorakritou 29;Athina;37,996495;23,724422
+Mesogeion;Athina;37,996662;23,780946
+Mesogeion;Athina;37,996662;23,780946
+Mesogeion;Athina;37,996662;23,780946
+Vlachaki 44;Athina;37,996832;23,774873
+Vlachaki 44;Athina;37,996832;23,774873
+Vlachaki 44;Athina;37,996832;23,774873
+Vlachaki 44;Athina;37,996832;23,774873
+Vlachaki 44;Athina;37,996832;23,774873
+Vlachaki 44;Athina;37,996832;23,774873
+Vlachaki 44;Athina;37,996832;23,774873
+Leoforos Mesogion 154;Athina;37,997011;23,782834
+Leoforos Mesogion 154;Athina;37,997011;23,782834
+Leoforos Mesogion 154;Athina;37,997011;23,782834
+Leoforos Mesogion 154;Athina;37,997011;23,782834
+Apostolou Ioannou 8;Athina;37,997031;23,715234
+Apostolou Ioannou 8;Athina;37,997031;23,715234
+Apostolou Ioannou 8;Athina;37,997031;23,715234
+Apostolou Ioannou 8;Athina;37,997031;23,715234
+Apostolou Ioannou 8;Athina;37,997031;23,715234
+Apostolou Ioannou 8;Athina;37,997031;23,715234
+Androu 2;Athina;37,997299;23,732756
+Androu 2;Athina;37,997299;23,732756
+Androu 2;Athina;37,997299;23,732756
+Androu 2;Athina;37,997299;23,732756
+Olenou 14;Athina;37,997310;23,742754
+Olenou 14;Athina;37,997310;23,742754
+Olenou 14;Athina;37,997310;23,742754
+Olenou 14;Athina;37,997310;23,742754
+Olenou 14;Athina;37,997310;23,742754
+Olenou 14;Athina;37,997310;23,742754
+Platia Agiou Georgiou 8;Peristeri;37,997862;23,735503
+Nikomidous 18;Athina;37,997867;23,705817
+Nikomidous 18;Athina;37,997867;23,705817
+Georgiou Vlachou 38;Athina;37,998320;23,775519
+Georgiou Vlachou 38;Athina;37,998320;23,775519
+Georgiou Vlachou 38;Athina;37,998320;23,775519
+Georgiou Vlachou 38;Athina;37,998320;23,775519
+Georgiou Vlachou 38;Athina;37,998320;23,775519
+Leoforos Kifisou;Athina;37,998453;23,698883
+Leoforos Kifisou;Athina;37,998453;23,698883
+Leoforos Kifisou;Athina;37,998453;23,698883
+Kefallinias 16;Athina;37,998740;23,736657
+Kefallinias 16;Athina;37,998740;23,736657
+Kefallinias 16;Athina;37,998740;23,736657
+Kefallinias 16;Athina;37,998740;23,736657
+Ikonomou 4;Athina;37,998780;23,770507
+Ikonomou 4;Athina;37,998780;23,770507
+Korinthou;Pallini;37,998961;23,898729
+Korinthou;Pallini;37,998961;23,898729
+Kolonou 3;Peristeri;37,999105;23,694235
+Georgiou Vlachou;Athina;37,999135;23,774761
+Georgiou Vlachou;Athina;37,999135;23,774761
+Vrilissou 30;Athina;37,999423;23,754776
+Vrilissou 30;Athina;37,999423;23,754776
+Vrilissou 30;Athina;37,999423;23,754776
+Vrilissou 30;Athina;37,999423;23,754776
+Evalkidou 7;Athina;37,999594;23,721892
+Evalkidou 7;Athina;37,999594;23,721892
+Peloponnisou 79;Athina;38,000320;23,818295
+Peloponnisou 79;Athina;38,000320;23,818295
+Peloponnisou 79;Athina;38,000320;23,818295
+Peloponnisou 79;Athina;38,000320;23,818295
+Agiou Meletiou;Athina;38,000393;23,731828
+Agiou Meletiou;Athina;38,000393;23,731828
+Agiou Meletiou;Athina;38,000393;23,731828
+Agiou Meletiou;Athina;38,000393;23,731828
+Agiou Meletiou;Athina;38,000393;23,731828
+Skirou 7;Athina;38,001151;23,740282
+Skirou 7;Athina;38,001151;23,740282
+Kipselis 90;Athina;38,001389;23,741067
+Kipselis 90;Athina;38,001389;23,741067
+Kipselis 90;Athina;38,001389;23,741067
+Filippoupoleos 1;Athina;38,001794;23,718972
+Filippoupoleos 1;Athina;38,001794;23,718972
+Negri Fokionos 57;Athina;38,002060;23,739892
+Negri Fokionos 57;Athina;38,002060;23,739892
+Negri Fokionos 57;Athina;38,002060;23,739892
+Negri Fokionos 57;Athina;38,002060;23,739892
+Negri Fokionos 80;Athina;38,002066;23,740675
+Negri Fokionos 80;Athina;38,002066;23,740675
+Negri Fokionos 80;Athina;38,002066;23,740675
+Negri Fokionos 80;Athina;38,002066;23,740675
+Negri Fokionos 80;Athina;38,002066;23,740675
+Negri Fokionos 80;Athina;38,002066;23,740675
+Megalou Alexandrou 33;Pallini;38,002131;23,883997
+Kristalli 39;Peristeri;38,002365;23,698307
+Kristalli 39;Peristeri;38,002365;23,698307
+Kristalli 39;Peristeri;38,002365;23,698307
+Kristalli 39;Peristeri;38,002365;23,698307
+Kristalli 39;Peristeri;38,002365;23,698307
+Thivon 38;Peristeri;38,003348;23,686836
+Thivon 38;Peristeri;38,003348;23,686836
+Kavalas 149;Peristeri;38,004405;23,679462
+Kavalas 149;Peristeri;38,004405;23,679462
+Kavalas 149;Peristeri;38,004405;23,679462
+Kavalas 149;Peristeri;38,004405;23,679462
+Kavalas 149;Peristeri;38,004405;23,679462
+Kavalas 149;Peristeri;38,004405;23,679462
+Ethnarchou Makariou 60;Peristeri;38,004983;23,701420
+Amfiaraou 192;Athina;38,005180;23,714547
+Amfiaraou 192;Athina;38,005180;23,714547
+Amfiaraou 192;Athina;38,005180;23,714547
+Kafkasou;Athina;38,005293;23,748955
+Kafkasou;Athina;38,005293;23,748955
+Kafkasou;Athina;38,005293;23,748955
+Kafkasou;Athina;38,005293;23,748955
+Kafkasou;Athina;38,005293;23,748955
+Elvetias 21;Agia Paraskevi;38,006006;23,826541
+Elvetias 21;Agia Paraskevi;38,006006;23,826541
+Elvetias 21;Agia Paraskevi;38,006006;23,826541
+Olimpias 20;Athina;38,006128;23,728785
+Olimpias 20;Athina;38,006128;23,728785
+Olimpias 20;Athina;38,006128;23,728785
+Agiou Ioannou 71;Agia Paraskevi;38,006348;23,827611
+Elvetias 21;Agia Paraskevi;38,006373;23,827315
+Elvetias 21;Agia Paraskevi;38,006373;23,827315
+Elvetias 21;Agia Paraskevi;38,006373;23,827315
+Serafi 34;Athina;38,006666;23,724909
+Serafi 34;Athina;38,006666;23,724909
+Serafi 34;Athina;38,006666;23,724909
+Serafi 34;Athina;38,006666;23,724909
+Agiou Ioannou 63;Agia Paraskevi;38,006995;23,827106
+Agiou Ioannou 63;Agia Paraskevi;38,006995;23,827106
+Agiou Ioannou 63;Agia Paraskevi;38,006995;23,827106
+Agiou Ioannou 63;Agia Paraskevi;38,006995;23,827106
+Dirrachiou 89;Athina;38,008046;23,715172
+Dirrachiou 89;Athina;38,008046;23,715172
+Dirrachiou 89;Athina;38,008046;23,715172
+Eleftheriou Venizelou 7;Athina;38,008631;23,812348
+Eleftheriou Venizelou 7;Athina;38,008631;23,812348
+Eleftheriou Venizelou 7;Athina;38,008631;23,812348
+Eleftheriou Venizelou 7;Athina;38,008631;23,812348
+Eleftheriou Venizelou 7;Athina;38,008631;23,812348
+Tzavella 1;Chalandri;38,008923;23,785624
+Tzavella 1;Chalandri;38,008923;23,785624
+312 Messogion Ave.;Athens;38,008928;23,805848
+312 Messogion Ave.;Athens;38,008928;23,805848
+312 Messogion Ave.;Athens;38,008928;23,805848
+312 Messogion Ave.;Athens;38,008928;23,805848
+Orthodoxou Christianikis Enoseos 6;Peristeri;38,008941;23,697593
+Orthodoxou Christianikis Enoseos 6;Peristeri;38,008941;23,697593
+Gravias 6;Agia Paraskevi;38,008960;23,836413
+432 Messogeion Ave;Agia Paraskevi;38,009028;23,831703
+432 Messogeion Ave;Agia Paraskevi;38,009028;23,831703
+432 Messogeion Ave;Agia Paraskevi;38,009028;23,831703
+432 Messogeion Ave;Agia Paraskevi;38,009028;23,831703
+432 Messogeion Ave;Agia Paraskevi;38,009028;23,831703
+Ithomis 26;Chalandri;38,009995;23,793005
+Ithomis 26;Chalandri;38,009995;23,793005
+Ioannou Apostolopoulou 57;Chalandri;38,010002;23,788716
+Ioannou Apostolopoulou 57;Chalandri;38,010002;23,788716
+Ioannou Apostolopoulou 57;Chalandri;38,010002;23,788716
+Akropoleos 19;Athina;38,010395;23,695868
+Akropoleos 19;Athina;38,010395;23,695868
+28is Oktovriou;Athina;38,010916;23,735282
+28is Oktovriou;Athina;38,010916;23,735282
+28is Oktovriou;Athina;38,010916;23,735282
+28is Oktovriou;Athina;38,010916;23,735282
+28is Oktovriou;Athina;38,010916;23,735282
+28is Oktovriou;Athina;38,010916;23,735282
+Agiou Ioannou 23;Agia Paraskevi;38,011001;23,823651
+Agiou Ioannou 23;Agia Paraskevi;38,011001;23,823651
+Agiou Ioannou 23;Agia Paraskevi;38,011001;23,823651
+Aristeidou Oikonomou 12;Athina;38,011169;23,722387
+Sarantaporou;Peristeri;38,011698;23,691130
+Sarantaporou;Peristeri;38,011698;23,691130
+Gkionas 11;Peristeri;38,011756;23,714957
+Konstantinou Paleologou 1;Agia Paraskevi;38,011811;23,835504
+Konstantinou Paleologou 1;Agia Paraskevi;38,011811;23,835504
+Leoforos Mesogeion 399;Athina;38,012066;23,814448
+Leoforos Mesogeion 399;Athina;38,012066;23,814448
+Tzon Kennenty 181;Peristeri;38,012103;23,676741
+Tzon Kennenty 181;Peristeri;38,012103;23,676741
+Tzon Kennenty 181;Peristeri;38,012103;23,676741
+Tzon Kennenty 181;Peristeri;38,012103;23,676741
+Ethnikis Antistaseos 1;Peristeri;38,012257;23,695742
+Ethnikis Antistaseos 1;Peristeri;38,012257;23,695742
+Spetson 60;Peristeri;38,012362;23,706551
+Sarantaporou 37;Peristeri;38,012468;23,691739
+Sarantaporou 37;Peristeri;38,012468;23,691739
+Sarantaporou 37;Peristeri;38,012468;23,691739
+Sarantaporou 37;Peristeri;38,012468;23,691739
+Sarantaporou 37;Peristeri;38,012468;23,691739
+Sarantaporou 37;Peristeri;38,012468;23,691739
+Sarantaporou 37;Peristeri;38,012468;23,691739
+Sirou 13;Galatsi;38,012499;23,754737
+Sirou 13;Galatsi;38,012499;23,754737
+Sirou 13;Galatsi;38,012499;23,754737
+Sirou 13;Galatsi;38,012499;23,754737
+Sirou 13;Galatsi;38,012499;23,754737
+Sirou 13;Galatsi;38,012499;23,754737
+28is Oktovriou 284;Athina;38,012597;23,735347
+28is Oktovriou 284;Athina;38,012597;23,735347
+28is Oktovriou 284;Athina;38,012597;23,735347
+28is Oktovriou 284;Athina;38,012597;23,735347
+28is Oktovriou 284;Athina;38,012597;23,735347
+Iroon Politechniou 6;Agia Paraskevi;38,012616;23,819603
+Iroon Politechniou 6;Agia Paraskevi;38,012616;23,819603
+Iroon Politechniou 6;Agia Paraskevi;38,012616;23,819603
+Iroon Politechniou 6;Agia Paraskevi;38,012616;23,819603
+Souliou 9;Athina;38,012760;23,812852
+Souliou 9;Athina;38,012760;23,812852
+Souliou 9;Athina;38,012760;23,812852
+Sokratous 1;Athina;38,012767;23,754207
+Sokratous 1;Athina;38,012767;23,754207
+Spetson 53;Peristeri;38,012909;23,706242
+Spetson 53;Peristeri;38,012909;23,706242
+Spetson 53;Peristeri;38,012909;23,706242
+Spetson 53;Peristeri;38,012909;23,706242
+Leoforos Veikou;Galatsi;38,013048;23,753283
+Leoforos Veikou;Galatsi;38,013048;23,753283
+Leoforos Veikou;Galatsi;38,013048;23,753283
+Leoforos Veikou;Galatsi;38,013048;23,753283
+Stratigou Kallari 42;Athina;38,013169;23,723357
+Stratigou Kallari 42;Athina;38,013169;23,723357
+Ethnikis Antistaseos 42;Athina;38,013193;23,691115
+Ethnikis Antistaseos 42;Athina;38,013193;23,691115
+Stratigou Kallari 44;Athina;38,013226;23,723144
+Iroon Politechniou 1;Agia Paraskevi;38,013243;23,819196
+Iroon Politechniou 1;Agia Paraskevi;38,013243;23,819196
+Iroon Politechniou 1;Agia Paraskevi;38,013243;23,819196
+Naxou 108;Athina;38,013362;23,737263
+Naxou 108;Athina;38,013362;23,737263
+Naxou 108;Athina;38,013362;23,737263
+Naxou 108;Athina;38,013362;23,737263
+Ioanni Drosopoulou 232;Athina;38,013424;23,736353
+Ioanni Drosopoulou 232;Athina;38,013424;23,736353
+Pretenteri;Athina;38,013526;23,723298
+Pretenteri;Athina;38,013526;23,723298
+Pretenteri;Athina;38,013526;23,723298
+Pretenteri;Athina;38,013526;23,723298
+Pretenteri;Athina;38,013526;23,723298
+Pretenteri;Athina;38,013526;23,723298
+Leoforos Mesogeion 414;Agia Paraskevi;38,013555;23,822296
+Leoforos Mesogeion 414;Agia Paraskevi;38,013555;23,822296
+Leoforos Mesogeion 414;Agia Paraskevi;38,013555;23,822296
+Leoforos Galatsiou 117;Galatsi;38,013807;23,751029
+Leoforos Galatsiou 117;Galatsi;38,013807;23,751029
+Leoforos Galatsiou 117;Galatsi;38,013807;23,751029
+Lesvou 5;Galatsi;38,013920;23,754313
+Lesvou 5;Galatsi;38,013920;23,754313
+Lesvou 5;Galatsi;38,013920;23,754313
+Lesvou 5;Galatsi;38,013920;23,754313
+Ethnikis Antistaseos 91;Peristeri;38,013976;23,688453
+Charilaou Trikoupi 3;Peristeri;38,014419;23,707580
+Charilaou Trikoupi 3;Peristeri;38,014419;23,707580
+Charilaou Trikoupi 3;Peristeri;38,014419;23,707580
+Dimitriou Gounari 3;Agia Paraskevi;38,014503;23,818974
+Dimitriou Gounari 3;Agia Paraskevi;38,014503;23,818974
+Dimitriou Gounari 3;Agia Paraskevi;38,014503;23,818974
+Isokratous 4;Athina;38,014750;23,683440
+Isokratous 4;Athina;38,014750;23,683440
+Isokratous 4;Athina;38,014750;23,683440
+Isokratous 4;Athina;38,014750;23,683440
+Leoforos Veikou;Galatsi;38,014798;23,754156
+Leoforos Veikou;Galatsi;38,014798;23,754156
+Leoforos Veikou;Galatsi;38,014798;23,754156
+Leoforos Veikou;Galatsi;38,014798;23,754156
+Leoforos Veikou;Galatsi;38,014798;23,754156
+Leoforos Veikou;Galatsi;38,014798;23,754156
+Leoforos Veikou;Galatsi;38,014798;23,754156
+Solomou 50;Peristeri;38,014867;23,708021
+Nirvana 94;Athina;38,015358;23,726094
+Nirvana 94;Athina;38,015358;23,726094
+Nirvana 94;Athina;38,015358;23,726094
+Ethnikis Antistaseos 38;Chalandri;38,015712;23,791466
+Ethnikis Antistaseos 38;Chalandri;38,015712;23,791466
+Agiou Athanasiou 60;Pallini;38,015876;23,874621
+Agiou Athanasiou 60;Pallini;38,015876;23,874621
+Kiprou 50;Agia Paraskevi;38,016072;23,817226
+Kiprou 50;Agia Paraskevi;38,016072;23,817226
+Kiprou 50;Agia Paraskevi;38,016072;23,817226
+Kiprou 50;Agia Paraskevi;38,016072;23,817226
+Leoforos Panagi Tsaldari 56;Athina;38,016168;23,692310
+Leoforos Panagi Tsaldari 56;Athina;38,016168;23,692310
+Leoforos Panagi Tsaldari 56;Athina;38,016168;23,692310
+Leoforos Panagi Tsaldari 56;Athina;38,016168;23,692310
+Aristotelous 84;Athina;38,016176;23,800620
+Aristotelous 84;Athina;38,016176;23,800620
+Aristotelous 84;Athina;38,016176;23,800620
+Aristotelous 84;Athina;38,016176;23,800620
+Aristotelous 84;Athina;38,016176;23,800620
+Aristotelous 84;Athina;38,016176;23,800620
+Iroon Politechniou 80;Chaidari;38,016832;23,651517
+Iroon Politechniou 80;Chaidari;38,016832;23,651517
+Iroon Politechniou 80;Chaidari;38,016832;23,651517
+Iroon Politechniou 80;Chaidari;38,016832;23,651517
+Iroon Politechniou 80;Chaidari;38,016832;23,651517
+Iroon Politechniou 80;Chaidari;38,016832;23,651517
+Ampatielou 11;Athina;38,017051;23,731400
+Ampatielou 11;Athina;38,017051;23,731400
+Filikis Eterias;Chalandri;38,017103;23,790234
+Filikis Eterias;Chalandri;38,017103;23,790234
+Filikis Eterias;Chalandri;38,017103;23,790234
+Agias Paraskevis 112;Chalandri;38,017752;23,809896
+Agias Paraskevis 112;Chalandri;38,017752;23,809896
+Agias Paraskevis 111;Chalandri;38,017826;23,810217
+Agias Paraskevis 111;Chalandri;38,017826;23,810217
+Agias Paraskevis 111;Chalandri;38,017826;23,810217
+Acharnon 367;Athina;38,018037;23,728318
+Acharnon 367;Athina;38,018037;23,728318
+Acharnon 367;Athina;38,018037;23,728318
+Acharnon 367;Athina;38,018037;23,728318
+Acharnon 367;Athina;38,018037;23,728318
+Acharnon 367;Athina;38,018037;23,728318
+Agias Paraskevis 107;Chalandri;38,018122;23,809739
+Agias Paraskevis 107;Chalandri;38,018122;23,809739
+Agias Paraskevis 107;Chalandri;38,018122;23,809739
+Agias Paraskevis 107;Chalandri;38,018122;23,809739
+Agias Paraskevis 107;Chalandri;38,018122;23,809739
+Agias Paraskevis 107;Chalandri;38,018122;23,809739
+Andrea Papandreou 64;Athina;38,018491;23,796346
+Andrea Papandreou 64;Athina;38,018491;23,796346
+Agias Paraskevis 95;Athina;38,019000;23,807547
+Agias Paraskevis 95;Athina;38,019000;23,807547
+Agias Paraskevis 95;Athina;38,019000;23,807547
+Agias Paraskevis 95;Athina;38,019000;23,807547
+Agias Paraskevis 95;Athina;38,019000;23,807547
+16 Ag. Glykerias;Galatsi;38,019287;23,752054
+16 Ag. Glykerias;Galatsi;38,019287;23,752054
+Agias Paraskevis;Chalandri;38,019432;23,805076
+Agias Paraskevis;Chalandri;38,019432;23,805076
+Agias Paraskevis;Chalandri;38,019432;23,805076
+Agias Paraskevis;Chalandri;38,019432;23,805076
+Agias Paraskevis;Chalandri;38,019432;23,805076
+Agiou Vasiliou 140;Peristeri;38,019571;23,680633
+Agias Paraskevis 72;Chalandri;38,019607;23,804381
+Papanikoli 40;Chalandri;38,019729;23,794285
+Papanikoli 40;Chalandri;38,019729;23,794285
+Agias Paraskevis 56;Chalandri;38,019911;23,803150
+Agias Paraskevis 56;Chalandri;38,019911;23,803150
+Agias Paraskevis 56;Chalandri;38,019911;23,803150
+Garittou;Agia Paraskevi;38,020028;23,820085
+Garittou;Agia Paraskevi;38,020028;23,820085
+Garittou;Agia Paraskevi;38,020028;23,820085
+Garittou;Agia Paraskevi;38,020028;23,820085
+Garittou;Agia Paraskevi;38,020028;23,820085
+Kondilaki 2;Athina;38,020048;23,741892
+Kondilaki 2;Athina;38,020048;23,741892
+Kondilaki 2;Athina;38,020048;23,741892
+Kondilaki 2;Athina;38,020048;23,741892
+Kondilaki 2;Athina;38,020048;23,741892
+Kondilaki 2;Athina;38,020048;23,741892
+Kondilaki 2;Athina;38,020048;23,741892
+Kondilaki 2;Athina;38,020048;23,741892
+Kondilaki 2;Athina;38,020048;23,741892
+282 Kifissias Ave;Chalandri;38,020078;23,788914
+282 Kifissias Ave;Chalandri;38,020078;23,788914
+282 Kifissias Ave;Chalandri;38,020078;23,788914
+Papadiamanti 1;Athina;38,020454;23,741772
+Papadiamanti 1;Athina;38,020454;23,741772
+Papadiamanti 1;Athina;38,020454;23,741772
+Papadiamanti 1;Athina;38,020454;23,741772
+Sokratous 6;Chalandri;38,020505;23,798677
+Sokratous 6;Chalandri;38,020505;23,798677
+Irakliou 3;Chalandri;38,020806;23,799036
+Irakliou 3;Chalandri;38,020806;23,799036
+Irakliou 3;Chalandri;38,020806;23,799036
+Mistriotou 58;Peristeri;38,020838;23,671298
+28is Oktovriou;Athina;38,020866;23,735757
+28is Oktovriou;Athina;38,020866;23,735757
+28is Oktovriou;Athina;38,020866;23,735757
+28is Oktovriou;Athina;38,020866;23,735757
+28is Oktovriou;Athina;38,020866;23,735757
+28is Oktovriou;Athina;38,020866;23,735757
+Agiou Georgiou 17;Chalandri;38,021297;23,803161
+Agiou Georgiou 17;Chalandri;38,021297;23,803161
+Agiou Georgiou 17;Chalandri;38,021297;23,803161
+Aristofanous 15;Chalandri;38,021389;23,801784
+Aristofanous 15;Chalandri;38,021389;23,801784
+Aristofanous 15;Chalandri;38,021389;23,801784
+Aristofanous 15;Chalandri;38,021389;23,801784
+Aristofanous 15;Chalandri;38,021389;23,801784
+Ag. Georgiou St 21A;Athina;38,021522;23,802544
+Agias Paraskevis 116;Chalandri;38,021559;23,798664
+Platonos 7;Chalandri;38,021702;23,800590
+Andrea Papandreou 11;Chalandri;38,021857;23,799524
+Papanikoli 18;Chalandri;38,022057;23,792300
+Papanikoli 18;Chalandri;38,022057;23,792300
+Papanikoli 18;Chalandri;38,022057;23,792300
+Papanikoli 18;Chalandri;38,022057;23,792300
+Papanikoli 18;Chalandri;38,022057;23,792300
+Mak Milan 15;Athina;38,022236;23,734708
+Mak Milan 15;Athina;38,022236;23,734708
+Mak Milan 15;Athina;38,022236;23,734708
+Agiou Georgiou 4;Chalandri;38,022255;23,800856
+Agiou Georgiou 4;Chalandri;38,022255;23,800856
+Agiou Georgiou 4;Chalandri;38,022255;23,800856
+Agiou Georgiou 4;Chalandri;38,022255;23,800856
+Agiou Georgiou 4;Chalandri;38,022255;23,800856
+Vasileos Georgiou 6;Chalandri;38,022266;23,796536
+Vasileos Georgiou 6;Chalandri;38,022266;23,796536
+Vasileos Georgiou 6;Chalandri;38,022266;23,796536
+Vasileos Georgiou 6;Chalandri;38,022266;23,796536
+Platonos 1;Chalandri;38,022347;23,800828
+Platonos 1;Chalandri;38,022347;23,800828
+Platia Dourou;Chalandri;38,022452;23,800570
+Leoforos Pentelis;Athina;38,022479;23,801055
+Leoforos Pentelis;Athina;38,022479;23,801055
+Leoforos Pentelis;Athina;38,022479;23,801055
+Platia Dourou;Chalandri;38,022485;23,801083
+Platia Dourou;Chalandri;38,022485;23,801083
+Platia Dourou;Chalandri;38,022485;23,801083
+Grigorio Gyftopoulou 7;Chalandri;38,022519;23,797985
+Grigorio Gyftopoulou 7;Chalandri;38,022519;23,797985
+Grigorio Gyftopoulou 7;Chalandri;38,022519;23,797985
+Leoforos Pentelis;Chalandri;38,022655;23,802233
+Leoforos Pentelis;Chalandri;38,022655;23,802233
+Leoforos Pentelis;Chalandri;38,022655;23,802233
+Leoforos Pentelis;Chalandri;38,022655;23,802233
+Leoforos Pentelis;Chalandri;38,022655;23,802233
+Kolokotroni;Chalandri;38,022796;23,797816
+Kolokotroni;Chalandri;38,022796;23,797816
+Kolokotroni;Chalandri;38,022796;23,797816
+Leoforos Pentelis 12;Chalandri;38,023037;23,802540
+Leoforos Pentelis;Chalandri;38,023071;23,802883
+Leoforos Pentelis;Chalandri;38,023071;23,802883
+Kosta Varnali 5;Chalandri;38,023157;23,800111
+Kosta Varnali 5;Chalandri;38,023157;23,800111
+Kosta Varnali 5;Chalandri;38,023157;23,800111
+Kosta Varnali 5;Chalandri;38,023157;23,800111
+Kosta Varnali 5;Chalandri;38,023157;23,800111
+Kosta Varnali 5;Chalandri;38,023157;23,800111
+Acharnon 425;Athina;38,023295;23,730408
+Acharnon 425;Athina;38,023295;23,730408
+Leoforos Kapodistriou 2;Athina;38,024738;23,788790
+Leoforos Kapodistriou 2;Athina;38,024738;23,788790
+Leoforos Kapodistriou 2;Athina;38,024738;23,788790
+Leoforos Kapodistriou 2;Athina;38,024738;23,788790
+Aristoteli Valaoritou 20;Chalandri;38,024845;23,792760
+Aristoteli Valaoritou 20;Chalandri;38,024845;23,792760
+Aristoteli Valaoritou 20;Chalandri;38,024845;23,792760
+Aristoteli Valaoritou 20;Chalandri;38,024845;23,792760
+Aristoteli Valaoritou 20;Chalandri;38,024845;23,792760
+350 Kifissias Ave & 2 Chr. Lada;Chalandri;38,024942;23,797480
+350 Kifissias Ave & 2 Chr. Lada;Chalandri;38,024942;23,797480
+Kariatidos 175;Peristeri;38,026249;23,681224
+Sirakouson 98;Athina;38,027515;23,750908
+Sirakouson 98;Athina;38,027515;23,750908
+Sirakouson 98;Athina;38,027515;23,750908
+Kosta Varnali 29;Chalandri;38,028040;23,800970
+Kosta Varnali 29;Chalandri;38,028040;23,800970
+Samou 1;Chalandri;38,030533;23,806415
+Samou 1;Chalandri;38,030533;23,806415
+Samou 1;Chalandri;38,030533;23,806415
+Leoforos Pentelis 114;Chalandri;38,030949;23,818496
+Leoforos Pentelis 114;Chalandri;38,030949;23,818496
+Leoforos Pentelis 114;Chalandri;38,030949;23,818496
+Leoforos Pentelis 114;Chalandri;38,030949;23,818496
+Leoforos Pentelis 114;Chalandri;38,030949;23,818496
+Leoforos Pentelis 114;Chalandri;38,030949;23,818496
+Kosta Varnali 68;Chalandri;38,030984;23,802781
+Kosta Varnali 68;Chalandri;38,030984;23,802781
+Kosta Varnali 68;Chalandri;38,030984;23,802781
+Kosta Varnali 68;Chalandri;38,030984;23,802781
+Kosta Varnali 68;Chalandri;38,030984;23,802781
+Kosta Varnali 68;Chalandri;38,030984;23,802781
+Kosta Varnali 68;Chalandri;38,030984;23,802781
+Kosta Varnali 68;Chalandri;38,030984;23,802781
+Rizariou 9;Chalandri;38,031289;23,795899
+Rizariou 9;Chalandri;38,031289;23,795899
+Rizariou 9;Chalandri;38,031289;23,795899
+Roumelis 17;Athina;38,031818;23,777243
+Roumelis 17;Athina;38,031818;23,777243
+Roumelis 17;Athina;38,031818;23,777243
+Leoforos Pentelis 132;Athina;38,032205;23,820183
+Leoforos Pentelis 132;Athina;38,032205;23,820183
+Leoforos Pentelis 132;Athina;38,032205;23,820183
+Midias 51;Nea Ionia;38,033006;23,761295
+Midias 51;Nea Ionia;38,033006;23,761295
+Ethn. Antistaseos 35, Ethn. Antistaseos 35, Brilessia (Pl. Analepseo(Pl. Analepseos);Vrilissia;38,033060;23,831931
+Ethn. Antistaseos 35, Ethn. Antistaseos 35, Brilessia (Pl. Analepseo(Pl. Analepseos);Vrilissia;38,033060;23,831931
+Kifisias;Marousi;38,033075;23,793929
+Golden Hall;Marousi;38,033075;23,793929
+Kifisias;Marousi;38,033075;23,793929
+Kifisias;Marousi;38,033075;23,793929
+Mileas 38;Petroupoli;38,033298;23,675411
+Mileas 38;Petroupoli;38,033298;23,675411
+Mileas 38;Petroupoli;38,033298;23,675411
+Mileas 38;Petroupoli;38,033298;23,675411
+Mileas 38;Petroupoli;38,033298;23,675411
+Mileas 38;Petroupoli;38,033298;23,675411
+Mileas 38;Petroupoli;38,033298;23,675411
+Kifisias Ave. 2a;Athens;38,033477;23,795766
+Kifisias Ave. 2a;Athens;38,033477;23,795766
+Kifisias Ave. 2a;Athens;38,033477;23,795766
+Kifisias Ave. 2a;Athens;38,033477;23,795766
+Leoforos Kifisias;Athina;38,033665;23,795341
+Leoforos Kifisias;Athina;38,033665;23,795341
+Leoforos Kifisias;Athina;38,033665;23,795341
+Leoforos Kifisias;Athina;38,033665;23,795341
+Agias Triados 11;Athina;38,034588;23,739151
+Agias Triados 11;Athina;38,034588;23,739151
+Leoforos Kifisias 41;Marousi;38,034688;23,796089
+Leoforos Kifisias 41;Marousi;38,034688;23,796089
+Leoforos Kifisias 41;Marousi;38,034688;23,796089
+Leoforos Kifisias 41;Marousi;38,034688;23,796089
+Leoforos Kifisias 41;Marousi;38,034688;23,796089
+Kastamonis 113;Nea Ionia;38,035477;23,775498
+Kastamonis 113;Nea Ionia;38,035477;23,775498
+Kastamonis 113;Nea Ionia;38,035477;23,775498
+Kastamonis 113;Nea Ionia;38,035477;23,775498
+Kastamonis 113;Nea Ionia;38,035477;23,775498
+Kastamonis 113;Nea Ionia;38,035477;23,775498
+Kastamonis 113;Nea Ionia;38,035477;23,775498
+Kastamonis 113;Nea Ionia;38,035477;23,775498
+Kastamonis 113;Nea Ionia;38,035477;23,775498
+Sinopis 45;Nea Ionia;38,035697;23,755549
+Sinopis 45;Nea Ionia;38,035697;23,755549
+Sinopis 45;Nea Ionia;38,035697;23,755549
+Sinopis 45;Nea Ionia;38,035697;23,755549
+Sinopis 45;Nea Ionia;38,035697;23,755549
+Averof 36;Nea Ionia;38,035846;23,748745
+Averof 36;Nea Ionia;38,035846;23,748745
+Averof 36;Nea Ionia;38,035846;23,748745
+Averof 36;Nea Ionia;38,035846;23,748745
+Vithinias 5;Athina;38,035950;23,766320
+Vithinias 5;Athina;38,035950;23,766320
+Kastamonis 118;Nea Ionia;38,036655;23,773263
+Kastamonis 118;Nea Ionia;38,036655;23,773263
+Kastamonis 118;Nea Ionia;38,036655;23,773263
+Pagkalou 2;Elefsina;38,036916;23,537744
+Pagkalou 2;Elefsina;38,036916;23,537744
+Pagkalou 2;Elefsina;38,036916;23,537744
+Pagkalou 2;Elefsina;38,036916;23,537744
+Pagkalou 2;Elefsina;38,036916;23,537744
+78 Vyzantiou & Vithynias;Nea Ionia;38,037388;23,767412
+78 Vyzantiou & Vithynias;Nea Ionia;38,037388;23,767412
+78 Vyzantiou & Vithynias;Nea Ionia;38,037388;23,767412
+Amarisias Artemidos;Marousi;38,038287;23,797691
+Amarisias Artemidos;Marousi;38,038287;23,797691
+Amarisias Artemidos;Marousi;38,038287;23,797691
+Amarisias Artemidos;Marousi;38,038287;23,797691
+Kephisias 37;Athina;38,038830;23,786001
+Kephisias 37;Athina;38,038830;23,786001
+Agiou Orous 7;Athina;38,039541;23,789127
+Agiou Orous 7;Athina;38,039541;23,789127
+Agiou Orous 7;Athina;38,039541;23,789127
+Mesogion 36;Marousi;38,039979;23,819581
+Mesogion 36;Marousi;38,039979;23,819581
+Mesogion 36;Marousi;38,039979;23,819581
+Mesogion 36;Marousi;38,039979;23,819581
+25is Martiou 115;Petroupoli;38,040558;23,688183
+Leoforos Dekelias 97, Leophoros Dekeleias 97;Athens;38,040947;23,743668
+Leoforos Dekelias 97, Leophoros Dekeleias 97;Athens;38,040947;23,743668
+Leoforos Dekelias 97, Leophoros Dekeleias 97;Athens;38,040947;23,743668
+Parsis 5;Nea Ionia;38,040981;23,751649
+Parsis 5;Nea Ionia;38,040981;23,751649
+Parsis 5;Nea Ionia;38,040981;23,751649
+Parsis 5;Nea Ionia;38,040981;23,751649
+Dionisou 155;Marousi;38,042066;23,800871
+Dionisou 155;Marousi;38,042066;23,800871
+Dionisou 155;Marousi;38,042066;23,800871
+Dionisou 155;Marousi;38,042066;23,800871
+Distomou 9;Athina;38,042797;23,805862
+Distomou 9;Athina;38,042797;23,805862
+Distomou 9;Athina;38,042797;23,805862
+Distomou 9;Athina;38,042797;23,805862
+25is Martiou 56;Petroupoli;38,043149;23,682056
+25is Martiou 56;Petroupoli;38,043149;23,682056
+25is Martiou 56;Petroupoli;38,043149;23,682056
+111 El. Venizelou;Nea Ionia;38,043328;23,754205
+111 El. Venizelou;Nea Ionia;38,043328;23,754205
+111 El. Venizelou;Nea Ionia;38,043328;23,754205
+111 El. Venizelou;Nea Ionia;38,043328;23,754205
+111 El. Venizelou;Nea Ionia;38,043328;23,754205
+Mesologgiou 52;Nea Ionia;38,043488;23,753766
+Akropoleos 39;Athina;38,043544;23,768508
+Akropoleos 39;Athina;38,043544;23,768508
+Akropoleos 39;Athina;38,043544;23,768508
+Akropoleos 39;Athina;38,043544;23,768508
+Dimitras 11;Elefsina;38,043641;23,539758
+Leoforos Pentelis 112;Vrilissia;38,044976;23,837432
+Leoforos Pentelis 112;Vrilissia;38,044976;23,837432
+Leoforos Pentelis 112;Vrilissia;38,044976;23,837432
+Leoforos Pentelis 112;Vrilissia;38,044976;23,837432
+Leoforos Dimokratias 67;Athina;38,045025;23,728156
+Leoforos Dimokratias 67;Athina;38,045025;23,728156
+Leoforos Dimokratias 67;Athina;38,045025;23,728156
+Leoforos Pentelis;Vrilissia;38,045074;23,837606
+Leoforos Pentelis;Vrilissia;38,045074;23,837606
+Leoforos Pentelis;Vrilissia;38,045074;23,837606
+Leoforos Pentelis;Vrilissia;38,045074;23,837606
+Leoforos Irakliou 275;Athina;38,045176;23,756673
+Leoforos Irakliou 275;Athina;38,045176;23,756673
+Leoforos Irakliou 275;Athina;38,045176;23,756673
+Leoforos Pentelis 150;Penteli;38,045196;23,837738
+Leoforos Pentelis 150;Penteli;38,045196;23,837738
+Leoforos Pentelis 150;Penteli;38,045196;23,837738
+Leoforos Pentelis 150;Penteli;38,045196;23,837738
+Leoforos Pentelis 150;Penteli;38,045196;23,837738
+Leoforos Pentelis 150;Penteli;38,045196;23,837738
+Theatro Petras, Theatro Petras;Athens;38,045319;23,672749
+Theatro Petras, Theatro Petras;Athens;38,045319;23,672749
+Theatro Petras, Theatro Petras;Athens;38,045319;23,672749
+Paleon Patron Germanou 1;Athina;38,046344;23,845271
+Agiou Konstantinou 59;Athina;38,046627;23,807024
+Agiou Konstantinou 59;Athina;38,046627;23,807024
+Agiou Konstantinou 59;Athina;38,046627;23,807024
+Lophos Agiou Demetriou Petroupole, Lofos Agiou Dimitriou Petroypolis;Athens;38,047009;23,686008
+Lophos Agiou Demetriou Petroupole, Lofos Agiou Dimitriou Petroypolis;Athens;38,047009;23,686008
+Eptalofou 13;Athina;38,048183;23,798258
+Eptalofou 13;Athina;38,048183;23,798258
+Dimitras 55;Elefsina;38,048500;23,540336
+Dimitras 55;Elefsina;38,048500;23,540336
+Dimitras 55;Elefsina;38,048500;23,540336
+Leoforos Kifisias 131;Athina;38,048590;23,807850
+Leoforos Kifisias 131;Athina;38,048590;23,807850
+Leoforos Kifisias 131;Athina;38,048590;23,807850
+Leoforos Kifisias 131;Athina;38,048590;23,807850
+Ifigenias 21;Nea Ionia;38,049115;23,753560
+Ifigenias;Nea Ionia;38,049115;23,753560
+Ifigenias;Nea Ionia;38,049115;23,753560
+Ifigenias;Nea Ionia;38,049115;23,753560
+Tatoiou;Metamorfosi;38,050982;23,749735
+Tatoiou;Metamorfosi;38,050982;23,749735
+Tatoiou;Metamorfosi;38,050982;23,749735
+17 Hydras;Marousi;38,051538;23,794841
+Tatoiou 14;Athina;38,052522;23,751795
+Tatoiou 14;Athina;38,052522;23,751795
+Tatoiou 14;Athina;38,052522;23,751795
+Pentelis 30;Marousi;38,052589;23,815771
+Plapouta 113;Athina;38,053894;23,781166
+Plapouta 113;Athina;38,053894;23,781166
+Plapouta 113;Athina;38,053894;23,781166
+Mitropoleos 43;Marousi;38,054081;23,810838
+Mitropoleos 43;Marousi;38,054081;23,810838
+Mitropoleos 43;Marousi;38,054081;23,810838
+Sofokleous 25;Marousi;38,055408;23,814764
+Sofokleous 25;Marousi;38,055408;23,814764
+Sofokleous 25;Marousi;38,055408;23,814764
+Sofokleous 25;Marousi;38,055408;23,814764
+Themidos 4;Marousi;38,055467;23,804019
+Themidos 4;Marousi;38,055467;23,804019
+Themidos 4;Marousi;38,055467;23,804019
+Kondili 2;Marousi;38,057425;23,805156
+Kondili 2;Marousi;38,057425;23,805156
+Kondili 2;Marousi;38,057425;23,805156
+Kondili 2;Marousi;38,057425;23,805156
+Georgiou Seferi 10;Metamorfosi;38,059834;23,768394
+Arvaniti 3;Metamorfosi;38,063540;23,763286
+Arvaniti 3;Metamorfosi;38,063540;23,763286
+Arvaniti 3;Metamorfosi;38,063540;23,763286
+Arvaniti 3;Metamorfosi;38,063540;23,763286
+Eleftheriou Venizelou 22;Metamorfosi;38,066034;23,760367
+Eleftheriou Venizelou 22;Metamorfosi;38,066034;23,760367
+Nikis 2;Kifisia;38,066157;23,809297
+Nikis 2;Kifisia;38,066157;23,809297
+Nikis 2;Kifisia;38,066157;23,809297
+Nikis 2;Kifisia;38,066157;23,809297
+Nikis 2;Kifisia;38,066157;23,809297
+Nikis 2;Kifisia;38,066157;23,809297
+Georgiou Papandreou 144;Metamorfosi;38,067072;23,767673
+Georgiou Papandreou 144;Metamorfosi;38,067072;23,767673
+Georgiou Papandreou 144;Metamorfosi;38,067072;23,767673
+Kiriazi;Athina;38,070199;23,812850
+Kiriazi;Athina;38,070199;23,812850
+Kiriazi;Athina;38,070199;23,812850
+Kiriazi;Athina;38,070199;23,812850
+Platia Agias Marinas 13;Athina;38,070258;23,812164
+Platia Agias Marinas 13;Athina;38,070258;23,812164
+Platia Agias Marinas 13;Athina;38,070258;23,812164
+Platia Agias Marinas 13;Athina;38,070258;23,812164
+Platia Agias Marinas 13;Athina;38,070258;23,812164
+Levidou 10;Athina;38,072678;23,814062
+Charilaou Trikoupi 42;Athina;38,073553;23,820835
+Charilaou Trikoupi 42;Athina;38,073553;23,820835
+Charilaou Trikoupi 42;Athina;38,073553;23,820835
+Charilaou Trikoupi 42;Athina;38,073553;23,820835
+Kolokotroni;Kifisia;38,073873;23,819159
+Kolokotroni;Kifisia;38,073873;23,819159
+Kolokotroni;Kifisia;38,073873;23,819159
+Kolokotroni;Kifisia;38,073873;23,819159
+Theodorou Diligianni 56;Kifisia;38,075300;23,819290
+Ermou 90;Metamorfosi;38,075359;23,778984
+Ermou 90;Metamorfosi;38,075359;23,778984
+Ermou 90;Metamorfosi;38,075359;23,778984
+Ermou 90;Metamorfosi;38,075359;23,778984
+Viltanioti 31;Kifisia;38,078156;23,788630
+Acharnon 14;Athina;38,079076;23,701951
+Acharnon 14;Athina;38,079076;23,701951
+Acharnon 14;Athina;38,079076;23,701951
+Aristotelous;Acharnes;38,088400;23,731487
+Anaxagora 19;Athina;38,090628;23,819279
+Anaxagora 19;Athina;38,090628;23,819279
+Anaxagora 19;Athina;38,090628;23,819279
+Platanon 24;Kifisia;38,091986;23,794949
+Platanon 24;Kifisia;38,091986;23,794949
+Platanon 24;Kifisia;38,091986;23,794949
+Platanon 24;Kifisia;38,091986;23,794949
+Adamon 38;Kifisia;38,092054;23,803729
+Adamon 38;Kifisia;38,092054;23,803729
+Varympompis road off ,Voreiou Eipeirou street;Athens;38,140261;23,782653
+Varympompis road off ,Voreiou Eipeirou street;Athens;38,140261;23,782653
+Malaconda Area;Athens;38,399600;23,755700
+Malaconda Area;Athens;38,399600;23,755700
+Malaconda Area;Athens;38,399600;23,755700
+85, Katsimitrou Street, Katsimetrou 85, Perama;Perama;39,690544;20,846386
+19, Spilaiou, Spelaiou 19, Perama;Perama;39,692394;20,845871
+19, Spilaiou, Spelaiou 19, Perama;Perama;39,692394;20,845871
+National Road Paliouri, 4th km;Pallini;39,958290;23,625060
+National Road Paliouri, 4th km;Pallini;39,958290;23,625060
+National Road Paliouri, 4th km;Pallini;39,958290;23,625060
+National Road Paliouri, 4th km;Pallini;39,958290;23,625060
+National Road Paliouri, 4th km;Pallini;39,958290;23,625060
+National Road Paliouri, 4th km;Pallini;39,958290;23,625060
+National Road Paliouri, 4th km;Pallini;39,958290;23,625060
+Solinas, Kalithea-Kryopigi;Kallithea;40,055639;23,464028
+Kallithea - Neos Marmaras;Kallithea;40,060960;23,461518
+Kallithea - Neos Marmaras;Kallithea;40,060960;23,461518
+Kallithea - Neos Marmaras;Kallithea;40,060960;23,461518
+Kallithea - Neos Marmaras;Kallithea;40,060960;23,461518
+Kallithea - Neos Marmaras;Kallithea;40,060960;23,461518
+Kallithea - Neos Marmaras;Kallithea;40,061240;23,458964
+Kallithea - Neos Marmaras;Kallithea;40,061240;23,458964
+Kallithea - Neos Marmaras;Kallithea;40,061240;23,458964
+Kallithea - Neos Marmaras;Kallithea;40,062176;23,460638
+Kallithea - Neos Marmaras;Kallithea;40,062176;23,460638
+Kallithea - Neos Marmaras;Kallithea;40,062176;23,460638
+Eparchiaki Odos Palama - Metamorfosis;Metamorfosi;40,227170;23,584513
+Eparchiaki Odos Palama - Metamorfosis;Metamorfosi;40,227170;23,584513
+Eparchiaki Odos Palama - Metamorfosis;Metamorfosi;40,227170;23,584513
+Chalkidikis;Metamorfosi;40,228145;23,606357
+Chalkidikis;Metamorfosi;40,228145;23,606357

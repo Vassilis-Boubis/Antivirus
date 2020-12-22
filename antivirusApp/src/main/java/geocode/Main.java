@@ -24,7 +24,7 @@ public class Main {
 		double sqr[][] = Square.getCoordinates(a);
 		CaseFinder cf = new CaseFinder();
 		ArrayList<double[]> resultList = new ArrayList();
-		resultList = cf.getResult(sqr);
+		resultList = cf.getResult(sqr,a);
 		for(double[] i : resultList) {
 			System.out.println(i[0] + " | "+i[1]);
 

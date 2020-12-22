@@ -1,11 +1,6 @@
-/**
- * 
- */
+package CSV;
 
-/**
- * @author dimitrispapakyriakopoylos
- *
- */
+
 public class UsableData {
 
 	
@@ -16,7 +11,7 @@ public class UsableData {
 	private double lat;
 	private double lng;
 	
-	public UsableData(String municipality, String address, double lat, double lng) {
+	public UsableData(String address, String municipality, double lat, double lng) {
 		this.municipality = municipality;
 		this.address = address;
 		this.lat = lat;
