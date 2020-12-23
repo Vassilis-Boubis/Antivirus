@@ -1,13 +1,12 @@
 package CSV;
 
-import java.io.*;
-import java.util.Scanner;
+import java.io.*; 
 
 public class DataProcessor {
 
 	private static UsableData datatable[] = new UsableData[2353];
 
-	public static void main(String[] args) throws Exception {
+	public static void processData() throws Exception {
 
 		String line = "";
 		String splitBy = ";";

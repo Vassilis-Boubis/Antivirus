@@ -1,7 +1,12 @@
 package geocode;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
 
+import CSV.DataProcessor;
+import CSV.UsableData;
 import excel.ReadCell;
 
 public class CaseFinder {
@@ -102,5 +107,38 @@ public class CaseFinder {
 		return result;
 		*/
 	}
+	
+	
+	public int[] casesPerDay() throws ParseException {
+		
+		DataProcessor dataprocessor = new DataProcessor();
+		int[] casesperday = new int[14];
+		int count =0;
+		
+		for(int a=0; a<14; a++) {
+			if (i.getDay() == minday && i.getMonth() == minmonth && i.getYear() == minyear) {
+				count++;
+			}
+		}
+		casesperday[a]=count;
+		count=0;
+		return casesperday;
+	}
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }

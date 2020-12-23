@@ -1,12 +1,4 @@
-
-/**
- * 
- */
-
-/**
- * @author dimitrispapakyriakopoulos
- *
- */
+package CSV;
 import java.util.Scanner;
 
 public class Date {
