@@ -1,12 +1,9 @@
 package geocode;
 
 import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Calendar;
 
 import CSV.DataProcessor;
-import CSV.UsableData;
 
 public class CaseFinder {
 
@@ -16,36 +13,36 @@ public class CaseFinder {
 		ReadCell rc = new ReadCell();
 		boolean flag = true;
 		int a = 0;
-		
+
 
 		double searchedLat = coor[0];
 		double searchedLong = coor[1];
-		
+
 		int excelLength = 2353;
-		
+
 		int mid = 1 + (excelLength - 2) / 2;
-		
+
 		double midLat;
-		
+
 		double table[] = new double[2];
-		
+
 		if (squareCoords[0][0] >= rc.readCellData(0, 2) && squareCoords[3][0] <= rc.readCellData(0, 3)) {
 			table[0] = rc.readCellData(0, 2);
 			mid = 0;
 			flag = false;
 		}
-		
+
 		if (squareCoords[0][0] >= rc.readCellData(excelLength-1, 2) && squareCoords[3][0] <= rc.readCellData(excelLength - 1, 3)) {
 			table[0] = rc.readCellData(excelLength - 1, 2);
 			mid = excelLength - 1;
 			flag = false;
 		}
-		
+
 		while (flag) {
 			midLat = rc.readCellData(mid, 2);
-			
+
 			if (squareCoords[0][0] >= midLat && squareCoords[3][0] <= midLat) {
-				table[0] = midLat;	
+				table[0] = midLat;
 				flag = false;
 			} else {
 				if (squareCoords[0][0] <= midLat) {
@@ -54,31 +51,31 @@ public class CaseFinder {
 					mid = mid + ( 1 + (mid - 1) / 2);
 				}
 			}
-			
-			
+
+
 		}
-		
+
 		if (table[0] != 0.0) {
 			table[1] = rc.readCellData(mid, 3);
 		}
-		
-		
-		
-		
-		
-		  
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		/*while (flag) {
 			double table[] = new double[2];
 			double lat = rc.readCellData(a, 2);
@@ -102,12 +99,12 @@ public class CaseFinder {
 			}
 
 		}
-		
+
 		return result;
 		*/
 	}
-	
-	
+
+
 	public int[] casesPerDay() throws ParseException {
 
 		DataProcessor dataprocessor = new DataProcessor();
@@ -126,8 +123,37 @@ public class CaseFinder {
 
 		return casesperday;
 	}
-	
-	
+
+
+
+	public int casesInMunicipality(String mu) {
+
+		int cases = 0;
+		DataProcessor data =  new DataProcessor();
+		boolean flag = false;
+
+		for(int i=0; i < 2353; i++) {
+			if(data.getData(i).getMunicipality() == mu) {
+
+				cases ++;
+				flag = true;
+			}
+
+			if (flag == true && data.getData(i).getMunicipality() != mu) {
+
+				break;
+
+			}
+
+		}
+
+
+		return cases;
+
+	}
+
+
+
 	public static void main(String[] args) throws Exception {
 		DataProcessor.processData();
 		CaseFinder cf = new CaseFinder();
@@ -139,15 +165,15 @@ public class CaseFinder {
 		}
 		System.out.println(sum);
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
+
+
 }
