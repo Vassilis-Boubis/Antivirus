@@ -7,7 +7,6 @@ import java.util.Calendar;
 
 import CSV.DataProcessor;
 import CSV.UsableData;
-import excel.ReadCell;
 
 public class CaseFinder {
 
@@ -110,26 +109,36 @@ public class CaseFinder {
 	
 	
 	public int[] casesPerDay() throws ParseException {
-		
+
 		DataProcessor dataprocessor = new DataProcessor();
 		int[] casesperday = new int[14];
-		int count =0;
-		
-		for(int a=0; a<14; a++) {
-			if (i.getDay() == minday && i.getMonth() == minmonth && i.getYear() == minyear) {
-				count++;
+		int count = 0;
+
+		for (int a = 0; a < 14; a++) {
+			for (int i = 0; i < 2353; i++) {
+				if (dataprocessor.getData(i).getDay() == a + 1) {
+					count++;
+				}
 			}
+			casesperday[a] = count;
+			count = 0;
 		}
-		casesperday[a]=count;
-		count=0;
+
 		return casesperday;
 	}
-
 	
 	
-	
-	
-	
+	public static void main(String[] args) throws Exception {
+		DataProcessor.processData();
+		CaseFinder cf = new CaseFinder();
+		int[] a=cf.casesPerDay();
+		int sum =0;
+		for(int i=0; i<14;i++) {
+			System.out.println(a[i]);
+			sum +=a[i];
+		}
+		System.out.println(sum);
+	}
 	
 	
 	
