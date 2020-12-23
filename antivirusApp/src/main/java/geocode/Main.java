@@ -18,18 +18,11 @@ public class Main {
 		System.out.println(v[1]);
 
 		Distance obj = new Distance();
-		double distance = obj.calculateDistanceInKilometer(a[0], a[1], v[0], v[1]);
+		boolean distance = obj.calculateDistanceInKilometer(a[0], a[1], v[0], v[1]);
 		System.out.println(distance);
 
-		double sqr[][] = Square.getCoordinates(a);
-		CaseFinder cf = new CaseFinder();
-		ArrayList<double[]> resultList = new ArrayList();
-		resultList = cf.getResult(sqr,a);
-		for(double[] i : resultList) {
-			System.out.println(i[0] + " | "+i[1]);
 
 		}
 		
-
-	}
 }
+
