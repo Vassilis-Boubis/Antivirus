@@ -309,7 +309,7 @@ public class ContactPage {
 
 
 
-
+		frame.setResizable(false);
 		frame.setVisible(false);
 
 	}

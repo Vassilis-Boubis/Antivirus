@@ -149,6 +149,7 @@ public class HomePage {
 		search = new JTextField("Where do you want to go?", 50);
 		search.setBounds(350, 160, 600, 40);
 		panel.add(search);
+		
 
 
 		// Go search button
@@ -157,6 +158,16 @@ public class HomePage {
 		go.setIcon(gs);
 		go.setBounds(955, 160, 42, 38);
 		panel.add(go);
+		go.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+
+					String action = e.getActionCommand();
+					MasterCtrl.pageHandler(action);
+
+			}
+		});
 
 
 
@@ -339,7 +350,7 @@ public class HomePage {
 
 
 
-
+		frame.setResizable(false);
 
 		frame.setVisible(false);
 
@@ -392,6 +403,14 @@ public class HomePage {
 	 */
 	public JFrame getFrame() {
 		return frame;
+	}
+
+
+	/**
+	 * @return the search
+	 */
+	public JTextField getSearch() {
+		return search;
 	}
 
 

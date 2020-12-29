@@ -86,7 +86,7 @@ public class WelcomePage {
 
 
 		panel.add(imglabel);
-
+		frame.setResizable(false);
 		frame.setVisible(true);
 
 

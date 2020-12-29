@@ -274,7 +274,7 @@ public class AboutUsPage {
 		panel.add(blue);
 
 
-
+		frame.setResizable(false);
 		frame.setVisible(false);
 
 
