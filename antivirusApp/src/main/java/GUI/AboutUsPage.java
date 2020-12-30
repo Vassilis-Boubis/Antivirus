@@ -6,6 +6,7 @@ import java.awt.Font;
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.IOException;
 
 import javax.swing.BorderFactory;
 import javax.swing.ImageIcon;
@@ -89,7 +90,12 @@ public class AboutUsPage {
 			public void actionPerformed(ActionEvent e) {
 
 					String action = e.getActionCommand();
-					MasterCtrl.pageHandler(action);
+					try {
+						MasterCtrl.pageHandler(action);
+					} catch (IOException e1) {
+						// TODO Auto-generated catch block
+						e1.printStackTrace();
+					}
 
 			}
 		});
@@ -122,7 +128,12 @@ public class AboutUsPage {
 			public void actionPerformed(ActionEvent e) {
 
 					String action = e.getActionCommand();
-					MasterCtrl.pageHandler(action);
+					try {
+						MasterCtrl.pageHandler(action);
+					} catch (IOException e1) {
+						// TODO Auto-generated catch block
+						e1.printStackTrace();
+					}
 
 			}
 		});

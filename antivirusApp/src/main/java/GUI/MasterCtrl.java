@@ -1,5 +1,7 @@
 package GUI;
 
+import java.io.IOException;
+
 import CSV.DataProcessor;
 import geocode.Search;
 
@@ -22,7 +24,7 @@ public class MasterCtrl  {
 	}
 
 
-	public static void pageHandler(String action) {
+	public static void pageHandler(String action) throws IOException {
 
 		  switch (action) {
 
