@@ -9,6 +9,7 @@ import java.awt.Font;
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.IOException;
 
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
@@ -45,6 +46,8 @@ public class AnalyticsPage {
 	private JTextArea descriptiveStatistics;
 	private JLabel graph;
 	private JLabel percentage;
+	private JLabel percentLabel;
+	private JLabel noMunCasesMessage;
 	
 	public void makePage(Search obj) {
 
@@ -80,7 +83,12 @@ public class AnalyticsPage {
 					public void actionPerformed(ActionEvent e) {
 
 							String action = e.getActionCommand();
-							MasterCtrl.pageHandler(action);
+							try {
+								MasterCtrl.pageHandler(action);
+							} catch (IOException e1) {
+								// TODO Auto-generated catch block
+								e1.printStackTrace();
+							}
 
 					}
 				});
@@ -105,7 +113,12 @@ public class AnalyticsPage {
 					public void actionPerformed(ActionEvent e) {
 
 							String action = e.getActionCommand();
-							MasterCtrl.pageHandler(action);
+							try {
+								MasterCtrl.pageHandler(action);
+							} catch (IOException e1) {
+								// TODO Auto-generated catch block
+								e1.printStackTrace();
+							}
 
 					}
 				});
@@ -128,7 +141,12 @@ public class AnalyticsPage {
 					public void actionPerformed(ActionEvent e) {
 
 							String action = e.getActionCommand();
-							MasterCtrl.pageHandler(action);
+							try {
+								MasterCtrl.pageHandler(action);
+							} catch (IOException e1) {
+								// TODO Auto-generated catch block
+								e1.printStackTrace();
+							}
 
 					}
 				});
@@ -154,7 +172,12 @@ public class AnalyticsPage {
 					public void actionPerformed(ActionEvent e) {
 
 							String action = e.getActionCommand()+"!";
-							MasterCtrl.pageHandler(action);
+							try {
+								MasterCtrl.pageHandler(action);
+							} catch (IOException e1) {
+								// TODO Auto-generated catch block
+								e1.printStackTrace();
+							}
 
 					}
 				});
@@ -181,7 +204,7 @@ public class AnalyticsPage {
 			    stats += "\n\n\nTotal COVID-19 cases in Municipality:		" + Integer.toString(obj.getTotalCasesInMunicipality());
 			    descriptiveStatistics = new JTextArea(stats);
 			    descriptiveStatistics.setBackground(new Color(247,247,247));
-			    descriptiveStatistics.setBounds(350, 200, 400, 100);
+			    descriptiveStatistics.setBounds(350, 200, 450, 100);
 			    panel.add(descriptiveStatistics);
 			    
 			    
@@ -189,17 +212,41 @@ public class AnalyticsPage {
 			    graph.setBounds(300, 330, 300, 50);
 			    panel.add(graph);
 			    
-			    
-			    percentage = new JLabel("15%");
+			    String percent;
+			    if (obj.getTotalCasesInMunicipality() != 0) {
+			    percent = Double.toString((double) obj.getTotalNumberOfCasesInSelectedArea() / obj.getTotalCasesInMunicipality()).substring(2,4)+"%";
+			    } else {
+			    	percent = "N/A";
+			    }
+			    percentage = new JLabel(percent);
 			    percentage.setFont(new Font("Arial", Font.BOLD, 60));
-			    percentage.setBounds(1200, 550, 150, 100);
+			    percentage.setBounds(1160, 550, 150, 100);
 			    panel.add(percentage);
 
-
+			    
+			    
+			    percentLabel = new JLabel("% of cases compared to Total Municipality cases:");
+			    percentLabel.setBounds(1050, 400, 350, 100);
+			    panel.add(percentLabel);
+			    
+			    noMunCasesMessage = new JLabel("*No COVID - 19 cases were recorded in your location's municipality*");
+			    noMunCasesMessage.setFont(new Font("Arial", Font.PLAIN, 10));
+			    noMunCasesMessage.setForeground(Color.RED);
+			    noMunCasesMessage.setBounds(1045, 720, 350, 30);
+			    noMunCasesMessage.setVisible(false);
+			    if (obj.getTotalCasesInMunicipality() == 0) {
+			    	noMunCasesMessage.setVisible(true);
+			    }
+			    panel.add(noMunCasesMessage);
+			    
+			    
+			    
+			    
 		frame.setResizable(false);
 		frame.setVisible(true);
 	}
-
+		
+	
 	/**
 	 * @return the search
 	 */
@@ -213,8 +260,6 @@ public class AnalyticsPage {
 	public JFrame getFrame() {
 		return frame;
 	}
-	
-
 
 
 }
