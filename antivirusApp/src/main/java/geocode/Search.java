@@ -1,5 +1,6 @@
 package geocode;
 
+import java.io.IOException;
 import java.util.ArrayList;
 
 import CSV.DataProcessor;
@@ -20,7 +21,7 @@ public class Search {
 
 	
 	
-	public Search(String userInput) {
+	public Search(String userInput) throws IOException {
 		this.userInput = userInput;
 		Geocoding g = Geocoding.getInstance();
 		double[] coordinates = new double[2];
@@ -30,7 +31,8 @@ public class Search {
 		this.indexOfCases = getIndexForCasesInSelectedArea(Square.getCoordinates(coordinates), coordinates);
 		this.totalNumberOfCasesInSelectedArea = this.indexOfCases.size();
 		this.casesPerDay = casesPerDay();
-		//this.totalCasesInMunicipality = casesInMunicipality(data.getData(indexOfCases[0]));
+		String municipality = g.reverseMunicipality(uiCoordinates);
+		this.totalCasesInMunicipality = casesInMunicipality(municipality);
 		lastSearch = this;
 	}
 
@@ -119,23 +121,21 @@ public class Search {
 	 * @return the totalCasesInMunicipality
 	 */
 	public int getTotalCasesInMunicipality() {
-		return 0;
+		return totalCasesInMunicipality;
 	}
 	
-//	public int casesInMunicipality(String municipality) {
-//		int cases = 0;
-//		boolean flag = false;
-//		for (int i = 0; i < 2353; i++) {
-//			if (data.getData(i).getMunicipality() == municipality) {
-//				cases++;
-//				flag = true;
-//			}
-//			if (flag == true && data.getData(i).getMunicipality() != municipality) {
-//				break;
-//			}
-//		}
-//		return cases;
-//	}
+	public int casesInMunicipality(String municipality) {
+		
+		int municipalityCases = 0;
+		int i;
+		for (i = 0; i < 2353; i++) {
+			if (municipality.equals(data.getData(i).getMunicipality())) {
+				municipalityCases += 1;
+			}
+		}
+		return municipalityCases;
+	}
+	
 	
 	
 	
