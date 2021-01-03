@@ -58,6 +58,9 @@ public class MasterCtrl  {
 							String input = home.getSearch().getText();
 							if (checkInput(input)) {
 								Search obj = new Search(input);
+								if (obj.getUiCoordinates(0) == 0 && obj.getUiCoordinates(1) == 0) {
+									break;
+								}
 								analytics.makePage(obj);
 								home.getFrame().setVisible(false);
 							}
@@ -66,6 +69,9 @@ public class MasterCtrl  {
 							input = analytics.getSearch().getText();
 							if (checkInput(input)) {
 								Search obj = new Search(input);
+								if (obj.getUiCoordinates(0) == 0 && obj.getUiCoordinates(1) == 0) {
+									break;
+								}
 								analytics.getFrame().setVisible(false);
 								analytics.makePage(obj);
 								home.getFrame().setVisible(false);
@@ -83,11 +89,6 @@ public class MasterCtrl  {
 			return false;
 		}
 		
-		Geocoding geo = Geocoding.getInstance();
-		double[] coords = geo.getCoordinates(userInput);
-		if (coords[0] == 0 && coords[1] == 0) {
-			return false;
-		}
 		return true;
 	}
 
