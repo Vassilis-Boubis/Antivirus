@@ -23,10 +23,7 @@ import org.jxmapviewer.JXMapViewer;
 import geocode.MapDisplay;
 import geocode.Search;
 
-/**
- * @author dimitrispapakyriakopoylos
- *
- */
+
 public class AnalyticsPage {
 
 	private JFrame frame;

@@ -46,7 +46,6 @@ public class Geocoding {
 	// Returns latitude, longitude with the use of the default API key
 	public double[] getCoordinates(String address) {
 
-		Scanner input = new Scanner(System.in);
 
 		while (true) {
 
@@ -55,22 +54,22 @@ public class Geocoding {
 
 			request.setRestrictToCountryCode("gr");
 			request.setBounds(23.27728, 37.63294, 24.15948, 38.20711);
-
+			double coord[] = new double[2];
 			try {
 
 				JOpenCageResponse response = jOpenCageGeocoder.forward(request);
 				JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
 				double lat = firstResultLatLng.getLat();
 				double lng = firstResultLatLng.getLng();
-				double coord[] = new double[] { lat, lng };
+				coord[0] = lat;
+				coord[1] = lng;
 				return coord;
 
 			} catch (NullPointerException e) {
 
-				System.err.println(
-						"The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
-				address = input.nextLine();
-
+				coord[0] = 0;
+				coord[1] = 0;
+				return coord;
 			}
 		}
 
@@ -78,9 +77,8 @@ public class Geocoding {
 
 	// Returns latitude and longitude with custom API key
 	public double[] getCoordinates(String address, String apiKey) {
-
-		Scanner input = new Scanner(System.in);
-
+ 
+		
 		while (true) {
 
 			JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder(apiKey);
@@ -102,7 +100,6 @@ public class Geocoding {
 
 				System.err.println(
 						"The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
-				address = input.nextLine();
 
 			}
 		}
