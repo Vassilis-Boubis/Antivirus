@@ -34,6 +34,7 @@ public class ContactPage {
 	private JLabel contact;
 	private ImageIcon logo = new ImageIcon(getClass().getResource("logo.jpeg"));
 	private JLabel logol;
+	private JLabel headline;
 
 
 	// Contact body: Profile images, labels and social media icons for contact
@@ -243,7 +244,16 @@ public class ContactPage {
 		panel.add(logol);
 
 
-
+		//Headline
+		headline = new JLabel("OUR TEAM");
+		headline.setFont(new Font("Arial", Font.BOLD, 35));
+		headline.setForeground(new Color(16, 44, 86));
+		headline.setBounds(685, 100, 600, 100);
+		panel.add(headline);
+		
+		
+		
+		
 
 
 		int x,y;
