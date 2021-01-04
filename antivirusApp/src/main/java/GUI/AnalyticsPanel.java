@@ -39,27 +39,31 @@ public class AnalyticsPanel extends JPanel {
 		g.setColor(new Color(16, 44, 86));
 		g.drawRoundRect(1030, 430, 340, 320, 10, 10);
 		Search obj = Search.getLastSearch();
-		int max = obj.getCasesPerDay(0); // finds max number of daily cases
-		for (int i = 1; i < 14; i++) {
-			if (obj.getCasesPerDay(i) > max) {
-				max = obj.getCasesPerDay(i);
+		if (obj.getIndexOfCases().get(0) != -1) {
+			int max = obj.getCasesPerDay(0); // finds max number of daily cases
+			for (int i = 1; i < 14; i++) {
+				if (obj.getCasesPerDay(i) > max) {
+					max = obj.getCasesPerDay(i);
+				}
+			}
+			g.setColor(new Color(26, 127, 237));
+			g.drawLine(300, 400, 300, 700);
+			g.drawLine(300, 700, 600, 700);
+			int i, y1, y2;
+
+			for (i = 0; i < 13; i++) { // Create the graph
+				g.setColor(Color.BLACK);
+				y1 = (int) (700 - 300 * obj.getCasesPerDay(i) / (1.2 * max));
+				y2 = (int) (700 - 300 * obj.getCasesPerDay(i + 1) / (1.2 * max));
+				g.drawLine(300 + 22 * i, y1, 300 + 22 * i + 20, y2);
 			}
 		}
-		g.setColor(new Color(26, 127, 237));
-		g.drawLine(300, 400, 300, 700);
-		g.drawLine(300, 700, 600, 700);
-		int i, y1, y2;
-
-		for (i = 0; i < 13; i++) { // Create the graph
-			g.setColor(Color.BLACK);
-			y1 = (int) (700 - 300 * obj.getCasesPerDay(i) / (1.2 * max));
-			y2 = (int) (700 - 300 * obj.getCasesPerDay(i + 1) / (1.2 * max));
-			g.drawLine(300 + 22 * i, y1, 300 + 22 * i + 20, y2);
-		}
-
 		int municipality = obj.getTotalCasesInMunicipality();
 		int selected = obj.getTotalNumberOfCasesInSelectedArea();
-
+		if (obj.getIndexOfCases().get(0) == -1) {
+			selected = 0;
+		}
+		int i;
 		int width = 15; // Create the % circle with line width = 15
 		for (i = 0; i <= width; i++) {
 			g.setColor(new Color(16, 44, 86));
