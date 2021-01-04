@@ -21,7 +21,9 @@ public class AntiPanel extends JPanel {
       g.fillRect(280,0,1120,800);
       g.setColor(new Color(255,255,255));
       g.fillRoundRect(1000, 250, 380, 450, 20, 20);
-
+      g.fillRect(0, 245, 280, 40);
+      g.setColor(new Color(26, 127, 237));
+      g.fillRect(0, 245, 5, 40);
 
    }
 
