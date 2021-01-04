@@ -54,6 +54,7 @@ public class HomePage {
 	private JScrollPane sp;
 	private JScrollPane sp2;
 	private JScrollPane sp3;
+	private JLabel outOfAttika;
 
 
 
@@ -160,6 +161,14 @@ public class HomePage {
 		search = new JTextField("Where do you want to go?", 50);
 		search.setBounds(350, 160, 600, 40);
 		panel.add(search);
+		
+		
+		outOfAttika = new JLabel("* This Location is not in Attika, Greece. Try again! *");
+		outOfAttika.setFont(new Font("Arial", Font.PLAIN, 14));
+		outOfAttika.setForeground(Color.RED);
+		outOfAttika.setBounds(380, 205, 400, 30);
+		outOfAttika.setVisible(false);
+		panel.add(outOfAttika);
 		
 
 
@@ -430,6 +439,14 @@ public class HomePage {
 	}
 
 
+	/**
+	 * @return the outOfAttika
+	 */
+	public JLabel getOutOfAttika() {
+		return outOfAttika;
+	}
+
+	
 
 
 
