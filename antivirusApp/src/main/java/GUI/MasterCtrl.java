@@ -57,17 +57,27 @@ public class MasterCtrl  {
 							String input = home.getSearch().getText();
 							if (checkInput(input)) {
 								Search obj = new Search(input);
-								analytics.makePage(obj);
-								home.getFrame().setVisible(false);
+								if (obj.getUiCoordinates(0) != -1 && obj.getUiCoordinates(1) != -1) {
+									analytics.makePage(obj);
+									home.getOutOfAttika().setVisible(false);
+									home.getFrame().setVisible(false);
+								} else {
+									home.getOutOfAttika().setVisible(true);
+								}
 							}
 							break;
 			case "Go!!" :
 							input = analytics.getSearch().getText();
 							if (checkInput(input)) {
 								Search obj = new Search(input);
-								analytics.getFrame().setVisible(false);
-								analytics.makePage(obj);
-								home.getFrame().setVisible(false);
+								if (obj.getUiCoordinates(0) != -1 && obj.getUiCoordinates(1) != -1) {
+									analytics.getFrame().setVisible(false);
+									analytics.makePage(obj);
+									analytics.getOutOfAttika().setVisible(false);
+									home.getFrame().setVisible(false);
+								} else {
+									analytics.getOutOfAttika().setVisible(true);
+								}
 							}
 							break;
 			}
@@ -82,11 +92,7 @@ public class MasterCtrl  {
 		}
 		return true;
 	}
-
-
-
-
-
+	
 
 
 }
