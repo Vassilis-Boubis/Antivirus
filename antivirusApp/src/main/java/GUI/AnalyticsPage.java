@@ -45,6 +45,9 @@ public class AnalyticsPage {
 	private JLabel percentage;
 	private JLabel percentLabel;
 	private JLabel noMunCasesMessage;
+	private JLabel outOfAttika;
+	private JLabel zeroCases;
+
 	
 	public void makePage(Search obj) {
 
@@ -156,6 +159,14 @@ public class AnalyticsPage {
 				panel.add(search);
 				
 
+				outOfAttika = new JLabel("* This Location is not in Attika, Greece. Try again! *");
+				outOfAttika.setFont(new Font("Arial", Font.PLAIN, 14));
+				outOfAttika.setForeground(Color.RED);
+				outOfAttika.setBounds(330, 145, 400, 30);
+				outOfAttika.setVisible(false);
+				panel.add(outOfAttika);
+				
+				
 
 				// Go search button
 
@@ -197,9 +208,16 @@ public class AnalyticsPage {
 			    mapViewer.setBounds(1000, 50, 350, 250);
 			    panel.getRootPane().add(mapViewer);
 			    
-			    String stats = "Total COVID-19 cases in your selected area:		"+ Integer.toString(obj.getTotalNumberOfCasesInSelectedArea());
+			    
+			    int totalCases = obj.getTotalNumberOfCasesInSelectedArea();
+			    if (obj.getIndexOfCases().get(0) == -1) {
+			    	totalCases = 0;
+			    }
+			    
+			    String stats = "Total COVID-19 cases in your selected area:		"+ Integer.toString(totalCases);
 			    stats += "\n\n\nTotal COVID-19 cases in Municipality:		" + Integer.toString(obj.getTotalCasesInMunicipality());
 			    descriptiveStatistics = new JTextArea(stats);
+			    descriptiveStatistics.setEditable(false);
 			    descriptiveStatistics.setBackground(new Color(247,247,247));
 			    descriptiveStatistics.setBounds(350, 200, 450, 100);
 			    panel.add(descriptiveStatistics);
@@ -209,9 +227,26 @@ public class AnalyticsPage {
 			    graph.setBounds(300, 330, 300, 50);
 			    panel.add(graph);
 			    
+			    
+			    
+			    zeroCases = new JLabel("There were 0 COVID-19 cases in this location the past 14 days.");
+			    zeroCases.setFont(new Font("Arial", Font.BOLD, 13));
+			    zeroCases.setBounds(340, 450, 400, 40);
+			    if (totalCases == 0) {
+			    	zeroCases.setVisible(true);
+			    } else {
+			    	zeroCases.setVisible(false);
+			    }
+			    panel.add(zeroCases);
+			    
+			    
 			    String percent;
 			    if (obj.getTotalCasesInMunicipality() != 0) {
-			    percent = Double.toString((double) obj.getTotalNumberOfCasesInSelectedArea() / obj.getTotalCasesInMunicipality()).substring(2,4)+"%";
+			    	if (obj.getIndexOfCases().get(0) != -1) {
+			    		percent = Double.toString((double) obj.getTotalNumberOfCasesInSelectedArea() / obj.getTotalCasesInMunicipality()).substring(2,4)+"%";
+			    	} else {
+			    		percent = Integer.toString(0) + "%";
+			    	}
 			    } else {
 			    	percent = "N/A";
 			    }
@@ -258,5 +293,12 @@ public class AnalyticsPage {
 		return frame;
 	}
 
+	
+	/**
+	 * @return the outOfAttika
+	 */
+	public JLabel getOutOfAttika() {
+		return outOfAttika;
+	}
 
 }
