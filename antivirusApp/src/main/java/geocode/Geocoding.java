@@ -73,35 +73,7 @@ public class Geocoding {
 
 	}
 
-	// Returns latitude and longitude with custom API key
-	public double[] getCoordinates(String address, String apiKey) {
-
-
-		while (true) {
-
-			JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder(apiKey);
-			JOpenCageForwardRequest request = new JOpenCageForwardRequest(address);
-
-			request.setRestrictToCountryCode("gr");
-			request.setBounds(23.27728, 37.63294, 24.15948, 38.20711);
-
-			try {
-
-				JOpenCageResponse response = jOpenCageGeocoder.forward(request);
-				JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
-				double lat = firstResultLatLng.getLat();
-				double lng = firstResultLatLng.getLng();
-				double coord[] = new double[] { lat, lng };
-				return coord;
-
-			} catch (NullPointerException e) {
-				double coord[] = new double[] {-1, -1};
-				return coord;
-
-			}
-		}
-
-	}
+	
 
 	public static double[][] getSquareCoords(double[] table) {
 
