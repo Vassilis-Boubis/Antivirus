@@ -15,6 +15,7 @@ import com.byteowls.jopencage.model.JOpenCageResponse;
 public class Geocoding {
 
 	private static Geocoding gc;
+	private static double[][] coords = new double[4][2];
 
 	/*
 	 * First variable of the table[] must be the latitude and the second must be the
@@ -53,37 +54,6 @@ public class Geocoding {
 
 			request.setRestrictToCountryCode("gr");
 			request.setBounds(23.27728, 37.63294, 24.15948, 38.20711);
-			double coord[] = new double[2];
-			try {
-
-				JOpenCageResponse response = jOpenCageGeocoder.forward(request);
-				JOpenCageLatLng firstResultLatLng = response.getFirstPosition();
-				double lat = firstResultLatLng.getLat();
-				double lng = firstResultLatLng.getLng();
-				coord[0] = lat;
-				coord[1] = lng;
-				return coord;
-
-			} catch (NullPointerException e) {
-				coord[0] = 0;
-				coord[1] = 0;
-				return coord;
-			}
-		}
-
-	}
-
-	// Returns latitude and longitude with custom API key
-	public double[] getCoordinates(String address, String apiKey) {
- 
-		
-		while (true) {
-
-			JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder(apiKey);
-			JOpenCageForwardRequest request = new JOpenCageForwardRequest(address);
-
-			request.setRestrictToCountryCode("gr");
-			request.setBounds(23.27728, 37.63294, 24.15948, 38.20711);
 
 			try {
 
@@ -95,13 +65,28 @@ public class Geocoding {
 				return coord;
 
 			} catch (NullPointerException e) {
-
-				System.err.println(
-						"The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
+				double coord[] = new double[] {-1, -1};
+				return coord;
 
 			}
 		}
 
+	}
+
+	
+
+	public static double[][] getSquareCoords(double[] table) {
+
+		coords[0][0] = table[0] + 0.009;
+		coords[0][1] = table[1] - 0.012;
+		coords[1][0] = coords[0][0];
+		coords[1][1] = coords[0][1] + 0.024;
+		coords[2][0] = coords[1][0] - 0.018;
+		coords[2][1] = coords[1][1];
+		coords[3][0] = coords[2][0];
+		coords[3][1] = coords[2][1] - 0.024;
+
+		return coords;
 	}
 
 	// Returns the municipality name with the use of reverse geocoding
