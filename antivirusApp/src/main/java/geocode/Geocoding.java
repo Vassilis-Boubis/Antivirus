@@ -46,7 +46,6 @@ public class Geocoding {
 	// Returns latitude, longitude with the use of the default API key
 	public double[] getCoordinates(String address) {
 
-		Scanner input = new Scanner(System.in);
 
 		while (true) {
 
@@ -66,10 +65,8 @@ public class Geocoding {
 				return coord;
 
 			} catch (NullPointerException e) {
-
-				System.err.println(
-						"The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
-				address = input.nextLine();
+				double coord[] = new double[] {-1, -1};
+				return coord;
 
 			}
 		}
@@ -79,7 +76,6 @@ public class Geocoding {
 	// Returns latitude and longitude with custom API key
 	public double[] getCoordinates(String address, String apiKey) {
 
-		Scanner input = new Scanner(System.in);
 
 		while (true) {
 
@@ -99,10 +95,8 @@ public class Geocoding {
 				return coord;
 
 			} catch (NullPointerException e) {
-
-				System.err.println(
-						"The area you have inserted is out of bounds(Attica)\n\nPlease enter the address again:");
-				address = input.nextLine();
+				double coord[] = new double[] {-1, -1};
+				return coord;
 
 			}
 		}
