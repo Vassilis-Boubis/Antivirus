@@ -28,12 +28,14 @@ public class Search {
 		coordinates = g.getCoordinates(userInput);
 		this.uiCoordinates[0] = coordinates[0];
 		this.uiCoordinates[1] = coordinates[1];
-		this.indexOfCases = getIndexForCasesInSelectedArea(Square.getCoordinates(coordinates), coordinates);
-		this.totalNumberOfCasesInSelectedArea = this.indexOfCases.size();
-		this.casesPerDay = casesPerDay();
-		String municipality = g.reverseMunicipality(uiCoordinates);
-		this.totalCasesInMunicipality = casesInMunicipality(municipality);
-		lastSearch = this;
+		if (this.uiCoordinates[0] != -1 && this.uiCoordinates[1] != -1) {
+			this.indexOfCases = getIndexForCasesInSelectedArea(Square.getCoordinates(coordinates), coordinates);
+			this.totalNumberOfCasesInSelectedArea = this.indexOfCases.size();
+			this.casesPerDay = casesPerDay();
+			String municipality = g.reverseMunicipality(uiCoordinates);
+			this.totalCasesInMunicipality = casesInMunicipality(municipality);
+			lastSearch = this;
+		} 
 	}
 
 	public ArrayList<Integer> getIndexForCasesInSelectedArea(double[][] squareCoords, double[] userCoords) { // Returns a list with indexes.
@@ -63,17 +65,18 @@ public class Search {
 
 		int[] casesperday = new int[14];
 		int count = 0;
-
-		for (int a = 1; a <= 14; a++) {
-			for (int i = 0; i < this.totalNumberOfCasesInSelectedArea; i++) {
-				if (data.getData(this.indexOfCases.get(i)).getDay() == a) {
-					count++;
+		
+		if (this.indexOfCases.get(0) != -1) {
+			for (int a = 1; a <= 14; a++) {
+				for (int i = 0; i < this.totalNumberOfCasesInSelectedArea; i++) {
+					if (data.getData(this.indexOfCases.get(i)).getDay() == a) {
+						count++;
+					}
 				}
+				casesperday[a - 1] = count;
+				count = 0;
 			}
-			casesperday[a - 1] = count;
-			count = 0;
 		}
-
 		return casesperday;
 	}
 	
