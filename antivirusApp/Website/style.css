@@ -1,0 +1,73 @@
+@import "http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css";
+
+body{
+  margin:0;
+  padding:0;
+  font-family: "Monsterrat"
+}
+
+.btn{
+  position: absolute;
+  top: 65%;
+  left: 38%;
+  transform: translate(-50%,-50%);
+  background: #102c56;
+  font-size: 20px;
+  color: white;
+  padding: 10px 30px;
+  cursor: pointer;
+  border-radius: 60px;
+
+}
+
+.btn{
+	 background: #00003e;
+}
+.btn:hover{
+  color: white;
+  background: rgb(26,232,237);
+  background: linear-gradient(90deg, rgba(26,232,237,1) 0%, rgba(111,0,255,1) 100%);
+
+}
+
+#box{
+  width:700px;
+  height: 250px;
+  overflow:hidden;
+  background:#f1f1f1;
+  box-shadow: 0 0 20px #1a7fed;
+  border-radius: 8px;
+  position: absolute;
+  top:70%;
+  left:38%;
+  transform: translate(-50%,-50%);
+  z-index: 9999;
+  padding: 10px;
+  text-align: center;
+  display: none;
+}
+
+#box span{
+  color:#102c56;
+  font-size: 40px;
+  display: block;
+  margin: 20px 0;
+
+}
+
+#box p{
+  color: #102c56;
+}
+.close{
+  font-size: 18px;
+  color: white;
+  padding: 10px 10px;
+  cursor: pointer;
+  background: #102c56;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.close :hover{
+  color: #102c56;
+}
