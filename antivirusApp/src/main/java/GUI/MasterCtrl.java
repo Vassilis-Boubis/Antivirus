@@ -58,13 +58,6 @@ public class MasterCtrl  {
 							String input = home.getSearch().getText();
 							if (checkInput(input)) {
 								Search obj = new Search(input);
-<<<<<<< HEAD
-								if (obj.getUiCoordinates(0) == 0 && obj.getUiCoordinates(1) == 0) {
-									break;
-								}
-								analytics.makePage(obj);
-								home.getFrame().setVisible(false);
-=======
 								if (obj.getUiCoordinates(0) != -1 && obj.getUiCoordinates(1) != -1) {
 									analytics.makePage(obj);
 									home.getOutOfAttika().setVisible(false);
@@ -72,21 +65,12 @@ public class MasterCtrl  {
 								} else {
 									home.getOutOfAttika().setVisible(true);
 								}
->>>>>>> master
 							}
 							break;
 			case "Go!!" :
 							input = analytics.getSearch().getText();
 							if (checkInput(input)) {
 								Search obj = new Search(input);
-<<<<<<< HEAD
-								if (obj.getUiCoordinates(0) == 0 && obj.getUiCoordinates(1) == 0) {
-									break;
-								}
-								analytics.getFrame().setVisible(false);
-								analytics.makePage(obj);
-								home.getFrame().setVisible(false);
-=======
 								if (obj.getUiCoordinates(0) != -1 && obj.getUiCoordinates(1) != -1) {
 									analytics.getFrame().setVisible(false);
 									analytics.makePage(obj);
@@ -95,7 +79,6 @@ public class MasterCtrl  {
 								} else {
 									analytics.getOutOfAttika().setVisible(true);
 								}
->>>>>>> master
 							}
 							break;
 			}
