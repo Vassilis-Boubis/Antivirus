@@ -47,13 +47,15 @@ public class AnalyticsPanel extends JPanel {
 			g.setColor(new Color(26, 127, 237));
 			g.drawLine(300, 400, 300, 700);
 			g.drawLine(300, 700, 600, 700);
+			g.fillRect(300, 400, 3, 300);
+			g.fillRect(300, 700, 420, 3);
 			int i, y1, y2;
 
 			for (i = 0; i < 13; i++) { // Create the graph
-				g.setColor(Color.BLACK);
+				g.setColor(new Color(16, 44, 86));
 				y1 = (int) (700 - 300 * obj.getCasesPerDay(i) / (1.2 * max));
 				y2 = (int) (700 - 300 * obj.getCasesPerDay(i + 1) / (1.2 * max));
-				g.drawLine(300 + 22 * i, y1, 300 + 22 * i + 20, y2);
+				g.drawLine(303 + 32 * i, y1, 303 + 32 * i + 30, y2);
 			}
 		}
 		int municipality = obj.getTotalCasesInMunicipality();
