@@ -3,6 +3,7 @@ package GUI;
 import java.io.IOException;
 
 import CSV.DataProcessor;
+import geocode.Geocoding;
 import geocode.Search;
 
 public class MasterCtrl  {
@@ -85,11 +86,13 @@ public class MasterCtrl  {
 	}
 
 
-	public static boolean checkInput(String userInput) {  // Prevents false searches from accidental button presses. Returns true if everything is okay to go!
-		
+	public static boolean checkInput(String userInput) { // Prevents false searches from accidental button presses.
+															// Returns true if everything is okay to go!
+
 		if (userInput.equals("Where do you want to go?") || userInput.equals(" ")) {
 			return false;
 		}
+		
 		return true;
 	}
 	

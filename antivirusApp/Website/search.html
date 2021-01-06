@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta content="description" name="description">
+  <meta name="google" content="notranslate" />
+
+
+  <title>Search | Antivirus</title>
+
+<link href="./main.3f6952e4.css" rel="stylesheet"></head>
+<link rel="stylesheet" href="style.css">
+
+<body class="minimal">
+<div id="site-border-left"></div>
+<div id="site-border-right"></div>
+<div id="site-border-top"></div>
+<div id="site-border-bottom"></div>
+ <!-- Add your content of header -->
+ <header>
+   <nav class="navbar  navbar-fixed-top navbar-inverse">
+     <div class="container">
+         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+           <span class="sr-only">Toggle navigation</span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+         </button>
+
+       <div class="collapse navbar-collapse" id="navbar-collapse">
+         <ul class="nav navbar-nav ">
+           <li><a href="./home.html" title="">01 : Home</a></li>
+           <li><a href="./search.html" title="">02 : Search</a></li>
+           <li><a href="./howitworks.html" title="">03 : How It Works</a></li>
+           <li><a href="./stats.html" title="">04 : Useful Statistics</a></li>
+           <li><a href="./contact.html" title="">05 : The Team</a></li>
+         </ul>
+
+       </div>
+     </div>
+   </nav>
+ </header>
+
+
+<body>
+
+  <a onclick="pop()" class="btn">Don't see what you were expecting?</a>
+  <div id="box">
+    <span class="ion-ios-help-outline"></span>
+    <p>-Please use Greek characters</p>
+    <p><p>-Try being as accurate as possible</p></p>
+    <p>-For a new search query, please reload the page first</p>
+
+    <a onclick="pop()" class="close">Close</a>
+    </div>
+
+    <script type="text/javascript">
+      var c =0;
+      function pop(){
+        if (c == 0){
+          document.getElementById("box").style.display = "block";
+          c = 1;
+        }else{
+          document.getElementById("box").style.display = "none";
+          c = 0;
+        }
+      }
+    </script>
+
+
+
+  <div class="hero-full-container background-image-container white-text-container" style="background-image: url('./assets/images/space2.jpg')"></div>
+  <link href="searchbar.css" rel="stylesheet"></link>
+   <div class= "search-bar" >
+        <input type="text" required class="search-bar-input">
+        <button class="search-btn" type="button">
+          <span>Search</span>
+        </button>
+      </div>
+      <script type="text/javascript" src="geocode.js"></script>
+
+
+<footer>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.js"></script>
+  <style
+  type="text/css">
+    /* Set the size of the div element that contains the map */
+    #map {height: 100%; width: 100%;}
+  </style>
+<body>
+  <div id="map"></div>
+  <p><a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a></p>
+
+
+</body>
+
+</footer>
+
+</body>
+
+</html>

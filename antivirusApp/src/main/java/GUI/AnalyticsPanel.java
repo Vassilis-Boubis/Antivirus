@@ -9,9 +9,7 @@ import java.awt.Graphics;
 import geocode.Search;
 import javax.swing.JPanel;
 
-/**
- * @author Dimitris Papakyriakopoulos
- * 
+/*
  *         This class, inherits from JPanel and, creates a custom Analytics page
  *         every time it is called. This Panel draws a 2x2 graph which shows the
  *         daily amount of COVID-19 cases in a selected area specified by other

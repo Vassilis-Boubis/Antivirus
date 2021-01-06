@@ -1,0 +1,80 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: none;
+	font-family: sans-serif;
+}
+
+.title h1 {
+	width: 90%;
+	margin: auto;
+	text-align: center;
+	padding-top: 150px;
+	color: #F5F5F5
+}
+
+.profile-box {
+	width: 250px;
+	height: 240px;
+	background: #00082e;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	box-shadow: 0 10px 10px 10px rgba(115, 193, 255, 0.1);
+	padding-left: 20px;
+	position: relative;
+}
+
+.profile-box img {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	border-radius: 6px;
+	transition: 0.3s;
+}
+
+.profile-box h3 {
+	margin-top: 130px;
+	margin-bottom: 25px;
+	color: #1a7fed;
+}
+
+.social-box:hover {
+	margin-left: -21px;
+	background: rgb(26, 232, 237);
+	background: linear-gradient(90deg, rgba(26, 232, 237, 1) 0%,
+		rgba(111, 0, 255, 1) 100%);
+	border-radius: 3px;
+	width: 250px;
+}
+
+.social-box .fa {
+	color: white;
+	margin-left: 40px;
+	cursor: pointer;
+	font-size: 15px;
+	padding-top: 5px;
+}
+
+.team-row {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	width: 90%;
+	margin: auto;
+	padding-top: 150px;
+}
+
+.profile-box img:hover {
+	width: 210px;
+	height: 175px;
+}
+
+.profile-box:hover {
+	background: #00001e;
+	transition: 0.5s;
+}
