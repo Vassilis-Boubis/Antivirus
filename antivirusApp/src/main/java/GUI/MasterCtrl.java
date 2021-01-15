@@ -3,7 +3,6 @@ package GUI;
 import java.io.IOException;
 
 import CSV.DataProcessor;
-import geocode.Geocoding;
 import geocode.Search;
 
 public class MasterCtrl  {

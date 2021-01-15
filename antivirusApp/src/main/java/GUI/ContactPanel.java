@@ -11,6 +11,11 @@ public class ContactPanel extends JPanel {
 
 
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -961802191548054025L;
+
 	@Override
 	   public void paintComponent(Graphics g) {
 	      super.paintComponent(g);

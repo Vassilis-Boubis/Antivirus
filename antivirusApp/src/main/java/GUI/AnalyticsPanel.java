@@ -7,7 +7,6 @@ import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-import java.awt.geom.Line2D;
 import geocode.Search;
 import javax.swing.JPanel;
 
@@ -49,7 +48,7 @@ public class AnalyticsPanel extends JPanel {
 			g.setColor(new Color(26, 127, 237));
 			g.fillRect(300, 400, 3, 350);
 			g.fillRect(300, 750, 420, 3);
-			int i, y1, y2;
+			int i;
 			Graphics2D g2 = (Graphics2D) g;
 			g2.setStroke(new BasicStroke(3));
 			for (i = 0; i < 14; i++) { // Create the graph

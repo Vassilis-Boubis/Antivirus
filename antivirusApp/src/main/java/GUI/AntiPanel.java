@@ -11,6 +11,11 @@ public class AntiPanel extends JPanel {
 
 
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -872560980592265965L;
+
 	@Override
    public void paintComponent(Graphics g) {
       super.paintComponent(g);

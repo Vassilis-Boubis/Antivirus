@@ -10,6 +10,11 @@ public class AboutPanel extends JPanel {
 
 
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 7242601404081798979L;
+
 	@Override
 	   public void paintComponent(Graphics g) {
 	      super.paintComponent(g);
