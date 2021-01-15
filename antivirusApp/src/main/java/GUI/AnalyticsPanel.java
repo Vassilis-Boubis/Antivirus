@@ -3,9 +3,11 @@
  */
 package GUI;
 
+import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Graphics;
-
+import java.awt.Graphics2D;
+import java.awt.geom.Line2D;
 import geocode.Search;
 import javax.swing.JPanel;
 
@@ -45,17 +47,17 @@ public class AnalyticsPanel extends JPanel {
 				}
 			}
 			g.setColor(new Color(26, 127, 237));
-			g.drawLine(300, 400, 300, 700);
-			g.drawLine(300, 700, 600, 700);
-			g.fillRect(300, 400, 3, 300);
-			g.fillRect(300, 700, 420, 3);
+			g.fillRect(300, 400, 3, 350);
+			g.fillRect(300, 750, 420, 3);
 			int i, y1, y2;
-
-			for (i = 0; i < 13; i++) { // Create the graph
+			Graphics2D g2 = (Graphics2D) g;
+			g2.setStroke(new BasicStroke(3));
+			for (i = 0; i < 14; i++) { // Create the graph
 				g.setColor(new Color(16, 44, 86));
-				y1 = (int) (700 - 300 * obj.getCasesPerDay(i) / (1.2 * max));
-				y2 = (int) (700 - 300 * obj.getCasesPerDay(i + 1) / (1.2 * max));
-				g.drawLine(303 + 32 * i, y1, 303 + 32 * i + 30, y2);
+				g.fillRect(305 + 27 * i, (int) (750 - 300 * obj.getCasesPerDay(i) / (1.15 * max)), 25,
+						(int) (300 * obj.getCasesPerDay(i) / (1.15 * max)));
+				g.drawString(Integer.toString(obj.getCasesPerDay(i)), 305 + 27 * i,
+						(int) (750 - 300 * obj.getCasesPerDay(i) / (1.15 * max) - 2));
 			}
 		}
 		int municipality = obj.getTotalCasesInMunicipality();
