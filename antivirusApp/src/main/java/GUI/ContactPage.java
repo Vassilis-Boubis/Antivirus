@@ -38,7 +38,7 @@ public class ContactPage {
 
 
 	// Contact body: Profile images, labels and social media icons for contact
-
+	
 
 	//Labels and images for dpapa
 
@@ -53,7 +53,11 @@ public class ContactPage {
 	private JLabel git = new JLabel();
 	private ImageIcon mail = new ImageIcon(getClass().getResource("mail.jpeg"));
 	private JLabel email = new JLabel();
-
+	
+	
+	
+	
+	
 
 	//Labels and images for lepla
 

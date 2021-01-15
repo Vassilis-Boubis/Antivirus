@@ -4,6 +4,7 @@ public class Distance {
 
 	public final static double AVERAGE_RADIUS_OF_EARTH_KM = 6371;
 
+	//calculate the distance between to points in a straight line, using the earths radius 
 	public boolean calculateDistanceInKilometer(double userLat, double userLng, double venueLat, double venueLng) {
 
 		double latDistance = Math.toRadians(userLat - venueLat);
