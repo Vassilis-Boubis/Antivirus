@@ -224,6 +224,8 @@ public class AnalyticsPage {
 			    
 			    
 			    graph = new JLabel("COVID-19 cases in the last 14 days:");
+			    graph.setFont(new Font("Arial", Font.BOLD, 14));
+			    graph.setForeground(new Color(16, 44, 86));
 			    graph.setBounds(300, 330, 300, 50);
 			    panel.add(graph);
 			    
