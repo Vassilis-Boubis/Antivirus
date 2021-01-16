@@ -56,8 +56,7 @@ public class HomePage {
 	private JScrollPane sp3;
 	private JLabel outOfAttika;
 
-
-
+	
 	public void makePage() {
 
 		// GUI frame and panel creation
