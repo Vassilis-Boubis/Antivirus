@@ -258,7 +258,7 @@ public class ContactPage {
 		
 		
 		
-
+		// This creates the team's images and the links for every person in a semi-automatic way
 
 		int x,y;
 
