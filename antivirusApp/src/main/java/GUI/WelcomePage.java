@@ -20,8 +20,8 @@ public class WelcomePage {
 	private JFrame frame;
 	private JPanel panel;
 	private JLabel imglabel;
-	private ImageIcon image = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/spaceblue.jpeg"));
-	private ImageIcon image3 = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/ffffff.png"));
+	private ImageIcon image = new ImageIcon(getClass().getResource("/spaceblue.jpeg"));
+	private ImageIcon image3 = new ImageIcon(getClass().getResource("/ffffff.png"));
 	private JLabel msg ;
 	private JButton start;
 	private JLabel startb;

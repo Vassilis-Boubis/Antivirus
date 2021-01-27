@@ -34,11 +34,11 @@ public class AnalyticsPage {
 	private JLabel about;
 	private JButton contactb;
 	private JLabel contact;
-	private ImageIcon image = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/e9ebee.png"));
-	private ImageIcon logo = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/logo.jpeg"));
+	private ImageIcon image = new ImageIcon(getClass().getResource("/e9ebee.png"));
+	private ImageIcon logo = new ImageIcon(getClass().getResource("/logo.jpeg"));
 	private JLabel logol;
 	private JTextField search;
-	private ImageIcon gs = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/search.png"));
+	private ImageIcon gs = new ImageIcon(getClass().getResource("/search.png"));
 	private JButton go;
 	private JTextArea descriptiveStatistics;
 	private JLabel graph;

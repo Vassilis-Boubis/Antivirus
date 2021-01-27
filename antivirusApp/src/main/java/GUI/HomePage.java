@@ -25,13 +25,13 @@ public class HomePage {
 	private JTextArea symptoms;
 	private JTextArea prevention;
 	private JTextArea treatments;
-	private ImageIcon image = new ImageIcon(getClass().getResource("/antivirusApp/src/main/resources/e9ebee.png"));
-	private ImageIcon image2 = new ImageIcon(getClass().getResource("/antivirusApp/src/main/resources/ffffff.png"));
-	private ImageIcon image3 = new ImageIcon(getClass().getResource("/antivirusApp/src/main/resources/0066ff.png"));
-	private ImageIcon image4 = new ImageIcon(getClass().getResource("/antivirusApp/src/main/resources/F7F7F7.png"));
-	private ImageIcon logo = new ImageIcon(getClass().getResource("/antivirusApp/src/main/resources/logo.jpeg"));
+	private ImageIcon image = new ImageIcon(getClass().getResource("/e9ebee.png"));
+	private ImageIcon image2 = new ImageIcon(getClass().getResource("/ffffff.png"));
+	private ImageIcon image3 = new ImageIcon(getClass().getResource("/0066ff.png"));
+	private ImageIcon image4 = new ImageIcon(getClass().getResource("/F7F7F7.png"));
+	private ImageIcon logo = new ImageIcon(getClass().getResource("/logo.jpeg"));
 	private JLabel logol;
-	private ImageIcon map = new ImageIcon(getClass().getResource("/antivirusApp/src/main/resources/map.png"));
+	private ImageIcon map = new ImageIcon(getClass().getResource("/map.png"));
 	private JLabel mapl;
 	private JButton homeb;
 	private JLabel home;
@@ -40,7 +40,7 @@ public class HomePage {
 	private JButton contactb;
 	private JLabel contact;
 	private JTextField search;
-	private ImageIcon gs = new ImageIcon(getClass().getResource("/antivirusApp/src/main/resources/search.png"));
+	private ImageIcon gs = new ImageIcon(getClass().getResource("/search.png"));
 	private JButton go;
 	private JButton widg1b;
 	private JLabel widg1;
