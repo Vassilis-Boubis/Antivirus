@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package GUI;
 
@@ -34,11 +34,11 @@ public class AnalyticsPage {
 	private JLabel about;
 	private JButton contactb;
 	private JLabel contact;
-	private ImageIcon image = new ImageIcon(getClass().getResource("e9ebee.png"));
-	private ImageIcon logo = new ImageIcon(getClass().getResource("logo.jpeg"));
+	private ImageIcon image = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/e9ebee.png"));
+	private ImageIcon logo = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/logo.jpeg"));
 	private JLabel logol;
 	private JTextField search;
-	private ImageIcon gs = new ImageIcon(getClass().getResource("search.png"));
+	private ImageIcon gs = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/search.png"));
 	private JButton go;
 	private JTextArea descriptiveStatistics;
 	private JLabel graph;
@@ -48,7 +48,7 @@ public class AnalyticsPage {
 	private JLabel outOfAttika;
 	private JLabel zeroCases;
 
-	
+
 	public void makePage(Search obj) {
 
 		// GUI frame and panel creation
@@ -150,14 +150,14 @@ public class AnalyticsPage {
 
 					}
 				});
-				
+
 				//Create the tier 2
 				//Add search bar
 
 				search = new JTextField(obj.getUserInput(), 50);
 				search.setBounds(300, 100, 600, 40);
 				panel.add(search);
-				
+
 
 				outOfAttika = new JLabel("* This Location is not in Attika, Greece. Try again! *");
 				outOfAttika.setFont(new Font("Arial", Font.PLAIN, 14));
@@ -165,8 +165,8 @@ public class AnalyticsPage {
 				outOfAttika.setBounds(330, 145, 400, 30);
 				outOfAttika.setVisible(false);
 				panel.add(outOfAttika);
-				
-				
+
+
 
 				// Go search button
 
@@ -190,30 +190,30 @@ public class AnalyticsPage {
 					}
 				});
 
-				
-				
+
+
 				logol = new JLabel();
 				logol.setIcon(logo);
 				logol.setBounds(290, 5, 250, 50);
 				panel.add(logol);
-				
-				
-				
-				
-				
+
+
+
+
+
 				//Display Map
 			    MapDisplay showMap = new MapDisplay();
 			    JXMapViewer mapViewer = new JXMapViewer();
 			    mapViewer = showMap.create(obj.getUiCoordinates(0), obj.getUiCoordinates(1));
 			    mapViewer.setBounds(1000, 50, 350, 250);
 			    panel.getRootPane().add(mapViewer);
-			    
-			    
+
+
 			    int totalCases = obj.getTotalNumberOfCasesInSelectedArea();
 			    if (obj.getIndexOfCases().get(0) == -1) {
 			    	totalCases = 0;
 			    }
-			    
+
 			    String stats = "Total COVID-19 cases in your selected area:		"+ Integer.toString(totalCases);
 			    stats += "\n\n\nTotal COVID-19 cases in Municipality:		" + Integer.toString(obj.getTotalCasesInMunicipality());
 			    descriptiveStatistics = new JTextArea(stats);
@@ -221,16 +221,16 @@ public class AnalyticsPage {
 			    descriptiveStatistics.setBackground(new Color(247,247,247));
 			    descriptiveStatistics.setBounds(350, 200, 450, 100);
 			    panel.add(descriptiveStatistics);
-			    
-			    
+
+
 			    graph = new JLabel("COVID-19 cases in the last 14 days:");
 			    graph.setFont(new Font("Arial", Font.BOLD, 14));
 			    graph.setForeground(new Color(16, 44, 86));
 			    graph.setBounds(300, 330, 300, 50);
 			    panel.add(graph);
-			    
-			    
-			    
+
+
+
 			    zeroCases = new JLabel("There were 0 COVID-19 cases in this location the past 14 days.");
 			    zeroCases.setFont(new Font("Arial", Font.BOLD, 13));
 			    zeroCases.setBounds(340, 450, 400, 40);
@@ -240,8 +240,8 @@ public class AnalyticsPage {
 			    	zeroCases.setVisible(false);
 			    }
 			    panel.add(zeroCases);
-			    
-			    
+
+
 			    String percent;
 			    if (obj.getTotalCasesInMunicipality() != 0) {
 			    	if (obj.getIndexOfCases().get(0) != -1) {
@@ -257,12 +257,12 @@ public class AnalyticsPage {
 			    percentage.setBounds(1160, 550, 150, 100);
 			    panel.add(percentage);
 
-			    
-			    
+
+
 			    percentLabel = new JLabel("% of cases compared to Total Municipality cases:");
 			    percentLabel.setBounds(1050, 400, 350, 100);
 			    panel.add(percentLabel);
-			    
+
 			    noMunCasesMessage = new JLabel("*No COVID - 19 cases were recorded in your location's municipality*");
 			    noMunCasesMessage.setFont(new Font("Arial", Font.PLAIN, 10));
 			    noMunCasesMessage.setForeground(Color.RED);
@@ -272,15 +272,15 @@ public class AnalyticsPage {
 			    	noMunCasesMessage.setVisible(true);
 			    }
 			    panel.add(noMunCasesMessage);
-			    
-			    
-			    
-			    
+
+
+
+
 		frame.setResizable(false);
 		frame.setVisible(true);
 	}
-		
-	
+
+
 	/**
 	 * @return the search
 	 */
@@ -295,7 +295,7 @@ public class AnalyticsPage {
 		return frame;
 	}
 
-	
+
 	/**
 	 * @return the outOfAttika
 	 */

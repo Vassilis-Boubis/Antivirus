@@ -23,13 +23,13 @@ public class AboutUsPage {
 	private AboutPanel panel;
 	private JButton homeb;
 	private JLabel home;
-	private ImageIcon white = new ImageIcon(getClass().getResource("ffffff.png"));
+	private ImageIcon white = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/ffffff.png"));
 	private JButton aboutb;
 	private JLabel about;
-	private ImageIcon backgroundColor = new ImageIcon(getClass().getResource("e9ebee.png"));
+	private ImageIcon backgroundColor = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/e9ebee.png"));
 	private JButton contactb;
 	private JLabel contact;
-	private ImageIcon logo = new ImageIcon(getClass().getResource("logo.jpeg"));
+	private ImageIcon logo = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/logo.jpeg"));
 	private JLabel logol;
 	private JButton wawb;  //Who are we  button
 	private JLabel waw;	   //Who are we label
@@ -37,20 +37,20 @@ public class AboutUsPage {
 	private JLabel hiw;
 	private JButton faqsb;
 	private JLabel  faqs;
-	private ImageIcon image4 = new ImageIcon(getClass().getResource("F7F7F7.png"));
+	private ImageIcon image4 = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/F7F7F7.png"));
 	private JTextArea whoAreWe;
 	private JTextArea faq;
 	private JScrollPane sp;   //Scrollpanels
 	private JScrollPane sp2;
 	private JScrollPane sp3;
 	private JLabel blue;
-	private ImageIcon blueColor = new ImageIcon(getClass().getResource("0066ff.png"));
-	private ImageIcon whoimg = new ImageIcon(getClass().getResource("whoarewe.jpeg"));
-	private ImageIcon hiwimg = new ImageIcon(getClass().getResource("howitworks.jpeg"));
-	private ImageIcon faqsimg = new ImageIcon(getClass().getResource("faqs.jpeg"));
+	private ImageIcon blueColor = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/0066ff.png"));
+	private ImageIcon whoimg = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/whoarewe.jpeg"));
+	private ImageIcon hiwimg = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/howitworks.jpeg"));
+	private ImageIcon faqsimg = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/faqs.jpeg"));
 	private JLabel body;
 
-	private ImageIcon hiwcontent = new ImageIcon(getClass().getResource("hiwimg.002.jpeg"));
+	private ImageIcon hiwcontent = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/hiwimg.002.jpeg"));
 	private JLabel hiwbody;
 
 
@@ -87,6 +87,7 @@ public class AboutUsPage {
 		homeb.addActionListener(new ActionListener() {
 
 
+			@Override
 			public void actionPerformed(ActionEvent e) {
 
 					String action = e.getActionCommand();
@@ -125,6 +126,7 @@ public class AboutUsPage {
 		contactb.addActionListener(new ActionListener() {
 
 
+			@Override
 			public void actionPerformed(ActionEvent e) {
 
 					String action = e.getActionCommand();
@@ -163,6 +165,7 @@ public class AboutUsPage {
 		wawb.addActionListener(new ActionListener() {
 
 
+			@Override
 			public void actionPerformed(ActionEvent e) {
 
 					String action = e.getActionCommand();
@@ -184,6 +187,7 @@ public class AboutUsPage {
 		hiwb.addActionListener(new ActionListener() {
 
 
+			@Override
 			public void actionPerformed(ActionEvent e) {
 
 					String action = e.getActionCommand();
@@ -204,6 +208,7 @@ public class AboutUsPage {
 		faqsb.addActionListener(new ActionListener() {
 
 
+			@Override
 			public void actionPerformed(ActionEvent e) {
 
 					String action = e.getActionCommand();

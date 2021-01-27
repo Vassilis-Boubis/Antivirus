@@ -26,42 +26,42 @@ public class ContactPage {
 	private ContactPanel panel;
 	private JButton homeb;
 	private JLabel home;
-	private ImageIcon white = new ImageIcon(getClass().getResource("ffffff.png"));
+	private ImageIcon white = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/ffffff.png"));
 	private JButton aboutb;
 	private JLabel about;
-	private ImageIcon backgroundColor = new ImageIcon(getClass().getResource("e9ebee.png"));
+	private ImageIcon backgroundColor = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/e9ebee.png"));
 	private JButton contactb;
 	private JLabel contact;
-	private ImageIcon logo = new ImageIcon(getClass().getResource("logo.jpeg"));
+	private ImageIcon logo = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/logo.jpeg"));
 	private JLabel logol;
 	private JLabel headline;
 
 
 	// Contact body: Profile images, labels and social media icons for contact
-	
+
 
 	//Labels and images for dpapa
 
-	private ImageIcon dpapa = new ImageIcon(getClass().getResource("dpapa.jpeg"));
+	private ImageIcon dpapa = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/dpapa.jpeg"));
 	private JLabel papak = new JLabel();
-	private ImageIcon linkedIn = new ImageIcon(getClass().getResource("in.jpeg"));
+	private ImageIcon linkedIn = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/in.jpeg"));
 	private JLabel lin = new JLabel();
 	private JLabel linkedInLink = new JLabel("https://www.linkedin.com/in/dpapakyriak");
 	private JLabel gitHubLink = new JLabel("https://github.com/dpapakyriak");
 	private JLabel mailLink = new JLabel("t8190137@aueb.gr");
-	private ImageIcon gitHub = new ImageIcon(getClass().getResource("github.jpeg"));
+	private ImageIcon gitHub = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/github.jpeg"));
 	private JLabel git = new JLabel();
-	private ImageIcon mail = new ImageIcon(getClass().getResource("mail.jpeg"));
+	private ImageIcon mail = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/mail.jpeg"));
 	private JLabel email = new JLabel();
-	
-	
-	
-	
-	
+
+
+
+
+
 
 	//Labels and images for lepla
 
-	private ImageIcon lepla = new ImageIcon(getClass().getResource("lepla.png"));
+	private ImageIcon lepla = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/lepla.png"));
 	private JLabel leplat =  new JLabel();
 	private JLabel lplin = new JLabel();
 	private JLabel lplinkedInLink = new JLabel("https://www.linkedin.com/in/eleftherios-platis-95b5561b4");
@@ -73,7 +73,7 @@ public class ContactPage {
 
 	// Labels for vboubis
 
-	private ImageIcon vboubis = new ImageIcon(getClass().getResource("vboubis.jpeg"));
+	private ImageIcon vboubis = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/vboubis.jpeg"));
 	private JLabel vaboubis = new JLabel();
 	private JLabel vblin = new JLabel();
 	private JLabel vblinkedInLink = new JLabel("https://www.linkedin.com/in/vassilis-bubis-b898a81b9");
@@ -85,7 +85,7 @@ public class ContactPage {
 
 	// Labels abak
 
-	private ImageIcon abak = new ImageIcon(getClass().getResource("abak.jpeg"));
+	private ImageIcon abak = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/abak.jpeg"));
 	private JLabel abaka = new JLabel();
 	private JLabel ablin = new JLabel();
 	private JLabel ablinkedInLink = new JLabel("https://www.linkedin.com/in/anastasis-bakaros-05b57a1b8");
@@ -96,7 +96,7 @@ public class ContactPage {
 
 	// Labels for anasto
 
-	private ImageIcon anasto = new ImageIcon(getClass().getResource("anasto.jpeg"));
+	private ImageIcon anasto = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/anasto.jpeg"));
 	private JLabel anastop = new JLabel();
 	private JLabel malin = new JLabel();
 	private JLabel malinkedInLink = new JLabel("https://www.linkedin.com/in/emmanouil-anastopoulos-ba59081b9");
@@ -108,7 +108,7 @@ public class ContactPage {
 
 	// Labels for gkletsos
 
-	private ImageIcon gkletsos = new ImageIcon(getClass().getResource("gkletsos.jpeg"));
+	private ImageIcon gkletsos = new ImageIcon(getClass().getResource("/antivirusApp/Source/images/gkletsos.jpeg"));
 	private JLabel kgkletsos = new JLabel();
 	private JLabel kglin = new JLabel();
 	private JLabel kglinkedInLink = new JLabel("N/A");
@@ -254,10 +254,10 @@ public class ContactPage {
 		headline.setForeground(new Color(16, 44, 86));
 		headline.setBounds(685, 100, 600, 100);
 		panel.add(headline);
-		
-		
-		
-		
+
+
+
+
 
 
 		int x,y;
