@@ -39,7 +39,6 @@ public class MasterCtrl  {
 							 home.getFrame().setVisible(true);
 							 about.getFrame().setVisible(false);
 							 contact.getFrame().setVisible(false);
-							 analytics.getFrame().setVisible(false);
 							 break;
 
 

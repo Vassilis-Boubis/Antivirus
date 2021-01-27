@@ -197,28 +197,6 @@ public class AboutUsPage {
 		});
 
 
-		faqsb = new JButton("FAQs");
-		faqsb.setIcon(image4);
-		faqs = new JLabel("FAQs");
-		faqs.setFont(new Font("Helvectiva", Font.BOLD, 12));
-		faqs.setForeground(new Color(16, 44, 86));
-		faqsb.add(faqs);
-		faqsb.setBounds(380, 420, 120, 30);
-		panel.add(faqsb);
-		faqsb.addActionListener(new ActionListener() {
-
-
-			@Override
-			public void actionPerformed(ActionEvent e) {
-
-					String action = e.getActionCommand();
-					uiHandler(action);
-
-			}
-		});
-
-
-
 
 
 
@@ -273,17 +251,6 @@ public class AboutUsPage {
 
 
 
-		String text3 = "FAQs!!!!";
-
-		faq = new JTextArea(text3);
-		faq.setFont(new Font("Arial", Font.PLAIN, 12));
-		sp3 = new JScrollPane(faq);   //Ability to scroll
-		sp3.setBounds(550, 300, 600, 430);
-		sp3.setBorder(BorderFactory.createEmptyBorder());
-		sp3.setVisible(false);
-		panel.add(sp3);
-
-
 		blue = new JLabel();
 		blue.setIcon(blueColor);
 		blue.setBounds(385, 335, 50, 3);
@@ -311,7 +278,6 @@ public class AboutUsPage {
 							blue.setBounds(385, 395, 50, 3);
 							body.setIcon(hiwimg);
 							sp.setVisible(false);
-							sp3.setVisible(false);
 							break;
 
 		case "Who Are We" :
@@ -320,7 +286,6 @@ public class AboutUsPage {
 							blue.setBounds(385, 335, 50, 3);
 							body.setIcon(whoimg);
 							sp2.setVisible(false);
-							sp3.setVisible(false);
 							break;
 
 		case "FAQs" :
