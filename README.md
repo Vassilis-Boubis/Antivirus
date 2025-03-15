@@ -69,3 +69,13 @@ The project consists of the following key components:
   * AnalyticsPanel.java - Displays statistical graphs and case distribution.
 
   * AntiPanel.java - A foundational panel used in multiple pages.
+
+
+## Authors 
+
+- [Vasileios Boumpis](https://github.com/Vassilis-Boubis)
+- [Dimitrios Papakyriakopoulos](https://github.com/dpapakyriak)
+- [Eleftherios Platis](https://github.com/lepla)
+- [Anastasios Bakaros](https://github.com/anastasisbak)
+- [Emanouil Anastopoulos](https://github.com/manosanasto)
+- [Konstantinos Gkletsos](https://github.com)
