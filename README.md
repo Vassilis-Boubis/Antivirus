@@ -73,9 +73,9 @@ The project consists of the following key components:
 
 ## Authors 
 
-- [Vasileios Boumpis](https://github.com/Vassilis-Boubis)
-- [Dimitrios Papakyriakopoulos](https://github.com/dpapakyriak)
-- [Eleftherios Platis](https://github.com/lepla)
-- [Anastasios Bakaros](https://github.com/anastasisbak)
-- [Emanouil Anastopoulos](https://github.com/manosanasto)
-- [Konstantinos Gkletsos](https://github.com)
+- [Vasileios Boumpis](https://github.com/Vassilis-Boubis) (Leader)
+- [Dimitrios Papakyriakopoulos](https://github.com/dpapakyriak) (Software Developer)
+- [Eleftherios Platis](https://github.com/lepla) (Software Developer)
+- [Anastasios Bakaros](https://github.com/anastasisbak) (Software Developer)
+- [Emanouil Anastopoulos](https://github.com/manosanasto) (Database Developer)
+- [Konstantinos Gkletsos](https://github.com) (Database Developer)
